@@ -1,11 +1,6 @@
-cd lightgbm
-./build.sh
-./test_speed.sh
-./test_accuracy.sh
-cd ..
-
+sh install_software.sh
 cd xgboost
-./build.sh
-./test_speed.sh
-./test_accuracy.sh
+sh build.sh
+sh test_speed.sh
+sh test_accuracy.sh
 cd ..
