@@ -4,7 +4,7 @@ input_filename = "HIGGS.csv"
 output_train = "higgs.train"
 output_test = "higgs.test"
 
-num_train = 10500000
+num_train = 2625000
 
 read_num = 0
 

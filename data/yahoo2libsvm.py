@@ -1,3 +1,5 @@
+num_rows = 473134 * 0.75
+
 def convert(input_filename, out_data_filename, out_query_filename, out_query_filename2):
 	input = open(input_filename,"r")
 	output_feature = open(out_data_filename,"w")
@@ -6,8 +8,13 @@ def convert(input_filename, out_data_filename, out_query_filename, out_query_fil
 	cur_cnt = 0
 	cur_doc_cnt = 0
 	last_qid = -1
+        row_counter = 0
 	while True:
 		line = input.readline()
+                if row_counter >= num_rows:
+                    break
+                row_counter = row_counter + 1
+
 		if not line:
 			break
 		tokens = line.split(' ')
