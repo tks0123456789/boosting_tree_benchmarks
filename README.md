@@ -6,8 +6,8 @@ Time for 500 boosting iterations in seconds. XGBoost version is [cee4aaf](https:
 
 |Dataset | Instances | Features | CPU_1 | CPU_2 | GPU | CPU_1/GPU | CPU_2/GPU|
 |--- | --- | --- | --- | --- | --- | --- | --- |
-|Yahoo LTR | 473,134 | 700 | 979 | 3824 | 629 | 1.56 | 6.08|
-|Higgs | 10,500,000 | 28 | 16080 | 31798 | 3681 | 4.37 | 8.64|
+|Yahoo LTR | 473,134 | 700 | 979 [log](xgboost/xgboost_yahoo_speed_cpuonly.log)| 3824 [log](xgboost/xgboost_yahoo_speed.log)| 629 [log](xgboost/xgboost_yahoo_speed_gpu.log)| 1.56 | 6.08|
+|Higgs | 10,500,000 | 28 | 16080 [log](xgboost/xgboost_higgs_speed_cpuonly.log)| 31798 [log](xgboost/xgboost_higgs_speed.log)| 3681 [log](xgboost/xgboost_higgs_speed_gpu.log)| 4.37 | 8.64|
 
 
 CPU_1:  Built without gpu plugin
