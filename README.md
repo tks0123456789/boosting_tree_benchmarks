@@ -12,7 +12,7 @@ Time for 500 boosting iterations in seconds. XGBoost version is [cee4aaf](https:
 
 CPU_1:  Built without gpu plugin
 
-CPU_2:  Built with gpu plugin [Build instruction](https://github.com/dmlc/xgboost/blob/master/plugin/updater_gpu/README.md#build)
+CPU_2:  Built with gpu plugin [Build instruction](https://github.com/dmlc/xgboost/blob/master/plugin/updater_gpu/README.md#build)  [My build log](build_w_GPUplugin.log)
 
 ###Environment
 |            |    v1    |
