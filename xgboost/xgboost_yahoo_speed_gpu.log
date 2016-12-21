@@ -1,0 +1,1004 @@
+[03:34:04] 473134x700 matrix with 105393924 entries loaded from ../data/yahoo.train
+[03:34:04] 19944 groups are loaded from ../data/yahoo.train.group
+[03:34:04] boosting round 0, 2.38419e-07 sec elapsed
+[03:34:14] Allocated 4026/7776 MB on GeForce GTX 1070
+[03:34:16] [0]
+[03:34:16] boosting round 1, 11.4228 sec elapsed
+[03:34:17] [1]
+[03:34:17] boosting round 2, 12.6796 sec elapsed
+[03:34:18] [2]
+[03:34:18] boosting round 3, 13.9138 sec elapsed
+[03:34:19] [3]
+[03:34:19] boosting round 4, 15.1619 sec elapsed
+[03:34:21] [4]
+[03:34:21] boosting round 5, 16.3974 sec elapsed
+[03:34:22] [5]
+[03:34:22] boosting round 6, 17.6364 sec elapsed
+[03:34:23] [6]
+[03:34:23] boosting round 7, 18.8774 sec elapsed
+[03:34:24] [7]
+[03:34:24] boosting round 8, 20.1273 sec elapsed
+[03:34:26] [8]
+[03:34:26] boosting round 9, 21.3794 sec elapsed
+[03:34:27] [9]
+[03:34:27] boosting round 10, 22.6334 sec elapsed
+[03:34:28] [10]
+[03:34:28] boosting round 11, 23.878 sec elapsed
+[03:34:29] [11]
+[03:34:29] boosting round 12, 25.1196 sec elapsed
+[03:34:31] [12]
+[03:34:31] boosting round 13, 26.3637 sec elapsed
+[03:34:32] [13]
+[03:34:32] boosting round 14, 27.6121 sec elapsed
+[03:34:33] [14]
+[03:34:33] boosting round 15, 28.8558 sec elapsed
+[03:34:34] [15]
+[03:34:34] boosting round 16, 30.1074 sec elapsed
+[03:34:35] [16]
+[03:34:35] boosting round 17, 31.3602 sec elapsed
+[03:34:37] [17]
+[03:34:37] boosting round 18, 32.6112 sec elapsed
+[03:34:38] [18]
+[03:34:38] boosting round 19, 33.8729 sec elapsed
+[03:34:39] [19]
+[03:34:39] boosting round 20, 35.1318 sec elapsed
+[03:34:41] [20]
+[03:34:41] boosting round 21, 36.375 sec elapsed
+[03:34:42] [21]
+[03:34:42] boosting round 22, 37.611 sec elapsed
+[03:34:43] [22]
+[03:34:43] boosting round 23, 38.8404 sec elapsed
+[03:34:44] [23]
+[03:34:44] boosting round 24, 40.0678 sec elapsed
+[03:34:45] [24]
+[03:34:45] boosting round 25, 41.3071 sec elapsed
+[03:34:47] [25]
+[03:34:47] boosting round 26, 42.5429 sec elapsed
+[03:34:48] [26]
+[03:34:48] boosting round 27, 43.784 sec elapsed
+[03:34:49] [27]
+[03:34:49] boosting round 28, 45.0306 sec elapsed
+[03:34:50] [28]
+[03:34:50] boosting round 29, 46.2717 sec elapsed
+[03:34:52] [29]
+[03:34:52] boosting round 30, 47.5149 sec elapsed
+[03:34:53] [30]
+[03:34:53] boosting round 31, 48.7784 sec elapsed
+[03:34:54] [31]
+[03:34:54] boosting round 32, 50.0253 sec elapsed
+[03:34:55] [32]
+[03:34:55] boosting round 33, 51.2902 sec elapsed
+[03:34:57] [33]
+[03:34:57] boosting round 34, 52.5356 sec elapsed
+[03:34:58] [34]
+[03:34:58] boosting round 35, 53.7967 sec elapsed
+[03:34:59] [35]
+[03:34:59] boosting round 36, 55.0612 sec elapsed
+[03:35:00] [36]
+[03:35:00] boosting round 37, 56.3219 sec elapsed
+[03:35:02] [37]
+[03:35:02] boosting round 38, 57.551 sec elapsed
+[03:35:03] [38]
+[03:35:03] boosting round 39, 58.8406 sec elapsed
+[03:35:04] [39]
+[03:35:04] boosting round 40, 60.0974 sec elapsed
+[03:35:05] [40]
+[03:35:05] boosting round 41, 61.3474 sec elapsed
+[03:35:07] [41]
+[03:35:07] boosting round 42, 62.6074 sec elapsed
+[03:35:08] [42]
+[03:35:08] boosting round 43, 63.8672 sec elapsed
+[03:35:09] [43]
+[03:35:09] boosting round 44, 65.1259 sec elapsed
+[03:35:11] [44]
+[03:35:11] boosting round 45, 66.3807 sec elapsed
+[03:35:12] [45]
+[03:35:12] boosting round 46, 67.6506 sec elapsed
+[03:35:13] [46]
+[03:35:13] boosting round 47, 68.9071 sec elapsed
+[03:35:14] [47]
+[03:35:14] boosting round 48, 70.1695 sec elapsed
+[03:35:16] [48]
+[03:35:16] boosting round 49, 71.4251 sec elapsed
+[03:35:17] [49]
+[03:35:17] boosting round 50, 72.6878 sec elapsed
+[03:35:18] [50]
+[03:35:18] boosting round 51, 73.9432 sec elapsed
+[03:35:19] [51]
+[03:35:19] boosting round 52, 75.1931 sec elapsed
+[03:35:21] [52]
+[03:35:21] boosting round 53, 76.4373 sec elapsed
+[03:35:22] [53]
+[03:35:22] boosting round 54, 77.7098 sec elapsed
+[03:35:23] [54]
+[03:35:23] boosting round 55, 78.9737 sec elapsed
+[03:35:24] [55]
+[03:35:24] boosting round 56, 80.2312 sec elapsed
+[03:35:26] [56]
+[03:35:26] boosting round 57, 81.4976 sec elapsed
+[03:35:27] [57]
+[03:35:27] boosting round 58, 82.741 sec elapsed
+[03:35:28] [58]
+[03:35:28] boosting round 59, 84.0056 sec elapsed
+[03:35:29] [59]
+[03:35:29] boosting round 60, 85.2552 sec elapsed
+[03:35:31] [60]
+[03:35:31] boosting round 61, 86.5101 sec elapsed
+[03:35:32] [61]
+[03:35:32] boosting round 62, 87.7584 sec elapsed
+[03:35:33] [62]
+[03:35:33] boosting round 63, 88.9793 sec elapsed
+[03:35:34] [63]
+[03:35:34] boosting round 64, 90.2361 sec elapsed
+[03:35:36] [64]
+[03:35:36] boosting round 65, 91.4996 sec elapsed
+[03:35:37] [65]
+[03:35:37] boosting round 66, 92.7567 sec elapsed
+[03:35:38] [66]
+[03:35:38] boosting round 67, 93.9956 sec elapsed
+[03:35:39] [67]
+[03:35:39] boosting round 68, 95.2586 sec elapsed
+[03:35:41] [68]
+[03:35:41] boosting round 69, 96.5164 sec elapsed
+[03:35:42] [69]
+[03:35:42] boosting round 70, 97.7672 sec elapsed
+[03:35:43] [70]
+[03:35:43] boosting round 71, 99.0229 sec elapsed
+[03:35:44] [71]
+[03:35:44] boosting round 72, 100.291 sec elapsed
+[03:35:46] [72]
+[03:35:46] boosting round 73, 101.564 sec elapsed
+[03:35:47] [73]
+[03:35:47] boosting round 74, 102.806 sec elapsed
+[03:35:48] [74]
+[03:35:48] boosting round 75, 104.055 sec elapsed
+[03:35:49] [75]
+[03:35:49] boosting round 76, 105.304 sec elapsed
+[03:35:51] [76]
+[03:35:51] boosting round 77, 106.601 sec elapsed
+[03:35:52] [77]
+[03:35:52] boosting round 78, 107.853 sec elapsed
+[03:35:53] [78]
+[03:35:53] boosting round 79, 109.105 sec elapsed
+[03:35:55] [79]
+[03:35:55] boosting round 80, 110.365 sec elapsed
+[03:35:56] [80]
+[03:35:56] boosting round 81, 111.617 sec elapsed
+[03:35:57] [81]
+[03:35:57] boosting round 82, 112.884 sec elapsed
+[03:35:58] [82]
+[03:35:58] boosting round 83, 114.135 sec elapsed
+[03:35:59] [83]
+[03:35:59] boosting round 84, 115.356 sec elapsed
+[03:36:01] [84]
+[03:36:01] boosting round 85, 116.622 sec elapsed
+[03:36:02] [85]
+[03:36:02] boosting round 86, 117.872 sec elapsed
+[03:36:03] [86]
+[03:36:03] boosting round 87, 119.125 sec elapsed
+[03:36:05] [87]
+[03:36:05] boosting round 88, 120.371 sec elapsed
+[03:36:06] [88]
+[03:36:06] boosting round 89, 121.612 sec elapsed
+[03:36:07] [89]
+[03:36:07] boosting round 90, 122.848 sec elapsed
+[03:36:08] [90]
+[03:36:08] boosting round 91, 124.075 sec elapsed
+[03:36:09] [91]
+[03:36:09] boosting round 92, 125.308 sec elapsed
+[03:36:11] [92]
+[03:36:11] boosting round 93, 126.57 sec elapsed
+[03:36:12] [93]
+[03:36:12] boosting round 94, 127.833 sec elapsed
+[03:36:13] [94]
+[03:36:13] boosting round 95, 129.085 sec elapsed
+[03:36:14] [95]
+[03:36:14] boosting round 96, 130.319 sec elapsed
+[03:36:16] [96]
+[03:36:16] boosting round 97, 131.564 sec elapsed
+[03:36:17] [97]
+[03:36:17] boosting round 98, 132.839 sec elapsed
+[03:36:18] [98]
+[03:36:18] boosting round 99, 134.094 sec elapsed
+[03:36:19] [99]
+[03:36:19] boosting round 100, 135.357 sec elapsed
+[03:36:21] [100]
+[03:36:21] boosting round 101, 136.598 sec elapsed
+[03:36:22] [101]
+[03:36:22] boosting round 102, 137.844 sec elapsed
+[03:36:23] [102]
+[03:36:23] boosting round 103, 139.093 sec elapsed
+[03:36:24] [103]
+[03:36:24] boosting round 104, 140.341 sec elapsed
+[03:36:26] [104]
+[03:36:26] boosting round 105, 141.602 sec elapsed
+[03:36:27] [105]
+[03:36:27] boosting round 106, 142.848 sec elapsed
+[03:36:28] [106]
+[03:36:28] boosting round 107, 144.09 sec elapsed
+[03:36:29] [107]
+[03:36:29] boosting round 108, 145.353 sec elapsed
+[03:36:31] [108]
+[03:36:31] boosting round 109, 146.624 sec elapsed
+[03:36:32] [109]
+[03:36:32] boosting round 110, 147.897 sec elapsed
+[03:36:33] [110]
+[03:36:33] boosting round 111, 149.154 sec elapsed
+[03:36:35] [111]
+[03:36:35] boosting round 112, 150.405 sec elapsed
+[03:36:36] [112]
+[03:36:36] boosting round 113, 151.677 sec elapsed
+[03:36:37] [113]
+[03:36:37] boosting round 114, 152.955 sec elapsed
+[03:36:38] [114]
+[03:36:38] boosting round 115, 154.2 sec elapsed
+[03:36:40] [115]
+[03:36:40] boosting round 116, 155.444 sec elapsed
+[03:36:41] [116]
+[03:36:41] boosting round 117, 156.675 sec elapsed
+[03:36:42] [117]
+[03:36:42] boosting round 118, 157.93 sec elapsed
+[03:36:43] [118]
+[03:36:43] boosting round 119, 159.189 sec elapsed
+[03:36:45] [119]
+[03:36:45] boosting round 120, 160.418 sec elapsed
+[03:36:46] [120]
+[03:36:46] boosting round 121, 161.639 sec elapsed
+[03:36:47] [121]
+[03:36:47] boosting round 122, 162.904 sec elapsed
+[03:36:48] [122]
+[03:36:48] boosting round 123, 164.134 sec elapsed
+[03:36:50] [123]
+[03:36:50] boosting round 124, 165.406 sec elapsed
+[03:36:51] [124]
+[03:36:51] boosting round 125, 166.684 sec elapsed
+[03:36:52] [125]
+[03:36:52] boosting round 126, 167.944 sec elapsed
+[03:36:53] [126]
+[03:36:53] boosting round 127, 169.169 sec elapsed
+[03:36:55] [127]
+[03:36:55] boosting round 128, 170.395 sec elapsed
+[03:36:56] [128]
+[03:36:56] boosting round 129, 171.65 sec elapsed
+[03:36:57] [129]
+[03:36:57] boosting round 130, 172.905 sec elapsed
+[03:36:58] [130]
+[03:36:58] boosting round 131, 174.147 sec elapsed
+[03:37:00] [131]
+[03:37:00] boosting round 132, 175.383 sec elapsed
+[03:37:01] [132]
+[03:37:01] boosting round 133, 176.614 sec elapsed
+[03:37:02] [133]
+[03:37:02] boosting round 134, 177.829 sec elapsed
+[03:37:03] [134]
+[03:37:03] boosting round 135, 179.053 sec elapsed
+[03:37:04] [135]
+[03:37:04] boosting round 136, 180.304 sec elapsed
+[03:37:06] [136]
+[03:37:06] boosting round 137, 181.55 sec elapsed
+[03:37:07] [137]
+[03:37:07] boosting round 138, 182.812 sec elapsed
+[03:37:08] [138]
+[03:37:08] boosting round 139, 184.046 sec elapsed
+[03:37:09] [139]
+[03:37:09] boosting round 140, 185.308 sec elapsed
+[03:37:11] [140]
+[03:37:11] boosting round 141, 186.569 sec elapsed
+[03:37:12] [141]
+[03:37:12] boosting round 142, 187.835 sec elapsed
+[03:37:13] [142]
+[03:37:13] boosting round 143, 189.095 sec elapsed
+[03:37:14] [143]
+[03:37:14] boosting round 144, 190.315 sec elapsed
+[03:37:16] [144]
+[03:37:16] boosting round 145, 191.606 sec elapsed
+[03:37:17] [145]
+[03:37:17] boosting round 146, 192.853 sec elapsed
+[03:37:18] [146]
+[03:37:18] boosting round 147, 194.134 sec elapsed
+[03:37:20] [147]
+[03:37:20] boosting round 148, 195.383 sec elapsed
+[03:37:21] [148]
+[03:37:21] boosting round 149, 196.603 sec elapsed
+[03:37:22] [149]
+[03:37:22] boosting round 150, 197.867 sec elapsed
+[03:37:23] [150]
+[03:37:23] boosting round 151, 199.126 sec elapsed
+[03:37:24] [151]
+[03:37:24] boosting round 152, 200.355 sec elapsed
+[03:37:26] [152]
+[03:37:26] boosting round 153, 201.597 sec elapsed
+[03:37:27] [153]
+[03:37:27] boosting round 154, 202.828 sec elapsed
+[03:37:28] [154]
+[03:37:28] boosting round 155, 204.086 sec elapsed
+[03:37:29] [155]
+[03:37:29] boosting round 156, 205.29 sec elapsed
+[03:37:31] [156]
+[03:37:31] boosting round 157, 206.507 sec elapsed
+[03:37:32] [157]
+[03:37:32] boosting round 158, 207.738 sec elapsed
+[03:37:33] [158]
+[03:37:33] boosting round 159, 209.002 sec elapsed
+[03:37:34] [159]
+[03:37:34] boosting round 160, 210.248 sec elapsed
+[03:37:36] [160]
+[03:37:36] boosting round 161, 211.485 sec elapsed
+[03:37:37] [161]
+[03:37:37] boosting round 162, 212.752 sec elapsed
+[03:37:38] [162]
+[03:37:38] boosting round 163, 214.009 sec elapsed
+[03:37:39] [163]
+[03:37:39] boosting round 164, 215.265 sec elapsed
+[03:37:41] [164]
+[03:37:41] boosting round 165, 216.507 sec elapsed
+[03:37:42] [165]
+[03:37:42] boosting round 166, 217.727 sec elapsed
+[03:37:43] [166]
+[03:37:43] boosting round 167, 218.941 sec elapsed
+[03:37:44] [167]
+[03:37:44] boosting round 168, 220.154 sec elapsed
+[03:37:46] [168]
+[03:37:46] boosting round 169, 221.395 sec elapsed
+[03:37:47] [169]
+[03:37:47] boosting round 170, 222.636 sec elapsed
+[03:37:48] [170]
+[03:37:48] boosting round 171, 223.892 sec elapsed
+[03:37:49] [171]
+[03:37:49] boosting round 172, 225.129 sec elapsed
+[03:37:51] [172]
+[03:37:51] boosting round 173, 226.373 sec elapsed
+[03:37:52] [173]
+[03:37:52] boosting round 174, 227.62 sec elapsed
+[03:37:53] [174]
+[03:37:53] boosting round 175, 228.852 sec elapsed
+[03:37:54] [175]
+[03:37:54] boosting round 176, 230.092 sec elapsed
+[03:37:55] [176]
+[03:37:55] boosting round 177, 231.348 sec elapsed
+[03:37:57] [177]
+[03:37:57] boosting round 178, 232.562 sec elapsed
+[03:37:58] [178]
+[03:37:58] boosting round 179, 233.825 sec elapsed
+[03:37:59] [179]
+[03:37:59] boosting round 180, 235.065 sec elapsed
+[03:38:00] [180]
+[03:38:00] boosting round 181, 236.316 sec elapsed
+[03:38:02] [181]
+[03:38:02] boosting round 182, 237.537 sec elapsed
+[03:38:03] [182]
+[03:38:03] boosting round 183, 238.776 sec elapsed
+[03:38:04] [183]
+[03:38:04] boosting round 184, 240.013 sec elapsed
+[03:38:05] [184]
+[03:38:05] boosting round 185, 241.256 sec elapsed
+[03:38:07] [185]
+[03:38:07] boosting round 186, 242.499 sec elapsed
+[03:38:08] [186]
+[03:38:08] boosting round 187, 243.77 sec elapsed
+[03:38:09] [187]
+[03:38:09] boosting round 188, 245.01 sec elapsed
+[03:38:10] [188]
+[03:38:10] boosting round 189, 246.254 sec elapsed
+[03:38:12] [189]
+[03:38:12] boosting round 190, 247.487 sec elapsed
+[03:38:13] [190]
+[03:38:13] boosting round 191, 248.721 sec elapsed
+[03:38:14] [191]
+[03:38:14] boosting round 192, 249.946 sec elapsed
+[03:38:15] [192]
+[03:38:15] boosting round 193, 251.19 sec elapsed
+[03:38:17] [193]
+[03:38:17] boosting round 194, 252.423 sec elapsed
+[03:38:18] [194]
+[03:38:18] boosting round 195, 253.67 sec elapsed
+[03:38:19] [195]
+[03:38:19] boosting round 196, 254.883 sec elapsed
+[03:38:20] [196]
+[03:38:20] boosting round 197, 256.122 sec elapsed
+[03:38:21] [197]
+[03:38:21] boosting round 198, 257.347 sec elapsed
+[03:38:23] [198]
+[03:38:23] boosting round 199, 258.556 sec elapsed
+[03:38:24] [199]
+[03:38:24] boosting round 200, 259.798 sec elapsed
+[03:38:25] [200]
+[03:38:25] boosting round 201, 261.04 sec elapsed
+[03:38:26] [201]
+[03:38:26] boosting round 202, 262.269 sec elapsed
+[03:38:28] [202]
+[03:38:28] boosting round 203, 263.51 sec elapsed
+[03:38:29] [203]
+[03:38:29] boosting round 204, 264.719 sec elapsed
+[03:38:30] [204]
+[03:38:30] boosting round 205, 265.942 sec elapsed
+[03:38:31] [205]
+[03:38:31] boosting round 206, 267.176 sec elapsed
+[03:38:33] [206]
+[03:38:33] boosting round 207, 268.413 sec elapsed
+[03:38:34] [207]
+[03:38:34] boosting round 208, 269.647 sec elapsed
+[03:38:35] [208]
+[03:38:35] boosting round 209, 270.877 sec elapsed
+[03:38:36] [209]
+[03:38:36] boosting round 210, 272.095 sec elapsed
+[03:38:37] [210]
+[03:38:37] boosting round 211, 273.327 sec elapsed
+[03:38:39] [211]
+[03:38:39] boosting round 212, 274.541 sec elapsed
+[03:38:40] [212]
+[03:38:40] boosting round 213, 275.789 sec elapsed
+[03:38:41] [213]
+[03:38:41] boosting round 214, 277.015 sec elapsed
+[03:38:42] [214]
+[03:38:42] boosting round 215, 278.255 sec elapsed
+[03:38:44] [215]
+[03:38:44] boosting round 216, 279.514 sec elapsed
+[03:38:45] [216]
+[03:38:45] boosting round 217, 280.737 sec elapsed
+[03:38:46] [217]
+[03:38:46] boosting round 218, 281.962 sec elapsed
+[03:38:47] [218]
+[03:38:47] boosting round 219, 283.191 sec elapsed
+[03:38:49] [219]
+[03:38:49] boosting round 220, 284.385 sec elapsed
+[03:38:50] [220]
+[03:38:50] boosting round 221, 285.594 sec elapsed
+[03:38:51] [221]
+[03:38:51] boosting round 222, 286.833 sec elapsed
+[03:38:52] [222]
+[03:38:52] boosting round 223, 288.066 sec elapsed
+[03:38:53] [223]
+[03:38:53] boosting round 224, 289.304 sec elapsed
+[03:38:55] [224]
+[03:38:55] boosting round 225, 290.511 sec elapsed
+[03:38:56] [225]
+[03:38:56] boosting round 226, 291.763 sec elapsed
+[03:38:57] [226]
+[03:38:57] boosting round 227, 293.005 sec elapsed
+[03:38:58] [227]
+[03:38:58] boosting round 228, 294.233 sec elapsed
+[03:39:00] [228]
+[03:39:00] boosting round 229, 295.454 sec elapsed
+[03:39:01] [229]
+[03:39:01] boosting round 230, 296.693 sec elapsed
+[03:39:02] [230]
+[03:39:02] boosting round 231, 297.956 sec elapsed
+[03:39:03] [231]
+[03:39:03] boosting round 232, 299.204 sec elapsed
+[03:39:05] [232]
+[03:39:05] boosting round 233, 300.443 sec elapsed
+[03:39:06] [233]
+[03:39:06] boosting round 234, 301.683 sec elapsed
+[03:39:07] [234]
+[03:39:07] boosting round 235, 302.934 sec elapsed
+[03:39:08] [235]
+[03:39:08] boosting round 236, 304.163 sec elapsed
+[03:39:10] [236]
+[03:39:10] boosting round 237, 305.404 sec elapsed
+[03:39:11] [237]
+[03:39:11] boosting round 238, 306.633 sec elapsed
+[03:39:12] [238]
+[03:39:12] boosting round 239, 307.87 sec elapsed
+[03:39:13] [239]
+[03:39:13] boosting round 240, 309.11 sec elapsed
+[03:39:14] [240]
+[03:39:14] boosting round 241, 310.357 sec elapsed
+[03:39:16] [241]
+[03:39:16] boosting round 242, 311.567 sec elapsed
+[03:39:17] [242]
+[03:39:17] boosting round 243, 312.788 sec elapsed
+[03:39:18] [243]
+[03:39:18] boosting round 244, 314.009 sec elapsed
+[03:39:19] [244]
+[03:39:19] boosting round 245, 315.22 sec elapsed
+[03:39:21] [245]
+[03:39:21] boosting round 246, 316.46 sec elapsed
+[03:39:22] [246]
+[03:39:22] boosting round 247, 317.708 sec elapsed
+[03:39:23] [247]
+[03:39:23] boosting round 248, 318.932 sec elapsed
+[03:39:24] [248]
+[03:39:24] boosting round 249, 320.177 sec elapsed
+[03:39:26] [249]
+[03:39:26] boosting round 250, 321.421 sec elapsed
+[03:39:27] [250]
+[03:39:27] boosting round 251, 322.676 sec elapsed
+[03:39:28] [251]
+[03:39:28] boosting round 252, 323.901 sec elapsed
+[03:39:29] [252]
+[03:39:29] boosting round 253, 325.125 sec elapsed
+[03:39:30] [253]
+[03:39:30] boosting round 254, 326.338 sec elapsed
+[03:39:32] [254]
+[03:39:32] boosting round 255, 327.539 sec elapsed
+[03:39:33] [255]
+[03:39:33] boosting round 256, 328.769 sec elapsed
+[03:39:34] [256]
+[03:39:34] boosting round 257, 330.008 sec elapsed
+[03:39:35] [257]
+[03:39:35] boosting round 258, 331.25 sec elapsed
+[03:39:37] [258]
+[03:39:37] boosting round 259, 332.504 sec elapsed
+[03:39:38] [259]
+[03:39:38] boosting round 260, 333.72 sec elapsed
+[03:39:39] [260]
+[03:39:39] boosting round 261, 334.959 sec elapsed
+[03:39:40] [261]
+[03:39:40] boosting round 262, 336.175 sec elapsed
+[03:39:42] [262]
+[03:39:42] boosting round 263, 337.402 sec elapsed
+[03:39:43] [263]
+[03:39:43] boosting round 264, 338.643 sec elapsed
+[03:39:44] [264]
+[03:39:44] boosting round 265, 339.869 sec elapsed
+[03:39:45] [265]
+[03:39:45] boosting round 266, 341.092 sec elapsed
+[03:39:46] [266]
+[03:39:46] boosting round 267, 342.338 sec elapsed
+[03:39:48] [267]
+[03:39:48] boosting round 268, 343.578 sec elapsed
+[03:39:49] [268]
+[03:39:49] boosting round 269, 344.832 sec elapsed
+[03:39:50] [269]
+[03:39:50] boosting round 270, 346.063 sec elapsed
+[03:39:51] [270]
+[03:39:51] boosting round 271, 347.267 sec elapsed
+[03:39:53] [271]
+[03:39:53] boosting round 272, 348.486 sec elapsed
+[03:39:54] [272]
+[03:39:54] boosting round 273, 349.699 sec elapsed
+[03:39:55] [273]
+[03:39:55] boosting round 274, 350.918 sec elapsed
+[03:39:56] [274]
+[03:39:56] boosting round 275, 352.147 sec elapsed
+[03:39:58] [275]
+[03:39:58] boosting round 276, 353.391 sec elapsed
+[03:39:59] [276]
+[03:39:59] boosting round 277, 354.634 sec elapsed
+[03:40:00] [277]
+[03:40:00] boosting round 278, 355.855 sec elapsed
+[03:40:01] [278]
+[03:40:01] boosting round 279, 357.097 sec elapsed
+[03:40:02] [279]
+[03:40:02] boosting round 280, 358.342 sec elapsed
+[03:40:04] [280]
+[03:40:04] boosting round 281, 359.599 sec elapsed
+[03:40:05] [281]
+[03:40:05] boosting round 282, 360.835 sec elapsed
+[03:40:06] [282]
+[03:40:06] boosting round 283, 362.073 sec elapsed
+[03:40:07] [283]
+[03:40:07] boosting round 284, 363.296 sec elapsed
+[03:40:09] [284]
+[03:40:09] boosting round 285, 364.565 sec elapsed
+[03:40:10] [285]
+[03:40:10] boosting round 286, 365.788 sec elapsed
+[03:40:11] [286]
+[03:40:11] boosting round 287, 367.038 sec elapsed
+[03:40:12] [287]
+[03:40:12] boosting round 288, 368.262 sec elapsed
+[03:40:14] [288]
+[03:40:14] boosting round 289, 369.494 sec elapsed
+[03:40:15] [289]
+[03:40:15] boosting round 290, 370.72 sec elapsed
+[03:40:16] [290]
+[03:40:16] boosting round 291, 371.95 sec elapsed
+[03:40:17] [291]
+[03:40:17] boosting round 292, 373.176 sec elapsed
+[03:40:19] [292]
+[03:40:19] boosting round 293, 374.409 sec elapsed
+[03:40:20] [293]
+[03:40:20] boosting round 294, 375.657 sec elapsed
+[03:40:21] [294]
+[03:40:21] boosting round 295, 376.91 sec elapsed
+[03:40:22] [295]
+[03:40:22] boosting round 296, 378.176 sec elapsed
+[03:40:24] [296]
+[03:40:24] boosting round 297, 379.403 sec elapsed
+[03:40:25] [297]
+[03:40:25] boosting round 298, 380.638 sec elapsed
+[03:40:26] [298]
+[03:40:26] boosting round 299, 381.892 sec elapsed
+[03:40:27] [299]
+[03:40:27] boosting round 300, 383.135 sec elapsed
+[03:40:28] [300]
+[03:40:28] boosting round 301, 384.343 sec elapsed
+[03:40:30] [301]
+[03:40:30] boosting round 302, 385.601 sec elapsed
+[03:40:31] [302]
+[03:40:31] boosting round 303, 386.855 sec elapsed
+[03:40:32] [303]
+[03:40:32] boosting round 304, 388.094 sec elapsed
+[03:40:33] [304]
+[03:40:33] boosting round 305, 389.329 sec elapsed
+[03:40:35] [305]
+[03:40:35] boosting round 306, 390.558 sec elapsed
+[03:40:36] [306]
+[03:40:36] boosting round 307, 391.763 sec elapsed
+[03:40:37] [307]
+[03:40:37] boosting round 308, 392.977 sec elapsed
+[03:40:38] [308]
+[03:40:38] boosting round 309, 394.178 sec elapsed
+[03:40:40] [309]
+[03:40:40] boosting round 310, 395.417 sec elapsed
+[03:40:41] [310]
+[03:40:41] boosting round 311, 396.643 sec elapsed
+[03:40:42] [311]
+[03:40:42] boosting round 312, 397.877 sec elapsed
+[03:40:43] [312]
+[03:40:43] boosting round 313, 399.125 sec elapsed
+[03:40:45] [313]
+[03:40:45] boosting round 314, 400.373 sec elapsed
+[03:40:46] [314]
+[03:40:46] boosting round 315, 401.596 sec elapsed
+[03:40:47] [315]
+[03:40:47] boosting round 316, 402.84 sec elapsed
+[03:40:48] [316]
+[03:40:48] boosting round 317, 404.075 sec elapsed
+[03:40:49] [317]
+[03:40:49] boosting round 318, 405.316 sec elapsed
+[03:40:51] [318]
+[03:40:51] boosting round 319, 406.536 sec elapsed
+[03:40:52] [319]
+[03:40:52] boosting round 320, 407.786 sec elapsed
+[03:40:53] [320]
+[03:40:53] boosting round 321, 409.038 sec elapsed
+[03:40:54] [321]
+[03:40:54] boosting round 322, 410.262 sec elapsed
+[03:40:56] [322]
+[03:40:56] boosting round 323, 411.492 sec elapsed
+[03:40:57] [323]
+[03:40:57] boosting round 324, 412.732 sec elapsed
+[03:40:58] [324]
+[03:40:58] boosting round 325, 413.969 sec elapsed
+[03:40:59] [325]
+[03:40:59] boosting round 326, 415.223 sec elapsed
+[03:41:01] [326]
+[03:41:01] boosting round 327, 416.45 sec elapsed
+[03:41:02] [327]
+[03:41:02] boosting round 328, 417.675 sec elapsed
+[03:41:03] [328]
+[03:41:03] boosting round 329, 418.914 sec elapsed
+[03:41:04] [329]
+[03:41:04] boosting round 330, 420.134 sec elapsed
+[03:41:06] [330]
+[03:41:06] boosting round 331, 421.403 sec elapsed
+[03:41:07] [331]
+[03:41:07] boosting round 332, 422.633 sec elapsed
+[03:41:08] [332]
+[03:41:08] boosting round 333, 423.879 sec elapsed
+[03:41:09] [333]
+[03:41:09] boosting round 334, 425.095 sec elapsed
+[03:41:10] [334]
+[03:41:10] boosting round 335, 426.33 sec elapsed
+[03:41:12] [335]
+[03:41:12] boosting round 336, 427.566 sec elapsed
+[03:41:13] [336]
+[03:41:13] boosting round 337, 428.803 sec elapsed
+[03:41:14] [337]
+[03:41:14] boosting round 338, 430.058 sec elapsed
+[03:41:15] [338]
+[03:41:15] boosting round 339, 431.313 sec elapsed
+[03:41:17] [339]
+[03:41:17] boosting round 340, 432.537 sec elapsed
+[03:41:18] [340]
+[03:41:18] boosting round 341, 433.788 sec elapsed
+[03:41:19] [341]
+[03:41:19] boosting round 342, 435.025 sec elapsed
+[03:41:20] [342]
+[03:41:20] boosting round 343, 436.251 sec elapsed
+[03:41:22] [343]
+[03:41:22] boosting round 344, 437.469 sec elapsed
+[03:41:23] [344]
+[03:41:23] boosting round 345, 438.697 sec elapsed
+[03:41:24] [345]
+[03:41:24] boosting round 346, 439.957 sec elapsed
+[03:41:25] [346]
+[03:41:25] boosting round 347, 441.174 sec elapsed
+[03:41:27] [347]
+[03:41:27] boosting round 348, 442.414 sec elapsed
+[03:41:28] [348]
+[03:41:28] boosting round 349, 443.64 sec elapsed
+[03:41:29] [349]
+[03:41:29] boosting round 350, 444.884 sec elapsed
+[03:41:30] [350]
+[03:41:30] boosting round 351, 446.132 sec elapsed
+[03:41:31] [351]
+[03:41:31] boosting round 352, 447.348 sec elapsed
+[03:41:33] [352]
+[03:41:33] boosting round 353, 448.583 sec elapsed
+[03:41:34] [353]
+[03:41:34] boosting round 354, 449.78 sec elapsed
+[03:41:35] [354]
+[03:41:35] boosting round 355, 450.992 sec elapsed
+[03:41:36] [355]
+[03:41:36] boosting round 356, 452.225 sec elapsed
+[03:41:38] [356]
+[03:41:38] boosting round 357, 453.459 sec elapsed
+[03:41:39] [357]
+[03:41:39] boosting round 358, 454.724 sec elapsed
+[03:41:40] [358]
+[03:41:40] boosting round 359, 455.95 sec elapsed
+[03:41:41] [359]
+[03:41:41] boosting round 360, 457.172 sec elapsed
+[03:41:43] [360]
+[03:41:43] boosting round 361, 458.429 sec elapsed
+[03:41:44] [361]
+[03:41:44] boosting round 362, 459.672 sec elapsed
+[03:41:45] [362]
+[03:41:45] boosting round 363, 460.899 sec elapsed
+[03:41:46] [363]
+[03:41:46] boosting round 364, 462.112 sec elapsed
+[03:41:47] [364]
+[03:41:47] boosting round 365, 463.334 sec elapsed
+[03:41:49] [365]
+[03:41:49] boosting round 366, 464.568 sec elapsed
+[03:41:50] [366]
+[03:41:50] boosting round 367, 465.832 sec elapsed
+[03:41:51] [367]
+[03:41:51] boosting round 368, 467.065 sec elapsed
+[03:41:52] [368]
+[03:41:52] boosting round 369, 468.281 sec elapsed
+[03:41:54] [369]
+[03:41:54] boosting round 370, 469.523 sec elapsed
+[03:41:55] [370]
+[03:41:55] boosting round 371, 470.757 sec elapsed
+[03:41:56] [371]
+[03:41:56] boosting round 372, 471.976 sec elapsed
+[03:41:57] [372]
+[03:41:57] boosting round 373, 473.198 sec elapsed
+[03:41:59] [373]
+[03:41:59] boosting round 374, 474.439 sec elapsed
+[03:42:00] [374]
+[03:42:00] boosting round 375, 475.713 sec elapsed
+[03:42:01] [375]
+[03:42:01] boosting round 376, 476.948 sec elapsed
+[03:42:02] [376]
+[03:42:02] boosting round 377, 478.172 sec elapsed
+[03:42:04] [377]
+[03:42:04] boosting round 378, 479.391 sec elapsed
+[03:42:05] [378]
+[03:42:05] boosting round 379, 480.612 sec elapsed
+[03:42:06] [379]
+[03:42:06] boosting round 380, 481.861 sec elapsed
+[03:42:07] [380]
+[03:42:07] boosting round 381, 483.075 sec elapsed
+[03:42:08] [381]
+[03:42:08] boosting round 382, 484.305 sec elapsed
+[03:42:10] [382]
+[03:42:10] boosting round 383, 485.513 sec elapsed
+[03:42:11] [383]
+[03:42:11] boosting round 384, 486.755 sec elapsed
+[03:42:12] [384]
+[03:42:12] boosting round 385, 487.967 sec elapsed
+[03:42:13] [385]
+[03:42:13] boosting round 386, 489.192 sec elapsed
+[03:42:15] [386]
+[03:42:15] boosting round 387, 490.407 sec elapsed
+[03:42:16] [387]
+[03:42:16] boosting round 388, 491.643 sec elapsed
+[03:42:17] [388]
+[03:42:17] boosting round 389, 492.889 sec elapsed
+[03:42:18] [389]
+[03:42:18] boosting round 390, 494.115 sec elapsed
+[03:42:20] [390]
+[03:42:20] boosting round 391, 495.383 sec elapsed
+[03:42:21] [391]
+[03:42:21] boosting round 392, 496.631 sec elapsed
+[03:42:22] [392]
+[03:42:22] boosting round 393, 497.92 sec elapsed
+[03:42:23] [393]
+[03:42:23] boosting round 394, 499.175 sec elapsed
+[03:42:25] [394]
+[03:42:25] boosting round 395, 500.431 sec elapsed
+[03:42:26] [395]
+[03:42:26] boosting round 396, 501.658 sec elapsed
+[03:42:27] [396]
+[03:42:27] boosting round 397, 502.894 sec elapsed
+[03:42:28] [397]
+[03:42:28] boosting round 398, 504.112 sec elapsed
+[03:42:29] [398]
+[03:42:29] boosting round 399, 505.326 sec elapsed
+[03:42:31] [399]
+[03:42:31] boosting round 400, 506.534 sec elapsed
+[03:42:32] [400]
+[03:42:32] boosting round 401, 507.765 sec elapsed
+[03:42:33] [401]
+[03:42:33] boosting round 402, 508.995 sec elapsed
+[03:42:34] [402]
+[03:42:34] boosting round 403, 510.23 sec elapsed
+[03:42:36] [403]
+[03:42:36] boosting round 404, 511.423 sec elapsed
+[03:42:37] [404]
+[03:42:37] boosting round 405, 512.636 sec elapsed
+[03:42:38] [405]
+[03:42:38] boosting round 406, 513.846 sec elapsed
+[03:42:39] [406]
+[03:42:39] boosting round 407, 515.051 sec elapsed
+[03:42:40] [407]
+[03:42:40] boosting round 408, 516.295 sec elapsed
+[03:42:42] [408]
+[03:42:42] boosting round 409, 517.505 sec elapsed
+[03:42:43] [409]
+[03:42:43] boosting round 410, 518.738 sec elapsed
+[03:42:44] [410]
+[03:42:44] boosting round 411, 519.952 sec elapsed
+[03:42:45] [411]
+[03:42:45] boosting round 412, 521.19 sec elapsed
+[03:42:47] [412]
+[03:42:47] boosting round 413, 522.411 sec elapsed
+[03:42:48] [413]
+[03:42:48] boosting round 414, 523.641 sec elapsed
+[03:42:49] [414]
+[03:42:49] boosting round 415, 524.851 sec elapsed
+[03:42:50] [415]
+[03:42:50] boosting round 416, 526.046 sec elapsed
+[03:42:51] [416]
+[03:42:51] boosting round 417, 527.288 sec elapsed
+[03:42:53] [417]
+[03:42:53] boosting round 418, 528.509 sec elapsed
+[03:42:54] [418]
+[03:42:54] boosting round 419, 529.753 sec elapsed
+[03:42:55] [419]
+[03:42:55] boosting round 420, 530.978 sec elapsed
+[03:42:56] [420]
+[03:42:56] boosting round 421, 532.229 sec elapsed
+[03:42:58] [421]
+[03:42:58] boosting round 422, 533.495 sec elapsed
+[03:42:59] [422]
+[03:42:59] boosting round 423, 534.735 sec elapsed
+[03:43:00] [423]
+[03:43:00] boosting round 424, 535.984 sec elapsed
+[03:43:01] [424]
+[03:43:01] boosting round 425, 537.221 sec elapsed
+[03:43:03] [425]
+[03:43:03] boosting round 426, 538.492 sec elapsed
+[03:43:04] [426]
+[03:43:04] boosting round 427, 539.742 sec elapsed
+[03:43:05] [427]
+[03:43:05] boosting round 428, 540.957 sec elapsed
+[03:43:06] [428]
+[03:43:06] boosting round 429, 542.209 sec elapsed
+[03:43:08] [429]
+[03:43:08] boosting round 430, 543.44 sec elapsed
+[03:43:09] [430]
+[03:43:09] boosting round 431, 544.677 sec elapsed
+[03:43:10] [431]
+[03:43:10] boosting round 432, 545.908 sec elapsed
+[03:43:11] [432]
+[03:43:11] boosting round 433, 547.141 sec elapsed
+[03:43:13] [433]
+[03:43:13] boosting round 434, 548.381 sec elapsed
+[03:43:14] [434]
+[03:43:14] boosting round 435, 549.612 sec elapsed
+[03:43:15] [435]
+[03:43:15] boosting round 436, 550.84 sec elapsed
+[03:43:16] [436]
+[03:43:16] boosting round 437, 552.101 sec elapsed
+[03:43:17] [437]
+[03:43:17] boosting round 438, 553.313 sec elapsed
+[03:43:19] [438]
+[03:43:19] boosting round 439, 554.558 sec elapsed
+[03:43:20] [439]
+[03:43:20] boosting round 440, 555.799 sec elapsed
+[03:43:21] [440]
+[03:43:21] boosting round 441, 557.039 sec elapsed
+[03:43:22] [441]
+[03:43:22] boosting round 442, 558.269 sec elapsed
+[03:43:24] [442]
+[03:43:24] boosting round 443, 559.512 sec elapsed
+[03:43:25] [443]
+[03:43:25] boosting round 444, 560.728 sec elapsed
+[03:43:26] [444]
+[03:43:26] boosting round 445, 561.967 sec elapsed
+[03:43:27] [445]
+[03:43:27] boosting round 446, 563.212 sec elapsed
+[03:43:29] [446]
+[03:43:29] boosting round 447, 564.421 sec elapsed
+[03:43:30] [447]
+[03:43:30] boosting round 448, 565.645 sec elapsed
+[03:43:31] [448]
+[03:43:31] boosting round 449, 566.901 sec elapsed
+[03:43:32] [449]
+[03:43:32] boosting round 450, 568.131 sec elapsed
+[03:43:33] [450]
+[03:43:33] boosting round 451, 569.336 sec elapsed
+[03:43:35] [451]
+[03:43:35] boosting round 452, 570.572 sec elapsed
+[03:43:36] [452]
+[03:43:36] boosting round 453, 571.795 sec elapsed
+[03:43:37] [453]
+[03:43:37] boosting round 454, 573.013 sec elapsed
+[03:43:38] [454]
+[03:43:38] boosting round 455, 574.215 sec elapsed
+[03:43:40] [455]
+[03:43:40] boosting round 456, 575.426 sec elapsed
+[03:43:41] [456]
+[03:43:41] boosting round 457, 576.636 sec elapsed
+[03:43:42] [457]
+[03:43:42] boosting round 458, 577.847 sec elapsed
+[03:43:43] [458]
+[03:43:43] boosting round 459, 579.064 sec elapsed
+[03:43:44] [459]
+[03:43:44] boosting round 460, 580.315 sec elapsed
+[03:43:46] [460]
+[03:43:46] boosting round 461, 581.55 sec elapsed
+[03:43:47] [461]
+[03:43:47] boosting round 462, 582.781 sec elapsed
+[03:43:48] [462]
+[03:43:48] boosting round 463, 584.006 sec elapsed
+[03:43:49] [463]
+[03:43:49] boosting round 464, 585.256 sec elapsed
+[03:43:51] [464]
+[03:43:51] boosting round 465, 586.498 sec elapsed
+[03:43:52] [465]
+[03:43:52] boosting round 466, 587.717 sec elapsed
+[03:43:53] [466]
+[03:43:53] boosting round 467, 588.924 sec elapsed
+[03:43:54] [467]
+[03:43:54] boosting round 468, 590.148 sec elapsed
+[03:43:56] [468]
+[03:43:56] boosting round 469, 591.374 sec elapsed
+[03:43:57] [469]
+[03:43:57] boosting round 470, 592.587 sec elapsed
+[03:43:58] [470]
+[03:43:58] boosting round 471, 593.808 sec elapsed
+[03:43:59] [471]
+[03:43:59] boosting round 472, 595.034 sec elapsed
+[03:44:00] [472]
+[03:44:00] boosting round 473, 596.247 sec elapsed
+[03:44:02] [473]
+[03:44:02] boosting round 474, 597.457 sec elapsed
+[03:44:03] [474]
+[03:44:03] boosting round 475, 598.684 sec elapsed
+[03:44:04] [475]
+[03:44:04] boosting round 476, 599.896 sec elapsed
+[03:44:05] [476]
+[03:44:05] boosting round 477, 601.085 sec elapsed
+[03:44:06] [477]
+[03:44:06] boosting round 478, 602.285 sec elapsed
+[03:44:08] [478]
+[03:44:08] boosting round 479, 603.487 sec elapsed
+[03:44:09] [479]
+[03:44:09] boosting round 480, 604.692 sec elapsed
+[03:44:10] [480]
+[03:44:10] boosting round 481, 605.894 sec elapsed
+[03:44:11] [481]
+[03:44:11] boosting round 482, 607.143 sec elapsed
+[03:44:12] [482]
+[03:44:12] boosting round 483, 608.353 sec elapsed
+[03:44:14] [483]
+[03:44:14] boosting round 484, 609.559 sec elapsed
+[03:44:15] [484]
+[03:44:15] boosting round 485, 610.795 sec elapsed
+[03:44:16] [485]
+[03:44:16] boosting round 486, 612.026 sec elapsed
+[03:44:17] [486]
+[03:44:17] boosting round 487, 613.233 sec elapsed
+[03:44:19] [487]
+[03:44:19] boosting round 488, 614.475 sec elapsed
+[03:44:20] [488]
+[03:44:20] boosting round 489, 615.716 sec elapsed
+[03:44:21] [489]
+[03:44:21] boosting round 490, 616.941 sec elapsed
+[03:44:22] [490]
+[03:44:22] boosting round 491, 618.155 sec elapsed
+[03:44:24] [491]
+[03:44:24] boosting round 492, 619.379 sec elapsed
+[03:44:25] [492]
+[03:44:25] boosting round 493, 620.626 sec elapsed
+[03:44:26] [493]
+[03:44:26] boosting round 494, 621.852 sec elapsed
+[03:44:27] [494]
+[03:44:27] boosting round 495, 623.051 sec elapsed
+[03:44:28] [495]
+[03:44:28] boosting round 496, 624.264 sec elapsed
+[03:44:30] [496]
+[03:44:30] boosting round 497, 625.456 sec elapsed
+[03:44:31] [497]
+[03:44:31] boosting round 498, 626.652 sec elapsed
+[03:44:32] [498]
+[03:44:32] boosting round 499, 627.852 sec elapsed
+[03:44:33] [499]
+[03:44:33] update end, 629.061 sec in all
