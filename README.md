@@ -23,5 +23,6 @@ CPU_2:  Built with gpu plugin [Build instruction](https://github.com/dmlc/xgboos
 |Ubuntu      |14.04.5LTS|
 |VGA driver  |367.57    |
 |gcc         |4.8.4     |
+|cmake       |3.7.1     |
 |CUDA        |8.0       |
 |CUB         |1.6.4     |
