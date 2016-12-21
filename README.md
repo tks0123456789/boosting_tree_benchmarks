@@ -22,7 +22,6 @@ CPU_2:  Built with gpu plugin [Build instruction](https://github.com/dmlc/xgboos
 |GPU         |GTX 1070  |
 |Ubuntu      |14.04.5LTS|
 |VGA driver  |367.57    |
-|CUDA        |8.0       |
-|cuDNN       |5005      |
-|CUH         |1.6.4     |
 |gcc         |4.8.4     |
+|CUDA        |8.0       |
+|CUB         |1.6.4     |
