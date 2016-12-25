@@ -10,10 +10,6 @@ Time for 500 boosting iterations in seconds. XGBoost version is [1957e6f](https:
 |Higgs | 10,500,000 | 28 | 16061 [log](xgboost/xgboost_higgs_speed.log)| Error [log](xgboost/xgboost_higgs_speed_gpu.log)| ?|
 
 
-CPU_1:  Built without gpu plugin
-
-CPU_2:  Built with gpu plugin [Build instruction](https://github.com/dmlc/xgboost/blob/master/plugin/updater_gpu/README.md#build)
-
 ###Environment
 |Date        |2016/12/23|
 |------------|----------|
