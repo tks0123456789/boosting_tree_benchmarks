@@ -6,8 +6,8 @@ Time for 500 boosting iterations in seconds. XGBoost version is [1957e6f](https:
 
 |Dataset | Instances | Features | i7-4790K | GTX1070 | Speedup|
 |--- | --- | --- | --- | --- | --- |
-|Yahoo LTR | 473,134 | 700 | 956 [log](xgboost/xgboost_yahoo_speed_cpuonly.log)| 393 [log](xgboost/xgboost_yahoo_speed_gpu.log)| 2.43 |
-|Higgs | 10,500,000 | 28 | 16061 [log](xgboost/xgboost_higgs_speed_cpuonly.log)| Error [log](xgboost/xgboost_higgs_speed_gpu.log)| ?|
+|Yahoo LTR | 473,134 | 700 | 956 [log](xgboost/xgboost_yahoo_speed.log)| 393 [log](xgboost/xgboost_yahoo_speed_gpu.log)| 2.43 |
+|Higgs | 10,500,000 | 28 | 16061 [log](xgboost/xgboost_higgs_speed.log)| Error [log](xgboost/xgboost_higgs_speed_gpu.log)| ?|
 
 
 CPU_1:  Built without gpu plugin
