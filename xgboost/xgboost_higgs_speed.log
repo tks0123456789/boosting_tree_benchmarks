@@ -1,1502 +1,1502 @@
 [17:45:01] 10500000x28 matrix with 294000000 entries loaded from ../data/higgs.train
 [17:45:01] boosting round 0, 0 sec elapsed
-[17:45:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5308 extra nodes, 0 pruned nodes, max_depth=12
+[17:45:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5308 extra nodes, 0 pruned nodes, max_depth=12
 [17:45:36] [0]
 [17:45:36] boosting round 1, 35.7611 sec elapsed
-[17:46:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5310 extra nodes, 0 pruned nodes, max_depth=12
+[17:46:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5310 extra nodes, 0 pruned nodes, max_depth=12
 [17:46:08] [1]
 [17:46:08] boosting round 2, 67.7931 sec elapsed
-[17:46:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5454 extra nodes, 0 pruned nodes, max_depth=12
+[17:46:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5454 extra nodes, 0 pruned nodes, max_depth=12
 [17:46:40] [2]
 [17:46:40] boosting round 3, 99.4157 sec elapsed
-[17:47:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5548 extra nodes, 0 pruned nodes, max_depth=12
+[17:47:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5548 extra nodes, 0 pruned nodes, max_depth=12
 [17:47:12] [3]
 [17:47:12] boosting round 4, 131.22 sec elapsed
-[17:47:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5354 extra nodes, 0 pruned nodes, max_depth=12
+[17:47:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5354 extra nodes, 0 pruned nodes, max_depth=12
 [17:47:44] [4]
 [17:47:44] boosting round 5, 163.731 sec elapsed
-[17:48:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5540 extra nodes, 0 pruned nodes, max_depth=12
+[17:48:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5540 extra nodes, 0 pruned nodes, max_depth=12
 [17:48:16] [5]
 [17:48:16] boosting round 6, 195.892 sec elapsed
-[17:48:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5562 extra nodes, 0 pruned nodes, max_depth=12
+[17:48:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5562 extra nodes, 0 pruned nodes, max_depth=12
 [17:48:48] [6]
 [17:48:48] boosting round 7, 227.311 sec elapsed
-[17:49:19] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5292 extra nodes, 0 pruned nodes, max_depth=12
+[17:49:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5292 extra nodes, 0 pruned nodes, max_depth=12
 [17:49:20] [7]
 [17:49:20] boosting round 8, 259.08 sec elapsed
-[17:49:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5234 extra nodes, 0 pruned nodes, max_depth=12
+[17:49:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5234 extra nodes, 0 pruned nodes, max_depth=12
 [17:49:53] [8]
 [17:49:53] boosting round 9, 292.192 sec elapsed
-[17:50:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5222 extra nodes, 0 pruned nodes, max_depth=12
+[17:50:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5222 extra nodes, 0 pruned nodes, max_depth=12
 [17:50:25] [9]
 [17:50:25] boosting round 10, 324.178 sec elapsed
-[17:50:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5300 extra nodes, 0 pruned nodes, max_depth=12
+[17:50:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5300 extra nodes, 0 pruned nodes, max_depth=12
 [17:50:58] [10]
 [17:50:58] boosting round 11, 356.932 sec elapsed
-[17:51:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5326 extra nodes, 0 pruned nodes, max_depth=12
+[17:51:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5326 extra nodes, 0 pruned nodes, max_depth=12
 [17:51:29] [11]
 [17:51:29] boosting round 12, 388.83 sec elapsed
-[17:52:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4920 extra nodes, 0 pruned nodes, max_depth=12
+[17:52:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4920 extra nodes, 0 pruned nodes, max_depth=12
 [17:52:02] [12]
 [17:52:02] boosting round 13, 421.519 sec elapsed
-[17:52:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5108 extra nodes, 0 pruned nodes, max_depth=12
+[17:52:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5108 extra nodes, 0 pruned nodes, max_depth=12
 [17:52:34] [13]
 [17:52:34] boosting round 14, 453.734 sec elapsed
-[17:53:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4868 extra nodes, 0 pruned nodes, max_depth=12
+[17:53:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4868 extra nodes, 0 pruned nodes, max_depth=12
 [17:53:07] [14]
 [17:53:07] boosting round 15, 486.635 sec elapsed
-[17:53:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4940 extra nodes, 0 pruned nodes, max_depth=12
+[17:53:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4940 extra nodes, 0 pruned nodes, max_depth=12
 [17:53:40] [15]
 [17:53:40] boosting round 16, 519.145 sec elapsed
-[17:54:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5076 extra nodes, 0 pruned nodes, max_depth=12
+[17:54:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5076 extra nodes, 0 pruned nodes, max_depth=12
 [17:54:13] [16]
 [17:54:13] boosting round 17, 552.035 sec elapsed
-[17:54:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4740 extra nodes, 0 pruned nodes, max_depth=12
+[17:54:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4740 extra nodes, 0 pruned nodes, max_depth=12
 [17:54:45] [17]
 [17:54:45] boosting round 18, 584.36 sec elapsed
-[17:55:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4970 extra nodes, 0 pruned nodes, max_depth=12
+[17:55:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4970 extra nodes, 0 pruned nodes, max_depth=12
 [17:55:18] [18]
 [17:55:18] boosting round 19, 616.947 sec elapsed
-[17:55:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5042 extra nodes, 0 pruned nodes, max_depth=12
+[17:55:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5042 extra nodes, 0 pruned nodes, max_depth=12
 [17:55:50] [19]
 [17:55:50] boosting round 20, 649.539 sec elapsed
-[17:56:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4696 extra nodes, 0 pruned nodes, max_depth=12
+[17:56:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4696 extra nodes, 0 pruned nodes, max_depth=12
 [17:56:24] [20]
 [17:56:24] boosting round 21, 683.131 sec elapsed
-[17:56:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4684 extra nodes, 0 pruned nodes, max_depth=12
+[17:56:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4684 extra nodes, 0 pruned nodes, max_depth=12
 [17:56:56] [21]
 [17:56:56] boosting round 22, 715.688 sec elapsed
-[17:57:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4552 extra nodes, 0 pruned nodes, max_depth=12
+[17:57:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4552 extra nodes, 0 pruned nodes, max_depth=12
 [17:57:29] [22]
 [17:57:29] boosting round 23, 748.349 sec elapsed
-[17:58:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4668 extra nodes, 0 pruned nodes, max_depth=12
+[17:58:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4668 extra nodes, 0 pruned nodes, max_depth=12
 [17:58:01] [23]
 [17:58:01] boosting round 24, 780.809 sec elapsed
-[17:58:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4802 extra nodes, 0 pruned nodes, max_depth=12
+[17:58:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4802 extra nodes, 0 pruned nodes, max_depth=12
 [17:58:34] [24]
 [17:58:34] boosting round 25, 813.808 sec elapsed
-[17:59:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4056 extra nodes, 0 pruned nodes, max_depth=12
+[17:59:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4056 extra nodes, 0 pruned nodes, max_depth=12
 [17:59:08] [25]
 [17:59:08] boosting round 26, 847.269 sec elapsed
-[17:59:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5054 extra nodes, 0 pruned nodes, max_depth=12
+[17:59:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5054 extra nodes, 0 pruned nodes, max_depth=12
 [17:59:42] [26]
 [17:59:42] boosting round 27, 880.977 sec elapsed
-[18:00:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4224 extra nodes, 0 pruned nodes, max_depth=12
+[18:00:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4224 extra nodes, 0 pruned nodes, max_depth=12
 [18:00:15] [27]
 [18:00:15] boosting round 28, 914.492 sec elapsed
-[18:00:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5060 extra nodes, 0 pruned nodes, max_depth=12
+[18:00:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5060 extra nodes, 0 pruned nodes, max_depth=12
 [18:00:49] [28]
 [18:00:49] boosting round 29, 948.035 sec elapsed
-[18:01:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3492 extra nodes, 0 pruned nodes, max_depth=12
+[18:01:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3492 extra nodes, 0 pruned nodes, max_depth=12
 [18:01:22] [29]
 [18:01:22] boosting round 30, 981.778 sec elapsed
-[18:01:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3998 extra nodes, 0 pruned nodes, max_depth=12
+[18:01:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3998 extra nodes, 0 pruned nodes, max_depth=12
 [18:01:56] [30]
 [18:01:56] boosting round 31, 1015.71 sec elapsed
-[18:02:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3540 extra nodes, 0 pruned nodes, max_depth=12
+[18:02:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3540 extra nodes, 0 pruned nodes, max_depth=12
 [18:02:30] [31]
 [18:02:30] boosting round 32, 1049.3 sec elapsed
-[18:03:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4092 extra nodes, 0 pruned nodes, max_depth=12
+[18:03:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4092 extra nodes, 0 pruned nodes, max_depth=12
 [18:03:04] [32]
 [18:03:04] boosting round 33, 1083.28 sec elapsed
-[18:03:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4164 extra nodes, 0 pruned nodes, max_depth=12
+[18:03:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4164 extra nodes, 0 pruned nodes, max_depth=12
 [18:03:38] [33]
 [18:03:38] boosting round 34, 1117.07 sec elapsed
-[18:04:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2994 extra nodes, 0 pruned nodes, max_depth=12
+[18:04:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2994 extra nodes, 0 pruned nodes, max_depth=12
 [18:04:11] [34]
 [18:04:11] boosting round 35, 1150.16 sec elapsed
-[18:04:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3238 extra nodes, 0 pruned nodes, max_depth=12
+[18:04:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3238 extra nodes, 0 pruned nodes, max_depth=12
 [18:04:45] [35]
 [18:04:45] boosting round 36, 1184.16 sec elapsed
-[18:05:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2400 extra nodes, 0 pruned nodes, max_depth=12
+[18:05:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2400 extra nodes, 0 pruned nodes, max_depth=12
 [18:05:18] [36]
 [18:05:18] boosting round 37, 1217.51 sec elapsed
-[18:05:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4104 extra nodes, 0 pruned nodes, max_depth=12
+[18:05:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4104 extra nodes, 0 pruned nodes, max_depth=12
 [18:05:51] [37]
 [18:05:51] boosting round 38, 1250.43 sec elapsed
-[18:06:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
+[18:06:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
 [18:06:24] [38]
 [18:06:24] boosting round 39, 1283.13 sec elapsed
-[18:06:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4142 extra nodes, 0 pruned nodes, max_depth=12
+[18:06:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4142 extra nodes, 0 pruned nodes, max_depth=12
 [18:06:57] [39]
 [18:06:57] boosting round 40, 1316.89 sec elapsed
-[18:07:31] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2138 extra nodes, 0 pruned nodes, max_depth=12
+[18:07:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2138 extra nodes, 0 pruned nodes, max_depth=12
 [18:07:31] [40]
 [18:07:31] boosting round 41, 1350.45 sec elapsed
-[18:08:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4234 extra nodes, 0 pruned nodes, max_depth=12
+[18:08:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4234 extra nodes, 0 pruned nodes, max_depth=12
 [18:08:05] [41]
 [18:08:05] boosting round 42, 1383.91 sec elapsed
-[18:08:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3688 extra nodes, 0 pruned nodes, max_depth=12
+[18:08:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3688 extra nodes, 0 pruned nodes, max_depth=12
 [18:08:38] [42]
 [18:08:38] boosting round 43, 1417.31 sec elapsed
-[18:09:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2050 extra nodes, 0 pruned nodes, max_depth=12
+[18:09:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2050 extra nodes, 0 pruned nodes, max_depth=12
 [18:09:11] [43]
 [18:09:11] boosting round 44, 1450.3 sec elapsed
-[18:09:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3498 extra nodes, 0 pruned nodes, max_depth=12
+[18:09:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3498 extra nodes, 0 pruned nodes, max_depth=12
 [18:09:44] [44]
 [18:09:44] boosting round 45, 1483.72 sec elapsed
-[18:10:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1958 extra nodes, 0 pruned nodes, max_depth=12
+[18:10:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1958 extra nodes, 0 pruned nodes, max_depth=12
 [18:10:17] [45]
 [18:10:17] boosting round 46, 1516.52 sec elapsed
-[18:10:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1706 extra nodes, 0 pruned nodes, max_depth=12
+[18:10:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1706 extra nodes, 0 pruned nodes, max_depth=12
 [18:10:50] [46]
 [18:10:50] boosting round 47, 1549.77 sec elapsed
-[18:11:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1686 extra nodes, 0 pruned nodes, max_depth=12
+[18:11:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1686 extra nodes, 0 pruned nodes, max_depth=12
 [18:11:23] [47]
 [18:11:23] boosting round 48, 1582.89 sec elapsed
-[18:11:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1968 extra nodes, 0 pruned nodes, max_depth=12
+[18:11:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1968 extra nodes, 0 pruned nodes, max_depth=12
 [18:11:56] [48]
 [18:11:56] boosting round 49, 1615.5 sec elapsed
-[18:12:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4300 extra nodes, 0 pruned nodes, max_depth=12
+[18:12:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4300 extra nodes, 0 pruned nodes, max_depth=12
 [18:12:30] [49]
 [18:12:30] boosting round 50, 1649.41 sec elapsed
-[18:13:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2140 extra nodes, 0 pruned nodes, max_depth=12
+[18:13:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2140 extra nodes, 0 pruned nodes, max_depth=12
 [18:13:03] [50]
 [18:13:03] boosting round 51, 1682.42 sec elapsed
-[18:13:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1486 extra nodes, 0 pruned nodes, max_depth=12
+[18:13:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1486 extra nodes, 0 pruned nodes, max_depth=12
 [18:13:35] [51]
 [18:13:35] boosting round 52, 1714.41 sec elapsed
-[18:14:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1712 extra nodes, 0 pruned nodes, max_depth=12
+[18:14:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1712 extra nodes, 0 pruned nodes, max_depth=12
 [18:14:09] [52]
 [18:14:09] boosting round 53, 1748.14 sec elapsed
-[18:14:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1892 extra nodes, 0 pruned nodes, max_depth=12
+[18:14:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1892 extra nodes, 0 pruned nodes, max_depth=12
 [18:14:42] [53]
 [18:14:42] boosting round 54, 1781.3 sec elapsed
-[18:15:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3506 extra nodes, 0 pruned nodes, max_depth=12
+[18:15:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3506 extra nodes, 0 pruned nodes, max_depth=12
 [18:15:15] [54]
 [18:15:15] boosting round 55, 1814.43 sec elapsed
-[18:15:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2236 extra nodes, 0 pruned nodes, max_depth=12
+[18:15:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2236 extra nodes, 0 pruned nodes, max_depth=12
 [18:15:48] [55]
 [18:15:48] boosting round 56, 1847.38 sec elapsed
-[18:16:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2190 extra nodes, 0 pruned nodes, max_depth=12
+[18:16:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2190 extra nodes, 0 pruned nodes, max_depth=12
 [18:16:22] [56]
 [18:16:22] boosting round 57, 1881.31 sec elapsed
-[18:16:54] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
+[18:16:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
 [18:16:54] [57]
 [18:16:54] boosting round 58, 1913.37 sec elapsed
-[18:17:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4362 extra nodes, 0 pruned nodes, max_depth=12
+[18:17:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4362 extra nodes, 0 pruned nodes, max_depth=12
 [18:17:27] [58]
 [18:17:27] boosting round 59, 1946.31 sec elapsed
-[18:18:00] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1944 extra nodes, 0 pruned nodes, max_depth=12
+[18:18:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1944 extra nodes, 0 pruned nodes, max_depth=12
 [18:18:00] [59]
 [18:18:00] boosting round 60, 1979.24 sec elapsed
-[18:18:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1546 extra nodes, 0 pruned nodes, max_depth=12
+[18:18:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1546 extra nodes, 0 pruned nodes, max_depth=12
 [18:18:32] [60]
 [18:18:32] boosting round 61, 2011.35 sec elapsed
-[18:19:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1226 extra nodes, 0 pruned nodes, max_depth=12
+[18:19:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1226 extra nodes, 0 pruned nodes, max_depth=12
 [18:19:04] [61]
 [18:19:04] boosting round 62, 2043.87 sec elapsed
-[18:19:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3396 extra nodes, 0 pruned nodes, max_depth=12
+[18:19:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3396 extra nodes, 0 pruned nodes, max_depth=12
 [18:19:37] [62]
 [18:19:37] boosting round 63, 2076.86 sec elapsed
-[18:20:10] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3314 extra nodes, 0 pruned nodes, max_depth=12
+[18:20:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3314 extra nodes, 0 pruned nodes, max_depth=12
 [18:20:11] [63]
 [18:20:11] boosting round 64, 2109.99 sec elapsed
-[18:20:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 692 extra nodes, 0 pruned nodes, max_depth=12
+[18:20:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 692 extra nodes, 0 pruned nodes, max_depth=12
 [18:20:42] [64]
 [18:20:42] boosting round 65, 2141.45 sec elapsed
-[18:21:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3084 extra nodes, 0 pruned nodes, max_depth=12
+[18:21:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3084 extra nodes, 0 pruned nodes, max_depth=12
 [18:21:15] [65]
 [18:21:15] boosting round 66, 2174 sec elapsed
-[18:21:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3638 extra nodes, 0 pruned nodes, max_depth=12
+[18:21:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3638 extra nodes, 0 pruned nodes, max_depth=12
 [18:21:48] [66]
 [18:21:48] boosting round 67, 2207.01 sec elapsed
-[18:22:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4092 extra nodes, 0 pruned nodes, max_depth=12
+[18:22:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4092 extra nodes, 0 pruned nodes, max_depth=12
 [18:22:21] [67]
 [18:22:21] boosting round 68, 2240.45 sec elapsed
-[18:22:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1220 extra nodes, 0 pruned nodes, max_depth=12
+[18:22:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1220 extra nodes, 0 pruned nodes, max_depth=12
 [18:22:54] [68]
 [18:22:54] boosting round 69, 2273.02 sec elapsed
-[18:23:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1082 extra nodes, 0 pruned nodes, max_depth=12
+[18:23:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1082 extra nodes, 0 pruned nodes, max_depth=12
 [18:23:25] [69]
 [18:23:25] boosting round 70, 2304.22 sec elapsed
-[18:23:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4210 extra nodes, 0 pruned nodes, max_depth=12
+[18:23:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4210 extra nodes, 0 pruned nodes, max_depth=12
 [18:23:58] [70]
 [18:23:58] boosting round 71, 2337.55 sec elapsed
-[18:24:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3874 extra nodes, 0 pruned nodes, max_depth=12
+[18:24:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3874 extra nodes, 0 pruned nodes, max_depth=12
 [18:24:32] [71]
 [18:24:32] boosting round 72, 2371.71 sec elapsed
-[18:25:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1116 extra nodes, 0 pruned nodes, max_depth=12
+[18:25:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1116 extra nodes, 0 pruned nodes, max_depth=12
 [18:25:05] [72]
 [18:25:05] boosting round 73, 2404.64 sec elapsed
-[18:25:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4058 extra nodes, 0 pruned nodes, max_depth=12
+[18:25:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4058 extra nodes, 0 pruned nodes, max_depth=12
 [18:25:39] [73]
 [18:25:39] boosting round 74, 2438.39 sec elapsed
-[18:26:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4324 extra nodes, 0 pruned nodes, max_depth=12
+[18:26:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4324 extra nodes, 0 pruned nodes, max_depth=12
 [18:26:13] [74]
 [18:26:13] boosting round 75, 2472.55 sec elapsed
-[18:26:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1092 extra nodes, 0 pruned nodes, max_depth=12
+[18:26:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1092 extra nodes, 0 pruned nodes, max_depth=12
 [18:26:45] [75]
 [18:26:45] boosting round 76, 2504.5 sec elapsed
-[18:27:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2794 extra nodes, 0 pruned nodes, max_depth=12
+[18:27:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2794 extra nodes, 0 pruned nodes, max_depth=12
 [18:27:18] [76]
 [18:27:18] boosting round 77, 2537.58 sec elapsed
-[18:27:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 728 extra nodes, 0 pruned nodes, max_depth=12
+[18:27:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 728 extra nodes, 0 pruned nodes, max_depth=12
 [18:27:50] [77]
 [18:27:50] boosting round 78, 2569.29 sec elapsed
-[18:28:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1632 extra nodes, 0 pruned nodes, max_depth=12
+[18:28:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1632 extra nodes, 0 pruned nodes, max_depth=12
 [18:28:22] [78]
 [18:28:22] boosting round 79, 2601.06 sec elapsed
-[18:28:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1746 extra nodes, 0 pruned nodes, max_depth=12
+[18:28:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1746 extra nodes, 0 pruned nodes, max_depth=12
 [18:28:53] [79]
 [18:28:53] boosting round 80, 2632.67 sec elapsed
-[18:29:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2740 extra nodes, 0 pruned nodes, max_depth=12
+[18:29:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2740 extra nodes, 0 pruned nodes, max_depth=12
 [18:29:27] [80]
 [18:29:27] boosting round 81, 2666.67 sec elapsed
-[18:29:59] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1150 extra nodes, 0 pruned nodes, max_depth=12
+[18:29:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1150 extra nodes, 0 pruned nodes, max_depth=12
 [18:30:00] [81]
 [18:30:00] boosting round 82, 2699.06 sec elapsed
-[18:30:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2954 extra nodes, 0 pruned nodes, max_depth=12
+[18:30:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2954 extra nodes, 0 pruned nodes, max_depth=12
 [18:30:33] [82]
 [18:30:33] boosting round 83, 2732.44 sec elapsed
-[18:31:06] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4186 extra nodes, 0 pruned nodes, max_depth=12
+[18:31:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4186 extra nodes, 0 pruned nodes, max_depth=12
 [18:31:06] [83]
 [18:31:06] boosting round 84, 2765.65 sec elapsed
-[18:31:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2552 extra nodes, 0 pruned nodes, max_depth=12
+[18:31:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2552 extra nodes, 0 pruned nodes, max_depth=12
 [18:31:40] [84]
 [18:31:40] boosting round 85, 2799.08 sec elapsed
-[18:32:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3434 extra nodes, 0 pruned nodes, max_depth=12
+[18:32:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3434 extra nodes, 0 pruned nodes, max_depth=12
 [18:32:13] [85]
 [18:32:13] boosting round 86, 2832.77 sec elapsed
-[18:32:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3326 extra nodes, 0 pruned nodes, max_depth=12
+[18:32:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3326 extra nodes, 0 pruned nodes, max_depth=12
 [18:32:47] [86]
 [18:32:47] boosting round 87, 2866.12 sec elapsed
-[18:33:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1130 extra nodes, 0 pruned nodes, max_depth=12
+[18:33:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1130 extra nodes, 0 pruned nodes, max_depth=12
 [18:33:20] [87]
 [18:33:20] boosting round 88, 2899.44 sec elapsed
-[18:33:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3772 extra nodes, 0 pruned nodes, max_depth=12
+[18:33:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3772 extra nodes, 0 pruned nodes, max_depth=12
 [18:33:53] [88]
 [18:33:53] boosting round 89, 2932.67 sec elapsed
-[18:34:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2152 extra nodes, 0 pruned nodes, max_depth=12
+[18:34:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2152 extra nodes, 0 pruned nodes, max_depth=12
 [18:34:27] [89]
 [18:34:27] boosting round 90, 2966 sec elapsed
-[18:34:59] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 946 extra nodes, 0 pruned nodes, max_depth=12
+[18:34:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 946 extra nodes, 0 pruned nodes, max_depth=12
 [18:34:59] [90]
 [18:34:59] boosting round 91, 2998.54 sec elapsed
-[18:35:31] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 950 extra nodes, 0 pruned nodes, max_depth=12
+[18:35:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 950 extra nodes, 0 pruned nodes, max_depth=12
 [18:35:31] [91]
 [18:35:31] boosting round 92, 3030.12 sec elapsed
-[18:36:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1688 extra nodes, 0 pruned nodes, max_depth=12
+[18:36:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1688 extra nodes, 0 pruned nodes, max_depth=12
 [18:36:04] [92]
 [18:36:04] boosting round 93, 3063.72 sec elapsed
-[18:36:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1142 extra nodes, 0 pruned nodes, max_depth=12
+[18:36:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1142 extra nodes, 0 pruned nodes, max_depth=12
 [18:36:37] [93]
 [18:36:37] boosting round 94, 3096.41 sec elapsed
-[18:37:10] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3318 extra nodes, 0 pruned nodes, max_depth=12
+[18:37:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3318 extra nodes, 0 pruned nodes, max_depth=12
 [18:37:10] [94]
 [18:37:10] boosting round 95, 3129.72 sec elapsed
-[18:37:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2338 extra nodes, 0 pruned nodes, max_depth=12
+[18:37:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2338 extra nodes, 0 pruned nodes, max_depth=12
 [18:37:44] [95]
 [18:37:44] boosting round 96, 3163.86 sec elapsed
-[18:38:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
+[18:38:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
 [18:38:15] [96]
 [18:38:15] boosting round 97, 3194.74 sec elapsed
-[18:38:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2566 extra nodes, 0 pruned nodes, max_depth=12
+[18:38:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2566 extra nodes, 0 pruned nodes, max_depth=12
 [18:38:48] [97]
 [18:38:48] boosting round 98, 3227.83 sec elapsed
-[18:39:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 814 extra nodes, 0 pruned nodes, max_depth=12
+[18:39:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 814 extra nodes, 0 pruned nodes, max_depth=12
 [18:39:20] [98]
 [18:39:20] boosting round 99, 3259.58 sec elapsed
-[18:39:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1144 extra nodes, 0 pruned nodes, max_depth=12
+[18:39:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1144 extra nodes, 0 pruned nodes, max_depth=12
 [18:39:52] [99]
 [18:39:52] boosting round 100, 3291.74 sec elapsed
-[18:40:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2344 extra nodes, 0 pruned nodes, max_depth=12
+[18:40:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2344 extra nodes, 0 pruned nodes, max_depth=12
 [18:40:26] [100]
 [18:40:26] boosting round 101, 3325.05 sec elapsed
-[18:40:59] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3746 extra nodes, 0 pruned nodes, max_depth=12
+[18:40:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3746 extra nodes, 0 pruned nodes, max_depth=12
 [18:40:59] [101]
 [18:40:59] boosting round 102, 3358.46 sec elapsed
-[18:41:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2896 extra nodes, 0 pruned nodes, max_depth=12
+[18:41:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2896 extra nodes, 0 pruned nodes, max_depth=12
 [18:41:32] [102]
 [18:41:32] boosting round 103, 3391.55 sec elapsed
-[18:42:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4266 extra nodes, 0 pruned nodes, max_depth=12
+[18:42:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4266 extra nodes, 0 pruned nodes, max_depth=12
 [18:42:05] [103]
 [18:42:05] boosting round 104, 3424.84 sec elapsed
-[18:42:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3734 extra nodes, 0 pruned nodes, max_depth=12
+[18:42:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3734 extra nodes, 0 pruned nodes, max_depth=12
 [18:42:39] [104]
 [18:42:39] boosting round 105, 3458.35 sec elapsed
-[18:43:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 850 extra nodes, 0 pruned nodes, max_depth=12
+[18:43:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 850 extra nodes, 0 pruned nodes, max_depth=12
 [18:43:11] [105]
 [18:43:11] boosting round 106, 3490.59 sec elapsed
-[18:43:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
+[18:43:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
 [18:43:44] [106]
 [18:43:44] boosting round 107, 3523.1 sec elapsed
-[18:44:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1948 extra nodes, 0 pruned nodes, max_depth=12
+[18:44:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1948 extra nodes, 0 pruned nodes, max_depth=12
 [18:44:17] [107]
 [18:44:17] boosting round 108, 3555.92 sec elapsed
-[18:44:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 578 extra nodes, 0 pruned nodes, max_depth=12
+[18:44:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 578 extra nodes, 0 pruned nodes, max_depth=12
 [18:44:47] [108]
 [18:44:47] boosting round 109, 3586.67 sec elapsed
-[18:45:19] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 492 extra nodes, 0 pruned nodes, max_depth=12
+[18:45:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 492 extra nodes, 0 pruned nodes, max_depth=12
 [18:45:19] [109]
 [18:45:19] boosting round 110, 3618.31 sec elapsed
-[18:45:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3170 extra nodes, 0 pruned nodes, max_depth=12
+[18:45:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3170 extra nodes, 0 pruned nodes, max_depth=12
 [18:45:53] [110]
 [18:45:53] boosting round 111, 3652.26 sec elapsed
-[18:46:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3434 extra nodes, 0 pruned nodes, max_depth=12
+[18:46:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3434 extra nodes, 0 pruned nodes, max_depth=12
 [18:46:26] [111]
 [18:46:26] boosting round 112, 3685.63 sec elapsed
-[18:46:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 750 extra nodes, 0 pruned nodes, max_depth=12
+[18:46:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 750 extra nodes, 0 pruned nodes, max_depth=12
 [18:46:58] [112]
 [18:46:58] boosting round 113, 3717.67 sec elapsed
-[18:47:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4492 extra nodes, 0 pruned nodes, max_depth=12
+[18:47:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4492 extra nodes, 0 pruned nodes, max_depth=12
 [18:47:32] [113]
 [18:47:32] boosting round 114, 3751.22 sec elapsed
-[18:48:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3652 extra nodes, 0 pruned nodes, max_depth=12
+[18:48:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3652 extra nodes, 0 pruned nodes, max_depth=12
 [18:48:05] [114]
 [18:48:05] boosting round 115, 3784.5 sec elapsed
-[18:48:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
+[18:48:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
 [18:48:38] [115]
 [18:48:38] boosting round 116, 3817.32 sec elapsed
-[18:49:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3724 extra nodes, 0 pruned nodes, max_depth=12
+[18:49:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3724 extra nodes, 0 pruned nodes, max_depth=12
 [18:49:11] [116]
 [18:49:11] boosting round 117, 3850.69 sec elapsed
-[18:49:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 402 extra nodes, 0 pruned nodes, max_depth=12
+[18:49:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 402 extra nodes, 0 pruned nodes, max_depth=12
 [18:49:41] [117]
 [18:49:41] boosting round 118, 3880.39 sec elapsed
-[18:50:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2390 extra nodes, 0 pruned nodes, max_depth=12
+[18:50:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2390 extra nodes, 0 pruned nodes, max_depth=12
 [18:50:14] [118]
 [18:50:14] boosting round 119, 3913.2 sec elapsed
-[18:50:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3026 extra nodes, 0 pruned nodes, max_depth=12
+[18:50:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3026 extra nodes, 0 pruned nodes, max_depth=12
 [18:50:49] [119]
 [18:50:49] boosting round 120, 3948.14 sec elapsed
-[18:51:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2972 extra nodes, 0 pruned nodes, max_depth=12
+[18:51:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2972 extra nodes, 0 pruned nodes, max_depth=12
 [18:51:22] [120]
 [18:51:22] boosting round 121, 3981.71 sec elapsed
-[18:51:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
+[18:51:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
 [18:51:52] [121]
 [18:51:52] boosting round 122, 4011.59 sec elapsed
-[18:52:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4112 extra nodes, 0 pruned nodes, max_depth=12
+[18:52:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4112 extra nodes, 0 pruned nodes, max_depth=12
 [18:52:26] [122]
 [18:52:26] boosting round 123, 4045.31 sec elapsed
-[18:52:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2270 extra nodes, 0 pruned nodes, max_depth=12
+[18:52:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2270 extra nodes, 0 pruned nodes, max_depth=12
 [18:52:59] [123]
 [18:52:59] boosting round 124, 4078.09 sec elapsed
-[18:53:31] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2496 extra nodes, 0 pruned nodes, max_depth=12
+[18:53:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2496 extra nodes, 0 pruned nodes, max_depth=12
 [18:53:31] [124]
 [18:53:31] boosting round 125, 4110.24 sec elapsed
-[18:54:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3612 extra nodes, 0 pruned nodes, max_depth=12
+[18:54:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3612 extra nodes, 0 pruned nodes, max_depth=12
 [18:54:04] [125]
 [18:54:04] boosting round 126, 4143.27 sec elapsed
-[18:54:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 684 extra nodes, 0 pruned nodes, max_depth=12
+[18:54:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 684 extra nodes, 0 pruned nodes, max_depth=12
 [18:54:36] [126]
 [18:54:36] boosting round 127, 4175.09 sec elapsed
-[18:55:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1612 extra nodes, 0 pruned nodes, max_depth=12
+[18:55:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1612 extra nodes, 0 pruned nodes, max_depth=12
 [18:55:09] [127]
 [18:55:09] boosting round 128, 4208.21 sec elapsed
-[18:55:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4002 extra nodes, 0 pruned nodes, max_depth=12
+[18:55:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4002 extra nodes, 0 pruned nodes, max_depth=12
 [18:55:42] [128]
 [18:55:42] boosting round 129, 4241.69 sec elapsed
-[18:56:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 986 extra nodes, 0 pruned nodes, max_depth=12
+[18:56:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 986 extra nodes, 0 pruned nodes, max_depth=12
 [18:56:16] [129]
 [18:56:16] boosting round 130, 4275.44 sec elapsed
-[18:56:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1162 extra nodes, 0 pruned nodes, max_depth=12
+[18:56:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1162 extra nodes, 0 pruned nodes, max_depth=12
 [18:56:49] [130]
 [18:56:49] boosting round 131, 4307.94 sec elapsed
-[18:57:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 592 extra nodes, 0 pruned nodes, max_depth=12
+[18:57:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 592 extra nodes, 0 pruned nodes, max_depth=12
 [18:57:21] [131]
 [18:57:21] boosting round 132, 4340.32 sec elapsed
-[18:57:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3986 extra nodes, 0 pruned nodes, max_depth=12
+[18:57:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3986 extra nodes, 0 pruned nodes, max_depth=12
 [18:57:55] [132]
 [18:57:55] boosting round 133, 4374.41 sec elapsed
-[18:58:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 546 extra nodes, 0 pruned nodes, max_depth=12
+[18:58:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 546 extra nodes, 0 pruned nodes, max_depth=12
 [18:58:26] [133]
 [18:58:26] boosting round 134, 4405.45 sec elapsed
-[18:59:00] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3278 extra nodes, 0 pruned nodes, max_depth=12
+[18:59:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3278 extra nodes, 0 pruned nodes, max_depth=12
 [18:59:00] [134]
 [18:59:00] boosting round 135, 4439.6 sec elapsed
-[18:59:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4176 extra nodes, 0 pruned nodes, max_depth=12
+[18:59:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4176 extra nodes, 0 pruned nodes, max_depth=12
 [18:59:34] [135]
 [18:59:34] boosting round 136, 4473 sec elapsed
-[19:00:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3138 extra nodes, 0 pruned nodes, max_depth=12
+[19:00:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3138 extra nodes, 0 pruned nodes, max_depth=12
 [19:00:07] [136]
 [19:00:07] boosting round 137, 4506.63 sec elapsed
-[19:00:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 486 extra nodes, 0 pruned nodes, max_depth=12
+[19:00:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 486 extra nodes, 0 pruned nodes, max_depth=12
 [19:00:38] [137]
 [19:00:38] boosting round 138, 4537.17 sec elapsed
-[19:01:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1320 extra nodes, 0 pruned nodes, max_depth=12
+[19:01:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1320 extra nodes, 0 pruned nodes, max_depth=12
 [19:01:10] [138]
 [19:01:10] boosting round 139, 4569.03 sec elapsed
-[19:01:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1192 extra nodes, 0 pruned nodes, max_depth=12
+[19:01:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1192 extra nodes, 0 pruned nodes, max_depth=12
 [19:01:41] [139]
 [19:01:41] boosting round 140, 4600.73 sec elapsed
-[19:02:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2290 extra nodes, 0 pruned nodes, max_depth=12
+[19:02:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2290 extra nodes, 0 pruned nodes, max_depth=12
 [19:02:14] [140]
 [19:02:14] boosting round 141, 4633.48 sec elapsed
-[19:02:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3122 extra nodes, 0 pruned nodes, max_depth=12
+[19:02:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3122 extra nodes, 0 pruned nodes, max_depth=12
 [19:02:47] [141]
 [19:02:47] boosting round 142, 4666.71 sec elapsed
-[19:03:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1538 extra nodes, 0 pruned nodes, max_depth=12
+[19:03:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1538 extra nodes, 0 pruned nodes, max_depth=12
 [19:03:20] [142]
 [19:03:20] boosting round 143, 4699.35 sec elapsed
-[19:03:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1304 extra nodes, 0 pruned nodes, max_depth=12
+[19:03:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1304 extra nodes, 0 pruned nodes, max_depth=12
 [19:03:53] [143]
 [19:03:53] boosting round 144, 4732.88 sec elapsed
-[19:04:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1314 extra nodes, 0 pruned nodes, max_depth=12
+[19:04:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1314 extra nodes, 0 pruned nodes, max_depth=12
 [19:04:27] [144]
 [19:04:27] boosting round 145, 4765.96 sec elapsed
-[19:04:59] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 962 extra nodes, 0 pruned nodes, max_depth=12
+[19:04:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 962 extra nodes, 0 pruned nodes, max_depth=12
 [19:04:59] [145]
 [19:04:59] boosting round 146, 4798.86 sec elapsed
-[19:05:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1720 extra nodes, 0 pruned nodes, max_depth=12
+[19:05:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1720 extra nodes, 0 pruned nodes, max_depth=12
 [19:05:33] [146]
 [19:05:33] boosting round 147, 4832.49 sec elapsed
-[19:06:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 452 extra nodes, 0 pruned nodes, max_depth=12
+[19:06:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 452 extra nodes, 0 pruned nodes, max_depth=12
 [19:06:05] [147]
 [19:06:05] boosting round 148, 4864.38 sec elapsed
-[19:06:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3504 extra nodes, 0 pruned nodes, max_depth=12
+[19:06:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3504 extra nodes, 0 pruned nodes, max_depth=12
 [19:06:38] [148]
 [19:06:38] boosting round 149, 4897.45 sec elapsed
-[19:07:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 434 extra nodes, 0 pruned nodes, max_depth=12
+[19:07:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 434 extra nodes, 0 pruned nodes, max_depth=12
 [19:07:09] [149]
 [19:07:09] boosting round 150, 4927.95 sec elapsed
-[19:07:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4160 extra nodes, 0 pruned nodes, max_depth=12
+[19:07:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4160 extra nodes, 0 pruned nodes, max_depth=12
 [19:07:43] [150]
 [19:07:43] boosting round 151, 4961.95 sec elapsed
-[19:08:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2678 extra nodes, 0 pruned nodes, max_depth=12
+[19:08:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2678 extra nodes, 0 pruned nodes, max_depth=12
 [19:08:15] [151]
 [19:08:15] boosting round 152, 4994.85 sec elapsed
-[19:08:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2492 extra nodes, 0 pruned nodes, max_depth=12
+[19:08:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2492 extra nodes, 0 pruned nodes, max_depth=12
 [19:08:49] [152]
 [19:08:49] boosting round 153, 5028.64 sec elapsed
-[19:09:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2350 extra nodes, 0 pruned nodes, max_depth=12
+[19:09:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2350 extra nodes, 0 pruned nodes, max_depth=12
 [19:09:23] [153]
 [19:09:23] boosting round 154, 5062.2 sec elapsed
-[19:09:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3222 extra nodes, 0 pruned nodes, max_depth=12
+[19:09:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3222 extra nodes, 0 pruned nodes, max_depth=12
 [19:09:56] [154]
 [19:09:56] boosting round 155, 5095.37 sec elapsed
-[19:10:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3414 extra nodes, 0 pruned nodes, max_depth=12
+[19:10:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3414 extra nodes, 0 pruned nodes, max_depth=12
 [19:10:30] [155]
 [19:10:30] boosting round 156, 5129.29 sec elapsed
-[19:11:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1252 extra nodes, 0 pruned nodes, max_depth=12
+[19:11:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1252 extra nodes, 0 pruned nodes, max_depth=12
 [19:11:03] [156]
 [19:11:03] boosting round 157, 5162.37 sec elapsed
-[19:11:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 820 extra nodes, 0 pruned nodes, max_depth=12
+[19:11:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 820 extra nodes, 0 pruned nodes, max_depth=12
 [19:11:36] [157]
 [19:11:36] boosting round 158, 5195.07 sec elapsed
-[19:12:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3104 extra nodes, 0 pruned nodes, max_depth=12
+[19:12:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3104 extra nodes, 0 pruned nodes, max_depth=12
 [19:12:09] [158]
 [19:12:09] boosting round 159, 5228.4 sec elapsed
-[19:12:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 582 extra nodes, 0 pruned nodes, max_depth=12
+[19:12:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 582 extra nodes, 0 pruned nodes, max_depth=12
 [19:12:40] [159]
 [19:12:40] boosting round 160, 5259.17 sec elapsed
-[19:13:10] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 422 extra nodes, 0 pruned nodes, max_depth=12
+[19:13:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 422 extra nodes, 0 pruned nodes, max_depth=12
 [19:13:10] [160]
 [19:13:10] boosting round 161, 5289.88 sec elapsed
-[19:13:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2584 extra nodes, 0 pruned nodes, max_depth=12
+[19:13:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2584 extra nodes, 0 pruned nodes, max_depth=12
 [19:13:44] [161]
 [19:13:44] boosting round 162, 5323.59 sec elapsed
-[19:14:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 478 extra nodes, 0 pruned nodes, max_depth=12
+[19:14:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 478 extra nodes, 0 pruned nodes, max_depth=12
 [19:14:16] [162]
 [19:14:16] boosting round 163, 5355.3 sec elapsed
-[19:14:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 610 extra nodes, 0 pruned nodes, max_depth=12
+[19:14:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 610 extra nodes, 0 pruned nodes, max_depth=12
 [19:14:47] [163]
 [19:14:47] boosting round 164, 5386.62 sec elapsed
-[19:15:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3066 extra nodes, 0 pruned nodes, max_depth=12
+[19:15:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3066 extra nodes, 0 pruned nodes, max_depth=12
 [19:15:21] [164]
 [19:15:21] boosting round 165, 5420.34 sec elapsed
-[19:15:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 798 extra nodes, 0 pruned nodes, max_depth=12
+[19:15:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 798 extra nodes, 0 pruned nodes, max_depth=12
 [19:15:53] [165]
 [19:15:53] boosting round 166, 5452.46 sec elapsed
-[19:16:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3162 extra nodes, 0 pruned nodes, max_depth=12
+[19:16:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3162 extra nodes, 0 pruned nodes, max_depth=12
 [19:16:27] [166]
 [19:16:27] boosting round 167, 5486.27 sec elapsed
-[19:17:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2856 extra nodes, 0 pruned nodes, max_depth=12
+[19:17:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2856 extra nodes, 0 pruned nodes, max_depth=12
 [19:17:01] [167]
 [19:17:01] boosting round 168, 5520.5 sec elapsed
-[19:17:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2316 extra nodes, 0 pruned nodes, max_depth=12
+[19:17:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2316 extra nodes, 0 pruned nodes, max_depth=12
 [19:17:35] [168]
 [19:17:35] boosting round 169, 5554.31 sec elapsed
-[19:18:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 276 extra nodes, 0 pruned nodes, max_depth=12
+[19:18:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 276 extra nodes, 0 pruned nodes, max_depth=12
 [19:18:05] [169]
 [19:18:05] boosting round 170, 5583.94 sec elapsed
-[19:18:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2756 extra nodes, 0 pruned nodes, max_depth=12
+[19:18:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2756 extra nodes, 0 pruned nodes, max_depth=12
 [19:18:37] [170]
 [19:18:37] boosting round 171, 5616.35 sec elapsed
-[19:19:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 638 extra nodes, 0 pruned nodes, max_depth=12
+[19:19:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 638 extra nodes, 0 pruned nodes, max_depth=12
 [19:19:10] [171]
 [19:19:10] boosting round 172, 5649.03 sec elapsed
-[19:19:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 472 extra nodes, 0 pruned nodes, max_depth=12
+[19:19:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 472 extra nodes, 0 pruned nodes, max_depth=12
 [19:19:40] [172]
 [19:19:40] boosting round 173, 5679.69 sec elapsed
-[19:20:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 666 extra nodes, 0 pruned nodes, max_depth=12
+[19:20:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 666 extra nodes, 0 pruned nodes, max_depth=12
 [19:20:12] [173]
 [19:20:12] boosting round 174, 5711.72 sec elapsed
-[19:20:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2934 extra nodes, 0 pruned nodes, max_depth=12
+[19:20:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2934 extra nodes, 0 pruned nodes, max_depth=12
 [19:20:46] [174]
 [19:20:46] boosting round 175, 5745.71 sec elapsed
-[19:21:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1736 extra nodes, 0 pruned nodes, max_depth=12
+[19:21:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1736 extra nodes, 0 pruned nodes, max_depth=12
 [19:21:19] [175]
 [19:21:19] boosting round 176, 5777.95 sec elapsed
-[19:21:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2446 extra nodes, 0 pruned nodes, max_depth=12
+[19:21:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2446 extra nodes, 0 pruned nodes, max_depth=12
 [19:21:52] [176]
 [19:21:52] boosting round 177, 5811.54 sec elapsed
-[19:22:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1426 extra nodes, 0 pruned nodes, max_depth=12
+[19:22:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1426 extra nodes, 0 pruned nodes, max_depth=12
 [19:22:24] [177]
 [19:22:24] boosting round 178, 5843.56 sec elapsed
-[19:22:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1126 extra nodes, 0 pruned nodes, max_depth=12
+[19:22:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1126 extra nodes, 0 pruned nodes, max_depth=12
 [19:22:57] [178]
 [19:22:57] boosting round 179, 5876.55 sec elapsed
-[19:23:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 328 extra nodes, 0 pruned nodes, max_depth=12
+[19:23:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 328 extra nodes, 0 pruned nodes, max_depth=12
 [19:23:27] [179]
 [19:23:27] boosting round 180, 5906.89 sec elapsed
-[19:24:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2642 extra nodes, 0 pruned nodes, max_depth=12
+[19:24:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2642 extra nodes, 0 pruned nodes, max_depth=12
 [19:24:02] [180]
 [19:24:02] boosting round 181, 5940.95 sec elapsed
-[19:24:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 460 extra nodes, 0 pruned nodes, max_depth=12
+[19:24:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 460 extra nodes, 0 pruned nodes, max_depth=12
 [19:24:32] [181]
 [19:24:32] boosting round 182, 5971.14 sec elapsed
-[19:25:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1264 extra nodes, 0 pruned nodes, max_depth=12
+[19:25:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1264 extra nodes, 0 pruned nodes, max_depth=12
 [19:25:05] [182]
 [19:25:05] boosting round 183, 6004.74 sec elapsed
-[19:25:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 392 extra nodes, 0 pruned nodes, max_depth=12
+[19:25:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 392 extra nodes, 0 pruned nodes, max_depth=12
 [19:25:36] [183]
 [19:25:36] boosting round 184, 6035.44 sec elapsed
-[19:26:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 88 extra nodes, 0 pruned nodes, max_depth=12
+[19:26:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 88 extra nodes, 0 pruned nodes, max_depth=12
 [19:26:03] [184]
 [19:26:03] boosting round 185, 6062.51 sec elapsed
-[19:26:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 270 extra nodes, 0 pruned nodes, max_depth=12
+[19:26:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 270 extra nodes, 0 pruned nodes, max_depth=12
 [19:26:33] [185]
 [19:26:33] boosting round 186, 6092.15 sec elapsed
-[19:27:06] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5052 extra nodes, 0 pruned nodes, max_depth=12
+[19:27:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 5052 extra nodes, 0 pruned nodes, max_depth=12
 [19:27:07] [186]
 [19:27:07] boosting round 187, 6125.91 sec elapsed
-[19:27:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1230 extra nodes, 0 pruned nodes, max_depth=12
+[19:27:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1230 extra nodes, 0 pruned nodes, max_depth=12
 [19:27:39] [187]
 [19:27:39] boosting round 188, 6158.42 sec elapsed
-[19:28:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2106 extra nodes, 0 pruned nodes, max_depth=12
+[19:28:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2106 extra nodes, 0 pruned nodes, max_depth=12
 [19:28:13] [188]
 [19:28:13] boosting round 189, 6192.1 sec elapsed
-[19:28:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
+[19:28:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
 [19:28:46] [189]
 [19:28:46] boosting round 190, 6225.49 sec elapsed
-[19:29:19] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1984 extra nodes, 0 pruned nodes, max_depth=12
+[19:29:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1984 extra nodes, 0 pruned nodes, max_depth=12
 [19:29:19] [190]
 [19:29:19] boosting round 191, 6258.22 sec elapsed
-[19:29:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1106 extra nodes, 0 pruned nodes, max_depth=12
+[19:29:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1106 extra nodes, 0 pruned nodes, max_depth=12
 [19:29:52] [191]
 [19:29:52] boosting round 192, 6291.13 sec elapsed
-[19:30:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 654 extra nodes, 0 pruned nodes, max_depth=12
+[19:30:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 654 extra nodes, 0 pruned nodes, max_depth=12
 [19:30:22] [192]
 [19:30:22] boosting round 193, 6321.56 sec elapsed
-[19:30:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2234 extra nodes, 0 pruned nodes, max_depth=12
+[19:30:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2234 extra nodes, 0 pruned nodes, max_depth=12
 [19:30:56] [193]
 [19:30:56] boosting round 194, 6355.27 sec elapsed
-[19:31:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 218 extra nodes, 0 pruned nodes, max_depth=12
+[19:31:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 218 extra nodes, 0 pruned nodes, max_depth=12
 [19:31:25] [194]
 [19:31:25] boosting round 195, 6384.45 sec elapsed
-[19:31:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 566 extra nodes, 0 pruned nodes, max_depth=12
+[19:31:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 566 extra nodes, 0 pruned nodes, max_depth=12
 [19:31:57] [195]
 [19:31:57] boosting round 196, 6416.26 sec elapsed
-[19:32:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 434 extra nodes, 0 pruned nodes, max_depth=12
+[19:32:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 434 extra nodes, 0 pruned nodes, max_depth=12
 [19:32:28] [196]
 [19:32:28] boosting round 197, 6447.77 sec elapsed
-[19:33:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3260 extra nodes, 0 pruned nodes, max_depth=12
+[19:33:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3260 extra nodes, 0 pruned nodes, max_depth=12
 [19:33:03] [197]
 [19:33:03] boosting round 198, 6481.93 sec elapsed
-[19:33:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1782 extra nodes, 0 pruned nodes, max_depth=12
+[19:33:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1782 extra nodes, 0 pruned nodes, max_depth=12
 [19:33:36] [198]
 [19:33:36] boosting round 199, 6515.01 sec elapsed
-[19:34:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2454 extra nodes, 0 pruned nodes, max_depth=12
+[19:34:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2454 extra nodes, 0 pruned nodes, max_depth=12
 [19:34:10] [199]
 [19:34:10] boosting round 200, 6549.12 sec elapsed
-[19:34:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 162 extra nodes, 0 pruned nodes, max_depth=12
+[19:34:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 162 extra nodes, 0 pruned nodes, max_depth=12
 [19:34:39] [200]
 [19:34:39] boosting round 201, 6578.64 sec elapsed
-[19:35:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 942 extra nodes, 0 pruned nodes, max_depth=12
+[19:35:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 942 extra nodes, 0 pruned nodes, max_depth=12
 [19:35:12] [201]
 [19:35:12] boosting round 202, 6611.57 sec elapsed
-[19:35:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 836 extra nodes, 0 pruned nodes, max_depth=12
+[19:35:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 836 extra nodes, 0 pruned nodes, max_depth=12
 [19:35:45] [202]
 [19:35:45] boosting round 203, 6644.35 sec elapsed
-[19:36:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 402 extra nodes, 0 pruned nodes, max_depth=12
+[19:36:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 402 extra nodes, 0 pruned nodes, max_depth=12
 [19:36:15] [203]
 [19:36:15] boosting round 204, 6674.8 sec elapsed
-[19:36:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 774 extra nodes, 0 pruned nodes, max_depth=12
+[19:36:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 774 extra nodes, 0 pruned nodes, max_depth=12
 [19:36:47] [204]
 [19:36:47] boosting round 205, 6706.09 sec elapsed
-[19:37:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3266 extra nodes, 0 pruned nodes, max_depth=12
+[19:37:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3266 extra nodes, 0 pruned nodes, max_depth=12
 [19:37:21] [205]
 [19:37:21] boosting round 206, 6740.42 sec elapsed
-[19:37:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 572 extra nodes, 0 pruned nodes, max_depth=12
+[19:37:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 572 extra nodes, 0 pruned nodes, max_depth=12
 [19:37:52] [206]
 [19:37:52] boosting round 207, 6771.34 sec elapsed
-[19:38:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 902 extra nodes, 0 pruned nodes, max_depth=12
+[19:38:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 902 extra nodes, 0 pruned nodes, max_depth=12
 [19:38:24] [207]
 [19:38:24] boosting round 208, 6803.67 sec elapsed
-[19:38:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1218 extra nodes, 0 pruned nodes, max_depth=12
+[19:38:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1218 extra nodes, 0 pruned nodes, max_depth=12
 [19:38:58] [208]
 [19:38:58] boosting round 209, 6837.21 sec elapsed
-[19:39:31] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2192 extra nodes, 0 pruned nodes, max_depth=12
+[19:39:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2192 extra nodes, 0 pruned nodes, max_depth=12
 [19:39:31] [209]
 [19:39:31] boosting round 210, 6870.27 sec elapsed
-[19:40:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 510 extra nodes, 0 pruned nodes, max_depth=12
+[19:40:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 510 extra nodes, 0 pruned nodes, max_depth=12
 [19:40:02] [210]
 [19:40:02] boosting round 211, 6901.63 sec elapsed
-[19:40:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1622 extra nodes, 0 pruned nodes, max_depth=12
+[19:40:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1622 extra nodes, 0 pruned nodes, max_depth=12
 [19:40:35] [211]
 [19:40:35] boosting round 212, 6934.49 sec elapsed
-[19:41:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2518 extra nodes, 0 pruned nodes, max_depth=12
+[19:41:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2518 extra nodes, 0 pruned nodes, max_depth=12
 [19:41:09] [212]
 [19:41:09] boosting round 213, 6968.06 sec elapsed
-[19:41:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 370 extra nodes, 0 pruned nodes, max_depth=12
+[19:41:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 370 extra nodes, 0 pruned nodes, max_depth=12
 [19:41:40] [213]
 [19:41:40] boosting round 214, 6998.94 sec elapsed
-[19:42:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 988 extra nodes, 0 pruned nodes, max_depth=12
+[19:42:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 988 extra nodes, 0 pruned nodes, max_depth=12
 [19:42:12] [214]
 [19:42:12] boosting round 215, 7031.64 sec elapsed
-[19:42:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1898 extra nodes, 0 pruned nodes, max_depth=12
+[19:42:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1898 extra nodes, 0 pruned nodes, max_depth=12
 [19:42:46] [215]
 [19:42:46] boosting round 216, 7065.5 sec elapsed
-[19:43:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 398 extra nodes, 0 pruned nodes, max_depth=12
+[19:43:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 398 extra nodes, 0 pruned nodes, max_depth=12
 [19:43:17] [216]
 [19:43:17] boosting round 217, 7096.16 sec elapsed
-[19:43:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1098 extra nodes, 0 pruned nodes, max_depth=12
+[19:43:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1098 extra nodes, 0 pruned nodes, max_depth=12
 [19:43:48] [217]
 [19:43:48] boosting round 218, 7127.57 sec elapsed
-[19:44:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2260 extra nodes, 0 pruned nodes, max_depth=12
+[19:44:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2260 extra nodes, 0 pruned nodes, max_depth=12
 [19:44:22] [218]
 [19:44:22] boosting round 219, 7161.51 sec elapsed
-[19:44:54] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2480 extra nodes, 0 pruned nodes, max_depth=12
+[19:44:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2480 extra nodes, 0 pruned nodes, max_depth=12
 [19:44:55] [219]
 [19:44:55] boosting round 220, 7194.07 sec elapsed
-[19:45:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4060 extra nodes, 0 pruned nodes, max_depth=12
+[19:45:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4060 extra nodes, 0 pruned nodes, max_depth=12
 [19:45:29] [220]
 [19:45:29] boosting round 221, 7228.02 sec elapsed
-[19:46:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2154 extra nodes, 0 pruned nodes, max_depth=12
+[19:46:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2154 extra nodes, 0 pruned nodes, max_depth=12
 [19:46:02] [221]
 [19:46:02] boosting round 222, 7261.35 sec elapsed
-[19:46:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2240 extra nodes, 0 pruned nodes, max_depth=12
+[19:46:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2240 extra nodes, 0 pruned nodes, max_depth=12
 [19:46:35] [222]
 [19:46:35] boosting round 223, 7294.62 sec elapsed
-[19:47:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2686 extra nodes, 0 pruned nodes, max_depth=12
+[19:47:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2686 extra nodes, 0 pruned nodes, max_depth=12
 [19:47:09] [223]
 [19:47:09] boosting round 224, 7328.3 sec elapsed
-[19:47:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 308 extra nodes, 0 pruned nodes, max_depth=12
+[19:47:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 308 extra nodes, 0 pruned nodes, max_depth=12
 [19:47:38] [224]
 [19:47:38] boosting round 225, 7357.77 sec elapsed
-[19:48:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3618 extra nodes, 0 pruned nodes, max_depth=12
+[19:48:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3618 extra nodes, 0 pruned nodes, max_depth=12
 [19:48:12] [225]
 [19:48:12] boosting round 226, 7391.74 sec elapsed
-[19:48:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2232 extra nodes, 0 pruned nodes, max_depth=12
+[19:48:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2232 extra nodes, 0 pruned nodes, max_depth=12
 [19:48:46] [226]
 [19:48:46] boosting round 227, 7425.07 sec elapsed
-[19:49:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3330 extra nodes, 0 pruned nodes, max_depth=12
+[19:49:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3330 extra nodes, 0 pruned nodes, max_depth=12
 [19:49:20] [227]
 [19:49:20] boosting round 228, 7459.13 sec elapsed
-[19:49:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
+[19:49:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
 [19:49:52] [228]
 [19:49:52] boosting round 229, 7490.94 sec elapsed
-[19:50:19] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 90 extra nodes, 0 pruned nodes, max_depth=12
+[19:50:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 90 extra nodes, 0 pruned nodes, max_depth=12
 [19:50:19] [229]
 [19:50:19] boosting round 230, 7518.54 sec elapsed
-[19:50:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 372 extra nodes, 0 pruned nodes, max_depth=12
+[19:50:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 372 extra nodes, 0 pruned nodes, max_depth=12
 [19:50:49] [230]
 [19:50:49] boosting round 231, 7548.64 sec elapsed
-[19:51:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1236 extra nodes, 0 pruned nodes, max_depth=12
+[19:51:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1236 extra nodes, 0 pruned nodes, max_depth=12
 [19:51:22] [231]
 [19:51:22] boosting round 232, 7581.1 sec elapsed
-[19:51:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2480 extra nodes, 0 pruned nodes, max_depth=12
+[19:51:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2480 extra nodes, 0 pruned nodes, max_depth=12
 [19:51:55] [232]
 [19:51:55] boosting round 233, 7614.52 sec elapsed
-[19:52:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 940 extra nodes, 0 pruned nodes, max_depth=12
+[19:52:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 940 extra nodes, 0 pruned nodes, max_depth=12
 [19:52:28] [233]
 [19:52:28] boosting round 234, 7647.72 sec elapsed
-[19:53:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3244 extra nodes, 0 pruned nodes, max_depth=12
+[19:53:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3244 extra nodes, 0 pruned nodes, max_depth=12
 [19:53:01] [234]
 [19:53:01] boosting round 235, 7680.86 sec elapsed
-[19:53:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 472 extra nodes, 0 pruned nodes, max_depth=12
+[19:53:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 472 extra nodes, 0 pruned nodes, max_depth=12
 [19:53:32] [235]
 [19:53:32] boosting round 236, 7711.8 sec elapsed
-[19:54:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
+[19:54:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
 [19:54:03] [236]
 [19:54:03] boosting round 237, 7742.55 sec elapsed
-[19:54:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1058 extra nodes, 0 pruned nodes, max_depth=12
+[19:54:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1058 extra nodes, 0 pruned nodes, max_depth=12
 [19:54:36] [237]
 [19:54:36] boosting round 238, 7775.19 sec elapsed
-[19:55:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1774 extra nodes, 0 pruned nodes, max_depth=12
+[19:55:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1774 extra nodes, 0 pruned nodes, max_depth=12
 [19:55:09] [238]
 [19:55:09] boosting round 239, 7808.28 sec elapsed
-[19:55:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1554 extra nodes, 0 pruned nodes, max_depth=12
+[19:55:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1554 extra nodes, 0 pruned nodes, max_depth=12
 [19:55:42] [239]
 [19:55:42] boosting round 240, 7841.23 sec elapsed
-[19:56:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2334 extra nodes, 0 pruned nodes, max_depth=12
+[19:56:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2334 extra nodes, 0 pruned nodes, max_depth=12
 [19:56:16] [240]
 [19:56:16] boosting round 241, 7875.16 sec elapsed
-[19:56:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
+[19:56:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
 [19:56:46] [241]
 [19:56:46] boosting round 242, 7905.56 sec elapsed
-[19:57:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 484 extra nodes, 0 pruned nodes, max_depth=12
+[19:57:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 484 extra nodes, 0 pruned nodes, max_depth=12
 [19:57:16] [242]
 [19:57:16] boosting round 243, 7935.77 sec elapsed
-[19:57:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
+[19:57:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
 [19:57:49] [243]
 [19:57:49] boosting round 244, 7968.07 sec elapsed
-[19:58:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 114 extra nodes, 0 pruned nodes, max_depth=12
+[19:58:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 114 extra nodes, 0 pruned nodes, max_depth=12
 [19:58:16] [244]
 [19:58:16] boosting round 245, 7995.67 sec elapsed
-[19:58:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 268 extra nodes, 0 pruned nodes, max_depth=12
+[19:58:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 268 extra nodes, 0 pruned nodes, max_depth=12
 [19:58:46] [245]
 [19:58:46] boosting round 246, 8024.94 sec elapsed
-[19:59:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 82 extra nodes, 0 pruned nodes, max_depth=12
+[19:59:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 82 extra nodes, 0 pruned nodes, max_depth=12
 [19:59:12] [246]
 [19:59:12] boosting round 247, 8051.63 sec elapsed
-[19:59:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4418 extra nodes, 0 pruned nodes, max_depth=12
+[19:59:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4418 extra nodes, 0 pruned nodes, max_depth=12
 [19:59:46] [247]
 [19:59:46] boosting round 248, 8085.69 sec elapsed
-[20:00:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2478 extra nodes, 0 pruned nodes, max_depth=12
+[20:00:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2478 extra nodes, 0 pruned nodes, max_depth=12
 [20:00:20] [248]
 [20:00:20] boosting round 249, 8119.71 sec elapsed
-[20:00:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1700 extra nodes, 0 pruned nodes, max_depth=12
+[20:00:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1700 extra nodes, 0 pruned nodes, max_depth=12
 [20:00:53] [249]
 [20:00:53] boosting round 250, 8152.82 sec elapsed
-[20:01:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1312 extra nodes, 0 pruned nodes, max_depth=12
+[20:01:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1312 extra nodes, 0 pruned nodes, max_depth=12
 [20:01:26] [250]
 [20:01:26] boosting round 251, 8185.61 sec elapsed
-[20:01:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 518 extra nodes, 0 pruned nodes, max_depth=12
+[20:01:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 518 extra nodes, 0 pruned nodes, max_depth=12
 [20:01:57] [251]
 [20:01:57] boosting round 252, 8216.9 sec elapsed
-[20:02:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 730 extra nodes, 0 pruned nodes, max_depth=12
+[20:02:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 730 extra nodes, 0 pruned nodes, max_depth=12
 [20:02:29] [252]
 [20:02:29] boosting round 253, 8248.83 sec elapsed
-[20:03:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1128 extra nodes, 0 pruned nodes, max_depth=12
+[20:03:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1128 extra nodes, 0 pruned nodes, max_depth=12
 [20:03:03] [253]
 [20:03:03] boosting round 254, 8281.92 sec elapsed
-[20:03:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 400 extra nodes, 0 pruned nodes, max_depth=12
+[20:03:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 400 extra nodes, 0 pruned nodes, max_depth=12
 [20:03:33] [254]
 [20:03:33] boosting round 255, 8312.42 sec elapsed
-[20:04:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1786 extra nodes, 0 pruned nodes, max_depth=12
+[20:04:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1786 extra nodes, 0 pruned nodes, max_depth=12
 [20:04:07] [255]
 [20:04:07] boosting round 256, 8346.73 sec elapsed
-[20:04:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1926 extra nodes, 0 pruned nodes, max_depth=12
+[20:04:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1926 extra nodes, 0 pruned nodes, max_depth=12
 [20:04:41] [256]
 [20:04:41] boosting round 257, 8380.82 sec elapsed
-[20:05:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 410 extra nodes, 0 pruned nodes, max_depth=12
+[20:05:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 410 extra nodes, 0 pruned nodes, max_depth=12
 [20:05:13] [257]
 [20:05:13] boosting round 258, 8412.19 sec elapsed
-[20:05:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 890 extra nodes, 0 pruned nodes, max_depth=12
+[20:05:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 890 extra nodes, 0 pruned nodes, max_depth=12
 [20:05:45] [258]
 [20:05:45] boosting round 259, 8444.51 sec elapsed
-[20:06:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1254 extra nodes, 0 pruned nodes, max_depth=12
+[20:06:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1254 extra nodes, 0 pruned nodes, max_depth=12
 [20:06:19] [259]
 [20:06:19] boosting round 260, 8477.99 sec elapsed
-[20:06:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 842 extra nodes, 0 pruned nodes, max_depth=12
+[20:06:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 842 extra nodes, 0 pruned nodes, max_depth=12
 [20:06:51] [260]
 [20:06:51] boosting round 261, 8510.52 sec elapsed
-[20:07:19] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 84 extra nodes, 0 pruned nodes, max_depth=12
+[20:07:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 84 extra nodes, 0 pruned nodes, max_depth=12
 [20:07:19] [261]
 [20:07:19] boosting round 262, 8538.71 sec elapsed
-[20:07:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 396 extra nodes, 0 pruned nodes, max_depth=12
+[20:07:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 396 extra nodes, 0 pruned nodes, max_depth=12
 [20:07:50] [262]
 [20:07:50] boosting round 263, 8569.56 sec elapsed
-[20:08:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1672 extra nodes, 0 pruned nodes, max_depth=12
+[20:08:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1672 extra nodes, 0 pruned nodes, max_depth=12
 [20:08:23] [263]
 [20:08:23] boosting round 264, 8602.54 sec elapsed
-[20:08:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2676 extra nodes, 0 pruned nodes, max_depth=12
+[20:08:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2676 extra nodes, 0 pruned nodes, max_depth=12
 [20:08:56] [264]
 [20:08:56] boosting round 265, 8635.62 sec elapsed
-[20:09:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2144 extra nodes, 0 pruned nodes, max_depth=12
+[20:09:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2144 extra nodes, 0 pruned nodes, max_depth=12
 [20:09:30] [265]
 [20:09:30] boosting round 266, 8669.19 sec elapsed
-[20:10:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1014 extra nodes, 0 pruned nodes, max_depth=12
+[20:10:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1014 extra nodes, 0 pruned nodes, max_depth=12
 [20:10:02] [266]
 [20:10:02] boosting round 267, 8701.54 sec elapsed
-[20:10:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1990 extra nodes, 0 pruned nodes, max_depth=12
+[20:10:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1990 extra nodes, 0 pruned nodes, max_depth=12
 [20:10:36] [267]
 [20:10:36] boosting round 268, 8734.95 sec elapsed
-[20:11:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
+[20:11:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
 [20:11:08] [268]
 [20:11:08] boosting round 269, 8767.11 sec elapsed
-[20:11:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 680 extra nodes, 0 pruned nodes, max_depth=12
+[20:11:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 680 extra nodes, 0 pruned nodes, max_depth=12
 [20:11:40] [269]
 [20:11:40] boosting round 270, 8799.17 sec elapsed
-[20:12:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2500 extra nodes, 0 pruned nodes, max_depth=12
+[20:12:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2500 extra nodes, 0 pruned nodes, max_depth=12
 [20:12:13] [270]
 [20:12:13] boosting round 271, 8832.06 sec elapsed
-[20:12:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1304 extra nodes, 0 pruned nodes, max_depth=12
+[20:12:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1304 extra nodes, 0 pruned nodes, max_depth=12
 [20:12:46] [271]
 [20:12:46] boosting round 272, 8865.24 sec elapsed
-[20:13:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1196 extra nodes, 0 pruned nodes, max_depth=12
+[20:13:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1196 extra nodes, 0 pruned nodes, max_depth=12
 [20:13:19] [272]
 [20:13:19] boosting round 273, 8897.94 sec elapsed
-[20:13:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 908 extra nodes, 0 pruned nodes, max_depth=12
+[20:13:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 908 extra nodes, 0 pruned nodes, max_depth=12
 [20:13:52] [273]
 [20:13:52] boosting round 274, 8931.08 sec elapsed
-[20:14:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 890 extra nodes, 0 pruned nodes, max_depth=12
+[20:14:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 890 extra nodes, 0 pruned nodes, max_depth=12
 [20:14:25] [274]
 [20:14:25] boosting round 275, 8964.41 sec elapsed
-[20:14:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 778 extra nodes, 0 pruned nodes, max_depth=12
+[20:14:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 778 extra nodes, 0 pruned nodes, max_depth=12
 [20:14:57] [275]
 [20:14:57] boosting round 276, 8996.6 sec elapsed
-[20:15:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 712 extra nodes, 0 pruned nodes, max_depth=12
+[20:15:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 712 extra nodes, 0 pruned nodes, max_depth=12
 [20:15:30] [276]
 [20:15:30] boosting round 277, 9029.29 sec elapsed
-[20:16:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2192 extra nodes, 0 pruned nodes, max_depth=12
+[20:16:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2192 extra nodes, 0 pruned nodes, max_depth=12
 [20:16:04] [277]
 [20:16:04] boosting round 278, 9063.51 sec elapsed
-[20:16:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2626 extra nodes, 0 pruned nodes, max_depth=12
+[20:16:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2626 extra nodes, 0 pruned nodes, max_depth=12
 [20:16:37] [278]
 [20:16:37] boosting round 279, 9096.37 sec elapsed
-[20:17:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1362 extra nodes, 0 pruned nodes, max_depth=12
+[20:17:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1362 extra nodes, 0 pruned nodes, max_depth=12
 [20:17:09] [279]
 [20:17:09] boosting round 280, 9128.76 sec elapsed
-[20:17:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 828 extra nodes, 0 pruned nodes, max_depth=12
+[20:17:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 828 extra nodes, 0 pruned nodes, max_depth=12
 [20:17:41] [280]
 [20:17:41] boosting round 281, 9160.81 sec elapsed
-[20:18:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 546 extra nodes, 0 pruned nodes, max_depth=12
+[20:18:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 546 extra nodes, 0 pruned nodes, max_depth=12
 [20:18:13] [281]
 [20:18:13] boosting round 282, 9192.5 sec elapsed
-[20:18:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 130 extra nodes, 0 pruned nodes, max_depth=12
+[20:18:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 130 extra nodes, 0 pruned nodes, max_depth=12
 [20:18:41] [282]
 [20:18:41] boosting round 283, 9220.02 sec elapsed
-[20:19:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1072 extra nodes, 0 pruned nodes, max_depth=12
+[20:19:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1072 extra nodes, 0 pruned nodes, max_depth=12
 [20:19:13] [283]
 [20:19:13] boosting round 284, 9252.04 sec elapsed
-[20:19:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 208 extra nodes, 0 pruned nodes, max_depth=12
+[20:19:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 208 extra nodes, 0 pruned nodes, max_depth=12
 [20:19:42] [284]
 [20:19:42] boosting round 285, 9281.3 sec elapsed
-[20:20:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 872 extra nodes, 0 pruned nodes, max_depth=12
+[20:20:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 872 extra nodes, 0 pruned nodes, max_depth=12
 [20:20:14] [285]
 [20:20:14] boosting round 286, 9313.62 sec elapsed
-[20:20:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1956 extra nodes, 0 pruned nodes, max_depth=12
+[20:20:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1956 extra nodes, 0 pruned nodes, max_depth=12
 [20:20:48] [286]
 [20:20:48] boosting round 287, 9347.67 sec elapsed
-[20:21:21] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1578 extra nodes, 0 pruned nodes, max_depth=12
+[20:21:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1578 extra nodes, 0 pruned nodes, max_depth=12
 [20:21:21] [287]
 [20:21:21] boosting round 288, 9380.36 sec elapsed
-[20:21:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1912 extra nodes, 0 pruned nodes, max_depth=12
+[20:21:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1912 extra nodes, 0 pruned nodes, max_depth=12
 [20:21:54] [288]
 [20:21:54] boosting round 289, 9412.96 sec elapsed
-[20:22:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3724 extra nodes, 0 pruned nodes, max_depth=12
+[20:22:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3724 extra nodes, 0 pruned nodes, max_depth=12
 [20:22:27] [289]
 [20:22:27] boosting round 290, 9446.35 sec elapsed
-[20:23:00] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1308 extra nodes, 0 pruned nodes, max_depth=12
+[20:23:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1308 extra nodes, 0 pruned nodes, max_depth=12
 [20:23:00] [290]
 [20:23:00] boosting round 291, 9479.55 sec elapsed
-[20:23:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 840 extra nodes, 0 pruned nodes, max_depth=12
+[20:23:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 840 extra nodes, 0 pruned nodes, max_depth=12
 [20:23:32] [291]
 [20:23:32] boosting round 292, 9511.27 sec elapsed
-[20:24:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4116 extra nodes, 0 pruned nodes, max_depth=12
+[20:24:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4116 extra nodes, 0 pruned nodes, max_depth=12
 [20:24:05] [292]
 [20:24:05] boosting round 293, 9544.68 sec elapsed
-[20:24:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 962 extra nodes, 0 pruned nodes, max_depth=12
+[20:24:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 962 extra nodes, 0 pruned nodes, max_depth=12
 [20:24:39] [293]
 [20:24:39] boosting round 294, 9577.93 sec elapsed
-[20:25:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
+[20:25:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
 [20:25:11] [294]
 [20:25:11] boosting round 295, 9610.15 sec elapsed
-[20:25:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1048 extra nodes, 0 pruned nodes, max_depth=12
+[20:25:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1048 extra nodes, 0 pruned nodes, max_depth=12
 [20:25:44] [295]
 [20:25:44] boosting round 296, 9643.13 sec elapsed
-[20:26:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1608 extra nodes, 0 pruned nodes, max_depth=12
+[20:26:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1608 extra nodes, 0 pruned nodes, max_depth=12
 [20:26:17] [296]
 [20:26:17] boosting round 297, 9675.92 sec elapsed
-[20:26:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1918 extra nodes, 0 pruned nodes, max_depth=12
+[20:26:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1918 extra nodes, 0 pruned nodes, max_depth=12
 [20:26:50] [297]
 [20:26:50] boosting round 298, 9709.55 sec elapsed
-[20:27:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1558 extra nodes, 0 pruned nodes, max_depth=12
+[20:27:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1558 extra nodes, 0 pruned nodes, max_depth=12
 [20:27:23] [298]
 [20:27:23] boosting round 299, 9742.81 sec elapsed
-[20:27:54] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 698 extra nodes, 0 pruned nodes, max_depth=12
+[20:27:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 698 extra nodes, 0 pruned nodes, max_depth=12
 [20:27:55] [299]
 [20:27:55] boosting round 300, 9774.05 sec elapsed
-[20:28:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
+[20:28:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
 [20:28:28] [300]
 [20:28:28] boosting round 301, 9807.35 sec elapsed
-[20:28:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 222 extra nodes, 0 pruned nodes, max_depth=12
+[20:28:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 222 extra nodes, 0 pruned nodes, max_depth=12
 [20:28:57] [301]
 [20:28:57] boosting round 302, 9836.19 sec elapsed
-[20:29:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 524 extra nodes, 0 pruned nodes, max_depth=12
+[20:29:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 524 extra nodes, 0 pruned nodes, max_depth=12
 [20:29:28] [302]
 [20:29:28] boosting round 303, 9867.58 sec elapsed
-[20:30:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2176 extra nodes, 0 pruned nodes, max_depth=12
+[20:30:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2176 extra nodes, 0 pruned nodes, max_depth=12
 [20:30:01] [303]
 [20:30:01] boosting round 304, 9900.51 sec elapsed
-[20:30:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 274 extra nodes, 0 pruned nodes, max_depth=12
+[20:30:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 274 extra nodes, 0 pruned nodes, max_depth=12
 [20:30:31] [304]
 [20:30:31] boosting round 305, 9930.01 sec elapsed
-[20:30:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 168 extra nodes, 0 pruned nodes, max_depth=12
+[20:30:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 168 extra nodes, 0 pruned nodes, max_depth=12
 [20:30:59] [305]
 [20:30:59] boosting round 306, 9957.92 sec elapsed
-[20:31:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 756 extra nodes, 0 pruned nodes, max_depth=12
+[20:31:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 756 extra nodes, 0 pruned nodes, max_depth=12
 [20:31:30] [306]
 [20:31:30] boosting round 307, 9989.67 sec elapsed
-[20:32:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 970 extra nodes, 0 pruned nodes, max_depth=12
+[20:32:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 970 extra nodes, 0 pruned nodes, max_depth=12
 [20:32:03] [307]
 [20:32:03] boosting round 308, 10022.2 sec elapsed
-[20:32:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 832 extra nodes, 0 pruned nodes, max_depth=12
+[20:32:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 832 extra nodes, 0 pruned nodes, max_depth=12
 [20:32:35] [308]
 [20:32:35] boosting round 309, 10054.5 sec elapsed
-[20:33:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1352 extra nodes, 0 pruned nodes, max_depth=12
+[20:33:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1352 extra nodes, 0 pruned nodes, max_depth=12
 [20:33:07] [309]
 [20:33:07] boosting round 310, 10086.1 sec elapsed
-[20:33:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 752 extra nodes, 0 pruned nodes, max_depth=12
+[20:33:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 752 extra nodes, 0 pruned nodes, max_depth=12
 [20:33:39] [310]
 [20:33:39] boosting round 311, 10118 sec elapsed
-[20:34:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1344 extra nodes, 0 pruned nodes, max_depth=12
+[20:34:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1344 extra nodes, 0 pruned nodes, max_depth=12
 [20:34:12] [311]
 [20:34:12] boosting round 312, 10151 sec elapsed
-[20:34:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4032 extra nodes, 0 pruned nodes, max_depth=12
+[20:34:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4032 extra nodes, 0 pruned nodes, max_depth=12
 [20:34:45] [312]
 [20:34:45] boosting round 313, 10184.8 sec elapsed
-[20:35:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2608 extra nodes, 0 pruned nodes, max_depth=12
+[20:35:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2608 extra nodes, 0 pruned nodes, max_depth=12
 [20:35:18] [313]
 [20:35:18] boosting round 314, 10217.7 sec elapsed
-[20:35:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1252 extra nodes, 0 pruned nodes, max_depth=12
+[20:35:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1252 extra nodes, 0 pruned nodes, max_depth=12
 [20:35:51] [314]
 [20:35:51] boosting round 315, 10250.6 sec elapsed
-[20:36:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 698 extra nodes, 0 pruned nodes, max_depth=12
+[20:36:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 698 extra nodes, 0 pruned nodes, max_depth=12
 [20:36:24] [315]
 [20:36:24] boosting round 316, 10283.3 sec elapsed
-[20:36:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 102 extra nodes, 0 pruned nodes, max_depth=12
+[20:36:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 102 extra nodes, 0 pruned nodes, max_depth=12
 [20:36:51] [316]
 [20:36:51] boosting round 317, 10310.6 sec elapsed
-[20:37:24] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1238 extra nodes, 0 pruned nodes, max_depth=12
+[20:37:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1238 extra nodes, 0 pruned nodes, max_depth=12
 [20:37:24] [317]
 [20:37:24] boosting round 318, 10343.7 sec elapsed
-[20:37:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 652 extra nodes, 0 pruned nodes, max_depth=12
+[20:37:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 652 extra nodes, 0 pruned nodes, max_depth=12
 [20:37:56] [318]
 [20:37:56] boosting round 319, 10375.4 sec elapsed
-[20:38:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
+[20:38:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
 [20:38:26] [319]
 [20:38:26] boosting round 320, 10405 sec elapsed
-[20:38:54] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 86 extra nodes, 0 pruned nodes, max_depth=12
+[20:38:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 86 extra nodes, 0 pruned nodes, max_depth=12
 [20:38:54] [320]
 [20:38:54] boosting round 321, 10433.1 sec elapsed
-[20:39:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 430 extra nodes, 0 pruned nodes, max_depth=12
+[20:39:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 430 extra nodes, 0 pruned nodes, max_depth=12
 [20:39:25] [321]
 [20:39:25] boosting round 322, 10464.4 sec elapsed
-[20:39:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1020 extra nodes, 0 pruned nodes, max_depth=12
+[20:39:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1020 extra nodes, 0 pruned nodes, max_depth=12
 [20:39:58] [322]
 [20:39:58] boosting round 323, 10497.5 sec elapsed
-[20:40:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 90 extra nodes, 0 pruned nodes, max_depth=12
+[20:40:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 90 extra nodes, 0 pruned nodes, max_depth=12
 [20:40:25] [323]
 [20:40:25] boosting round 324, 10524.7 sec elapsed
-[20:40:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 436 extra nodes, 0 pruned nodes, max_depth=12
+[20:40:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 436 extra nodes, 0 pruned nodes, max_depth=12
 [20:40:56] [324]
 [20:40:56] boosting round 325, 10555.5 sec elapsed
-[20:41:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 186 extra nodes, 0 pruned nodes, max_depth=12
+[20:41:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 186 extra nodes, 0 pruned nodes, max_depth=12
 [20:41:25] [325]
 [20:41:25] boosting round 326, 10584.2 sec elapsed
-[20:41:54] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 296 extra nodes, 0 pruned nodes, max_depth=12
+[20:41:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 296 extra nodes, 0 pruned nodes, max_depth=12
 [20:41:54] [326]
 [20:41:54] boosting round 327, 10613.7 sec elapsed
-[20:42:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 690 extra nodes, 0 pruned nodes, max_depth=12
+[20:42:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 690 extra nodes, 0 pruned nodes, max_depth=12
 [20:42:26] [327]
 [20:42:26] boosting round 328, 10645.3 sec elapsed
-[20:42:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 102 extra nodes, 0 pruned nodes, max_depth=12
+[20:42:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 102 extra nodes, 0 pruned nodes, max_depth=12
 [20:42:54] [328]
 [20:42:54] boosting round 329, 10673 sec elapsed
-[20:43:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 784 extra nodes, 0 pruned nodes, max_depth=12
+[20:43:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 784 extra nodes, 0 pruned nodes, max_depth=12
 [20:43:26] [329]
 [20:43:26] boosting round 330, 10705 sec elapsed
-[20:43:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1006 extra nodes, 0 pruned nodes, max_depth=12
+[20:43:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1006 extra nodes, 0 pruned nodes, max_depth=12
 [20:43:59] [330]
 [20:43:59] boosting round 331, 10738.1 sec elapsed
-[20:44:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2088 extra nodes, 0 pruned nodes, max_depth=12
+[20:44:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2088 extra nodes, 0 pruned nodes, max_depth=12
 [20:44:32] [331]
 [20:44:32] boosting round 332, 10771.4 sec elapsed
-[20:45:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 336 extra nodes, 0 pruned nodes, max_depth=12
+[20:45:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 336 extra nodes, 0 pruned nodes, max_depth=12
 [20:45:03] [332]
 [20:45:03] boosting round 333, 10802.2 sec elapsed
-[20:45:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2492 extra nodes, 0 pruned nodes, max_depth=12
+[20:45:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2492 extra nodes, 0 pruned nodes, max_depth=12
 [20:45:37] [333]
 [20:45:37] boosting round 334, 10836 sec elapsed
-[20:46:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 850 extra nodes, 0 pruned nodes, max_depth=12
+[20:46:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 850 extra nodes, 0 pruned nodes, max_depth=12
 [20:46:09] [334]
 [20:46:09] boosting round 335, 10868.2 sec elapsed
-[20:46:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
+[20:46:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
 [20:46:41] [335]
 [20:46:41] boosting round 336, 10900 sec elapsed
-[20:47:10] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 326 extra nodes, 0 pruned nodes, max_depth=12
+[20:47:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 326 extra nodes, 0 pruned nodes, max_depth=12
 [20:47:11] [336]
 [20:47:11] boosting round 337, 10930 sec elapsed
-[20:47:43] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 894 extra nodes, 0 pruned nodes, max_depth=12
+[20:47:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 894 extra nodes, 0 pruned nodes, max_depth=12
 [20:47:43] [337]
 [20:47:43] boosting round 338, 10962.3 sec elapsed
-[20:48:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3354 extra nodes, 0 pruned nodes, max_depth=12
+[20:48:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3354 extra nodes, 0 pruned nodes, max_depth=12
 [20:48:17] [338]
 [20:48:17] boosting round 339, 10996.7 sec elapsed
-[20:48:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 490 extra nodes, 0 pruned nodes, max_depth=12
+[20:48:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 490 extra nodes, 0 pruned nodes, max_depth=12
 [20:48:49] [339]
 [20:48:49] boosting round 340, 11028.1 sec elapsed
-[20:49:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1612 extra nodes, 0 pruned nodes, max_depth=12
+[20:49:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1612 extra nodes, 0 pruned nodes, max_depth=12
 [20:49:22] [340]
 [20:49:22] boosting round 341, 11061.9 sec elapsed
-[20:49:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2848 extra nodes, 0 pruned nodes, max_depth=12
+[20:49:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2848 extra nodes, 0 pruned nodes, max_depth=12
 [20:49:56] [341]
 [20:49:56] boosting round 342, 11095.8 sec elapsed
-[20:50:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 188 extra nodes, 0 pruned nodes, max_depth=12
+[20:50:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 188 extra nodes, 0 pruned nodes, max_depth=12
 [20:50:26] [342]
 [20:50:26] boosting round 343, 11125 sec elapsed
-[20:50:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=12
+[20:50:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=12
 [20:50:57] [343]
 [20:50:57] boosting round 344, 11156.9 sec elapsed
-[20:51:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 800 extra nodes, 0 pruned nodes, max_depth=12
+[20:51:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 800 extra nodes, 0 pruned nodes, max_depth=12
 [20:51:30] [344]
 [20:51:30] boosting round 345, 11189.2 sec elapsed
-[20:52:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2724 extra nodes, 0 pruned nodes, max_depth=12
+[20:52:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2724 extra nodes, 0 pruned nodes, max_depth=12
 [20:52:05] [345]
 [20:52:05] boosting round 346, 11224.4 sec elapsed
-[20:52:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1248 extra nodes, 0 pruned nodes, max_depth=12
+[20:52:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1248 extra nodes, 0 pruned nodes, max_depth=12
 [20:52:39] [346]
 [20:52:39] boosting round 347, 11258 sec elapsed
-[20:53:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1214 extra nodes, 0 pruned nodes, max_depth=12
+[20:53:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1214 extra nodes, 0 pruned nodes, max_depth=12
 [20:53:11] [347]
 [20:53:11] boosting round 348, 11290.8 sec elapsed
-[20:53:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 272 extra nodes, 0 pruned nodes, max_depth=12
+[20:53:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 272 extra nodes, 0 pruned nodes, max_depth=12
 [20:53:42] [348]
 [20:53:42] boosting round 349, 11321.3 sec elapsed
-[20:54:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 36 extra nodes, 0 pruned nodes, max_depth=12
+[20:54:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 36 extra nodes, 0 pruned nodes, max_depth=12
 [20:54:08] [349]
 [20:54:08] boosting round 350, 11347.7 sec elapsed
-[20:54:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 414 extra nodes, 0 pruned nodes, max_depth=12
+[20:54:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 414 extra nodes, 0 pruned nodes, max_depth=12
 [20:54:39] [350]
 [20:54:39] boosting round 351, 11378.8 sec elapsed
-[20:55:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2026 extra nodes, 0 pruned nodes, max_depth=12
+[20:55:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2026 extra nodes, 0 pruned nodes, max_depth=12
 [20:55:12] [351]
 [20:55:12] boosting round 352, 11411.7 sec elapsed
-[20:55:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 570 extra nodes, 0 pruned nodes, max_depth=12
+[20:55:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 570 extra nodes, 0 pruned nodes, max_depth=12
 [20:55:44] [352]
 [20:55:44] boosting round 353, 11443.7 sec elapsed
-[20:56:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
+[20:56:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 448 extra nodes, 0 pruned nodes, max_depth=12
 [20:56:15] [353]
 [20:56:15] boosting round 354, 11474.6 sec elapsed
-[20:56:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 58 extra nodes, 0 pruned nodes, max_depth=12
+[20:56:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 58 extra nodes, 0 pruned nodes, max_depth=12
 [20:56:42] [354]
 [20:56:42] boosting round 355, 11501.5 sec elapsed
-[20:57:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 98 extra nodes, 0 pruned nodes, max_depth=12
+[20:57:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 98 extra nodes, 0 pruned nodes, max_depth=12
 [20:57:09] [355]
 [20:57:09] boosting round 356, 11528.7 sec elapsed
-[20:57:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 642 extra nodes, 0 pruned nodes, max_depth=12
+[20:57:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 642 extra nodes, 0 pruned nodes, max_depth=12
 [20:57:42] [356]
 [20:57:42] boosting round 357, 11561 sec elapsed
-[20:58:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 134 extra nodes, 0 pruned nodes, max_depth=12
+[20:58:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 134 extra nodes, 0 pruned nodes, max_depth=12
 [20:58:09] [357]
 [20:58:09] boosting round 358, 11588.7 sec elapsed
-[20:58:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 92 extra nodes, 0 pruned nodes, max_depth=12
+[20:58:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 92 extra nodes, 0 pruned nodes, max_depth=12
 [20:58:37] [358]
 [20:58:37] boosting round 359, 11616.1 sec elapsed
-[20:59:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 112 extra nodes, 0 pruned nodes, max_depth=12
+[20:59:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 112 extra nodes, 0 pruned nodes, max_depth=12
 [20:59:05] [359]
 [20:59:05] boosting round 360, 11644 sec elapsed
-[20:59:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 438 extra nodes, 0 pruned nodes, max_depth=12
+[20:59:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 438 extra nodes, 0 pruned nodes, max_depth=12
 [20:59:35] [360]
 [20:59:35] boosting round 361, 11674 sec elapsed
-[21:00:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 638 extra nodes, 0 pruned nodes, max_depth=12
+[21:00:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 638 extra nodes, 0 pruned nodes, max_depth=12
 [21:00:07] [361]
 [21:00:07] boosting round 362, 11706.8 sec elapsed
-[21:00:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 622 extra nodes, 0 pruned nodes, max_depth=12
+[21:00:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 622 extra nodes, 0 pruned nodes, max_depth=12
 [21:00:38] [362]
 [21:00:38] boosting round 363, 11737.8 sec elapsed
-[21:01:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 238 extra nodes, 0 pruned nodes, max_depth=12
+[21:01:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 238 extra nodes, 0 pruned nodes, max_depth=12
 [21:01:08] [363]
 [21:01:08] boosting round 364, 11767.3 sec elapsed
-[21:01:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 586 extra nodes, 0 pruned nodes, max_depth=12
+[21:01:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 586 extra nodes, 0 pruned nodes, max_depth=12
 [21:01:40] [364]
 [21:01:40] boosting round 365, 11799.5 sec elapsed
-[21:02:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 944 extra nodes, 0 pruned nodes, max_depth=12
+[21:02:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 944 extra nodes, 0 pruned nodes, max_depth=12
 [21:02:13] [365]
 [21:02:13] boosting round 366, 11832.1 sec elapsed
-[21:02:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3900 extra nodes, 0 pruned nodes, max_depth=12
+[21:02:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3900 extra nodes, 0 pruned nodes, max_depth=12
 [21:02:46] [366]
 [21:02:46] boosting round 367, 11865.4 sec elapsed
-[21:03:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 322 extra nodes, 0 pruned nodes, max_depth=12
+[21:03:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 322 extra nodes, 0 pruned nodes, max_depth=12
 [21:03:16] [367]
 [21:03:16] boosting round 368, 11895 sec elapsed
-[21:03:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 256 extra nodes, 0 pruned nodes, max_depth=12
+[21:03:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 256 extra nodes, 0 pruned nodes, max_depth=12
 [21:03:45] [368]
 [21:03:45] boosting round 369, 11924.9 sec elapsed
-[21:04:15] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 228 extra nodes, 0 pruned nodes, max_depth=12
+[21:04:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 228 extra nodes, 0 pruned nodes, max_depth=12
 [21:04:15] [369]
 [21:04:15] boosting round 370, 11954.6 sec elapsed
-[21:04:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 732 extra nodes, 0 pruned nodes, max_depth=12
+[21:04:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 732 extra nodes, 0 pruned nodes, max_depth=12
 [21:04:47] [370]
 [21:04:47] boosting round 371, 11986.8 sec elapsed
-[21:05:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 556 extra nodes, 0 pruned nodes, max_depth=12
+[21:05:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 556 extra nodes, 0 pruned nodes, max_depth=12
 [21:05:20] [371]
 [21:05:20] boosting round 372, 12019.3 sec elapsed
-[21:05:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1462 extra nodes, 0 pruned nodes, max_depth=12
+[21:05:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1462 extra nodes, 0 pruned nodes, max_depth=12
 [21:05:53] [372]
 [21:05:53] boosting round 373, 12051.9 sec elapsed
-[21:06:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 340 extra nodes, 0 pruned nodes, max_depth=12
+[21:06:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 340 extra nodes, 0 pruned nodes, max_depth=12
 [21:06:23] [373]
 [21:06:23] boosting round 374, 12082.2 sec elapsed
-[21:06:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 174 extra nodes, 0 pruned nodes, max_depth=12
+[21:06:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 174 extra nodes, 0 pruned nodes, max_depth=12
 [21:06:51] [374]
 [21:06:51] boosting round 375, 12110.3 sec elapsed
-[21:07:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2112 extra nodes, 0 pruned nodes, max_depth=12
+[21:07:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2112 extra nodes, 0 pruned nodes, max_depth=12
 [21:07:25] [375]
 [21:07:25] boosting round 376, 12144.2 sec elapsed
-[21:07:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 322 extra nodes, 0 pruned nodes, max_depth=12
+[21:07:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 322 extra nodes, 0 pruned nodes, max_depth=12
 [21:07:55] [376]
 [21:07:55] boosting round 377, 12174.1 sec elapsed
-[21:08:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1894 extra nodes, 0 pruned nodes, max_depth=12
+[21:08:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1894 extra nodes, 0 pruned nodes, max_depth=12
 [21:08:27] [377]
 [21:08:27] boosting round 378, 12206.6 sec elapsed
-[21:08:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 812 extra nodes, 0 pruned nodes, max_depth=12
+[21:08:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 812 extra nodes, 0 pruned nodes, max_depth=12
 [21:08:58] [378]
 [21:08:58] boosting round 379, 12237.8 sec elapsed
-[21:09:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 220 extra nodes, 0 pruned nodes, max_depth=12
+[21:09:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 220 extra nodes, 0 pruned nodes, max_depth=12
 [21:09:27] [379]
 [21:09:27] boosting round 380, 12266.7 sec elapsed
-[21:10:00] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1082 extra nodes, 0 pruned nodes, max_depth=12
+[21:10:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1082 extra nodes, 0 pruned nodes, max_depth=12
 [21:10:00] [380]
 [21:10:00] boosting round 381, 12299.6 sec elapsed
-[21:10:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2710 extra nodes, 0 pruned nodes, max_depth=12
+[21:10:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2710 extra nodes, 0 pruned nodes, max_depth=12
 [21:10:34] [381]
 [21:10:34] boosting round 382, 12333.2 sec elapsed
-[21:11:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2586 extra nodes, 0 pruned nodes, max_depth=12
+[21:11:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2586 extra nodes, 0 pruned nodes, max_depth=12
 [21:11:07] [382]
 [21:11:07] boosting round 383, 12366.7 sec elapsed
-[21:11:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1422 extra nodes, 0 pruned nodes, max_depth=12
+[21:11:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1422 extra nodes, 0 pruned nodes, max_depth=12
 [21:11:40] [383]
 [21:11:40] boosting round 384, 12399.9 sec elapsed
-[21:12:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 526 extra nodes, 0 pruned nodes, max_depth=12
+[21:12:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 526 extra nodes, 0 pruned nodes, max_depth=12
 [21:12:12] [384]
 [21:12:12] boosting round 385, 12431.9 sec elapsed
-[21:12:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 412 extra nodes, 0 pruned nodes, max_depth=12
+[21:12:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 412 extra nodes, 0 pruned nodes, max_depth=12
 [21:12:44] [385]
 [21:12:44] boosting round 386, 12463.9 sec elapsed
-[21:13:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 968 extra nodes, 0 pruned nodes, max_depth=12
+[21:13:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 968 extra nodes, 0 pruned nodes, max_depth=12
 [21:13:17] [386]
 [21:13:17] boosting round 387, 12496.5 sec elapsed
-[21:13:49] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 908 extra nodes, 0 pruned nodes, max_depth=12
+[21:13:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 908 extra nodes, 0 pruned nodes, max_depth=12
 [21:13:49] [387]
 [21:13:49] boosting round 388, 12528.7 sec elapsed
-[21:14:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1064 extra nodes, 0 pruned nodes, max_depth=12
+[21:14:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1064 extra nodes, 0 pruned nodes, max_depth=12
 [21:14:22] [388]
 [21:14:22] boosting round 389, 12561.4 sec elapsed
-[21:14:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
+[21:14:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
 [21:14:55] [389]
 [21:14:55] boosting round 390, 12594.1 sec elapsed
-[21:15:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 846 extra nodes, 0 pruned nodes, max_depth=12
+[21:15:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 846 extra nodes, 0 pruned nodes, max_depth=12
 [21:15:27] [390]
 [21:15:27] boosting round 391, 12626.6 sec elapsed
-[21:16:00] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1962 extra nodes, 0 pruned nodes, max_depth=12
+[21:16:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1962 extra nodes, 0 pruned nodes, max_depth=12
 [21:16:00] [391]
 [21:16:00] boosting round 392, 12659.8 sec elapsed
-[21:16:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 208 extra nodes, 0 pruned nodes, max_depth=12
+[21:16:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 208 extra nodes, 0 pruned nodes, max_depth=12
 [21:16:29] [392]
 [21:16:29] boosting round 393, 12688.2 sec elapsed
-[21:17:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 862 extra nodes, 0 pruned nodes, max_depth=12
+[21:17:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 862 extra nodes, 0 pruned nodes, max_depth=12
 [21:17:01] [393]
 [21:17:01] boosting round 394, 12720.4 sec elapsed
-[21:17:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1366 extra nodes, 0 pruned nodes, max_depth=12
+[21:17:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1366 extra nodes, 0 pruned nodes, max_depth=12
 [21:17:34] [394]
 [21:17:34] boosting round 395, 12753.3 sec elapsed
-[21:18:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2442 extra nodes, 0 pruned nodes, max_depth=12
+[21:18:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2442 extra nodes, 0 pruned nodes, max_depth=12
 [21:18:08] [395]
 [21:18:08] boosting round 396, 12787.7 sec elapsed
-[21:18:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 398 extra nodes, 0 pruned nodes, max_depth=12
+[21:18:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 398 extra nodes, 0 pruned nodes, max_depth=12
 [21:18:39] [396]
 [21:18:39] boosting round 397, 12818.7 sec elapsed
-[21:19:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 904 extra nodes, 0 pruned nodes, max_depth=12
+[21:19:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 904 extra nodes, 0 pruned nodes, max_depth=12
 [21:19:12] [397]
 [21:19:12] boosting round 398, 12851.5 sec elapsed
-[21:19:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 48 extra nodes, 0 pruned nodes, max_depth=12
+[21:19:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 48 extra nodes, 0 pruned nodes, max_depth=12
 [21:19:39] [398]
 [21:19:39] boosting round 399, 12878.1 sec elapsed
-[21:20:13] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4046 extra nodes, 0 pruned nodes, max_depth=12
+[21:20:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 4046 extra nodes, 0 pruned nodes, max_depth=12
 [21:20:13] [399]
 [21:20:13] boosting round 400, 12912.4 sec elapsed
-[21:20:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 706 extra nodes, 0 pruned nodes, max_depth=12
+[21:20:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 706 extra nodes, 0 pruned nodes, max_depth=12
 [21:20:45] [400]
 [21:20:45] boosting round 401, 12944.4 sec elapsed
-[21:21:16] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 506 extra nodes, 0 pruned nodes, max_depth=12
+[21:21:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 506 extra nodes, 0 pruned nodes, max_depth=12
 [21:21:16] [401]
 [21:21:16] boosting round 402, 12975.8 sec elapsed
-[21:21:48] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 888 extra nodes, 0 pruned nodes, max_depth=12
+[21:21:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 888 extra nodes, 0 pruned nodes, max_depth=12
 [21:21:48] [402]
 [21:21:48] boosting round 403, 13007.9 sec elapsed
-[21:22:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2188 extra nodes, 0 pruned nodes, max_depth=12
+[21:22:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2188 extra nodes, 0 pruned nodes, max_depth=12
 [21:22:22] [403]
 [21:22:22] boosting round 404, 13041.7 sec elapsed
-[21:22:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1184 extra nodes, 0 pruned nodes, max_depth=12
+[21:22:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1184 extra nodes, 0 pruned nodes, max_depth=12
 [21:22:55] [404]
 [21:22:55] boosting round 405, 13074.9 sec elapsed
-[21:23:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 386 extra nodes, 0 pruned nodes, max_depth=12
+[21:23:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 386 extra nodes, 0 pruned nodes, max_depth=12
 [21:23:26] [405]
 [21:23:26] boosting round 406, 13105.6 sec elapsed
-[21:23:59] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 822 extra nodes, 0 pruned nodes, max_depth=12
+[21:23:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 822 extra nodes, 0 pruned nodes, max_depth=12
 [21:23:59] [406]
 [21:23:59] boosting round 407, 13138.2 sec elapsed
-[21:24:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 624 extra nodes, 0 pruned nodes, max_depth=12
+[21:24:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 624 extra nodes, 0 pruned nodes, max_depth=12
 [21:24:30] [407]
 [21:24:30] boosting round 408, 13169.7 sec elapsed
-[21:25:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 378 extra nodes, 0 pruned nodes, max_depth=12
+[21:25:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 378 extra nodes, 0 pruned nodes, max_depth=12
 [21:25:01] [408]
 [21:25:01] boosting round 409, 13200.4 sec elapsed
-[21:25:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 132 extra nodes, 0 pruned nodes, max_depth=12
+[21:25:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 132 extra nodes, 0 pruned nodes, max_depth=12
 [21:25:29] [409]
 [21:25:29] boosting round 410, 13228.7 sec elapsed
-[21:26:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2326 extra nodes, 0 pruned nodes, max_depth=12
+[21:26:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2326 extra nodes, 0 pruned nodes, max_depth=12
 [21:26:03] [410]
 [21:26:03] boosting round 411, 13262.7 sec elapsed
-[21:26:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 680 extra nodes, 0 pruned nodes, max_depth=12
+[21:26:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 680 extra nodes, 0 pruned nodes, max_depth=12
 [21:26:35] [411]
 [21:26:35] boosting round 412, 13294.7 sec elapsed
-[21:27:02] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 106 extra nodes, 0 pruned nodes, max_depth=12
+[21:27:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 106 extra nodes, 0 pruned nodes, max_depth=12
 [21:27:02] [412]
 [21:27:02] boosting round 413, 13321.9 sec elapsed
-[21:27:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 280 extra nodes, 0 pruned nodes, max_depth=12
+[21:27:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 280 extra nodes, 0 pruned nodes, max_depth=12
 [21:27:32] [413]
 [21:27:32] boosting round 414, 13351.2 sec elapsed
-[21:28:06] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1150 extra nodes, 0 pruned nodes, max_depth=12
+[21:28:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1150 extra nodes, 0 pruned nodes, max_depth=12
 [21:28:06] [414]
 [21:28:06] boosting round 415, 13385.5 sec elapsed
-[21:28:38] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1112 extra nodes, 0 pruned nodes, max_depth=12
+[21:28:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1112 extra nodes, 0 pruned nodes, max_depth=12
 [21:28:38] [415]
 [21:28:38] boosting round 416, 13417.5 sec elapsed
-[21:29:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1828 extra nodes, 0 pruned nodes, max_depth=12
+[21:29:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1828 extra nodes, 0 pruned nodes, max_depth=12
 [21:29:12] [416]
 [21:29:12] boosting round 417, 13451.3 sec elapsed
-[21:29:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1318 extra nodes, 0 pruned nodes, max_depth=12
+[21:29:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1318 extra nodes, 0 pruned nodes, max_depth=12
 [21:29:45] [417]
 [21:29:45] boosting round 418, 13484 sec elapsed
-[21:30:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1256 extra nodes, 0 pruned nodes, max_depth=12
+[21:30:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1256 extra nodes, 0 pruned nodes, max_depth=12
 [21:30:18] [418]
 [21:30:18] boosting round 419, 13517.4 sec elapsed
-[21:30:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1160 extra nodes, 0 pruned nodes, max_depth=12
+[21:30:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1160 extra nodes, 0 pruned nodes, max_depth=12
 [21:30:51] [419]
 [21:30:51] boosting round 420, 13550.2 sec elapsed
-[21:31:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 148 extra nodes, 0 pruned nodes, max_depth=12
+[21:31:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 148 extra nodes, 0 pruned nodes, max_depth=12
 [21:31:20] [420]
 [21:31:20] boosting round 421, 13579.2 sec elapsed
-[21:31:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 96 extra nodes, 0 pruned nodes, max_depth=12
+[21:31:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 96 extra nodes, 0 pruned nodes, max_depth=12
 [21:31:47] [421]
 [21:31:47] boosting round 422, 13606.3 sec elapsed
-[21:32:20] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2530 extra nodes, 0 pruned nodes, max_depth=12
+[21:32:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2530 extra nodes, 0 pruned nodes, max_depth=12
 [21:32:20] [422]
 [21:32:20] boosting round 423, 13639.5 sec elapsed
-[21:32:53] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1900 extra nodes, 0 pruned nodes, max_depth=12
+[21:32:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1900 extra nodes, 0 pruned nodes, max_depth=12
 [21:32:53] [423]
 [21:32:53] boosting round 424, 13672.5 sec elapsed
-[21:33:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 832 extra nodes, 0 pruned nodes, max_depth=12
+[21:33:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 832 extra nodes, 0 pruned nodes, max_depth=12
 [21:33:25] [424]
 [21:33:25] boosting round 425, 13704.8 sec elapsed
-[21:33:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 742 extra nodes, 0 pruned nodes, max_depth=12
+[21:33:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 742 extra nodes, 0 pruned nodes, max_depth=12
 [21:33:57] [425]
 [21:33:57] boosting round 426, 13736.8 sec elapsed
-[21:34:28] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 414 extra nodes, 0 pruned nodes, max_depth=12
+[21:34:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 414 extra nodes, 0 pruned nodes, max_depth=12
 [21:34:28] [426]
 [21:34:28] boosting round 427, 13767.6 sec elapsed
-[21:34:57] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 136 extra nodes, 0 pruned nodes, max_depth=12
+[21:34:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 136 extra nodes, 0 pruned nodes, max_depth=12
 [21:34:57] [427]
 [21:34:57] boosting round 428, 13796.2 sec elapsed
-[21:35:27] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 318 extra nodes, 0 pruned nodes, max_depth=12
+[21:35:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 318 extra nodes, 0 pruned nodes, max_depth=12
 [21:35:27] [428]
 [21:35:27] boosting round 429, 13826.6 sec elapsed
-[21:36:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
+[21:36:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1920 extra nodes, 0 pruned nodes, max_depth=12
 [21:36:01] [429]
 [21:36:01] boosting round 430, 13860.2 sec elapsed
-[21:36:32] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 518 extra nodes, 0 pruned nodes, max_depth=12
+[21:36:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 518 extra nodes, 0 pruned nodes, max_depth=12
 [21:36:32] [430]
 [21:36:32] boosting round 431, 13891.8 sec elapsed
-[21:37:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 466 extra nodes, 0 pruned nodes, max_depth=12
+[21:37:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 466 extra nodes, 0 pruned nodes, max_depth=12
 [21:37:04] [431]
 [21:37:04] boosting round 432, 13923.5 sec elapsed
-[21:37:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 230 extra nodes, 0 pruned nodes, max_depth=12
+[21:37:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 230 extra nodes, 0 pruned nodes, max_depth=12
 [21:37:34] [432]
 [21:37:34] boosting round 433, 13953 sec elapsed
-[21:38:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 542 extra nodes, 0 pruned nodes, max_depth=12
+[21:38:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 542 extra nodes, 0 pruned nodes, max_depth=12
 [21:38:05] [433]
 [21:38:05] boosting round 434, 13984.7 sec elapsed
-[21:38:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 784 extra nodes, 0 pruned nodes, max_depth=12
+[21:38:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 784 extra nodes, 0 pruned nodes, max_depth=12
 [21:38:37] [434]
 [21:38:37] boosting round 435, 14016.5 sec elapsed
-[21:39:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 116 extra nodes, 0 pruned nodes, max_depth=12
+[21:39:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 116 extra nodes, 0 pruned nodes, max_depth=12
 [21:39:06] [435]
 [21:39:06] boosting round 436, 14044.9 sec elapsed
-[21:39:36] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 328 extra nodes, 0 pruned nodes, max_depth=12
+[21:39:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 328 extra nodes, 0 pruned nodes, max_depth=12
 [21:39:36] [436]
 [21:39:36] boosting round 437, 14075.1 sec elapsed
-[21:40:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2010 extra nodes, 0 pruned nodes, max_depth=12
+[21:40:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2010 extra nodes, 0 pruned nodes, max_depth=12
 [21:40:10] [437]
 [21:40:10] boosting round 438, 14109.1 sec elapsed
-[21:40:43] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2018 extra nodes, 0 pruned nodes, max_depth=12
+[21:40:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2018 extra nodes, 0 pruned nodes, max_depth=12
 [21:40:43] [438]
 [21:40:43] boosting round 439, 14142.4 sec elapsed
-[21:41:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 262 extra nodes, 0 pruned nodes, max_depth=12
+[21:41:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 262 extra nodes, 0 pruned nodes, max_depth=12
 [21:41:12] [439]
 [21:41:12] boosting round 440, 14171.9 sec elapsed
-[21:41:43] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 344 extra nodes, 0 pruned nodes, max_depth=12
+[21:41:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 344 extra nodes, 0 pruned nodes, max_depth=12
 [21:41:43] [440]
 [21:41:43] boosting round 441, 14202.2 sec elapsed
-[21:42:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 46 extra nodes, 0 pruned nodes, max_depth=12
+[21:42:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 46 extra nodes, 0 pruned nodes, max_depth=12
 [21:42:09] [441]
 [21:42:09] boosting round 442, 14228.3 sec elapsed
-[21:42:35] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 62 extra nodes, 0 pruned nodes, max_depth=12
+[21:42:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 62 extra nodes, 0 pruned nodes, max_depth=12
 [21:42:35] [442]
 [21:42:35] boosting round 443, 14254.8 sec elapsed
-[21:43:08] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
+[21:43:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 646 extra nodes, 0 pruned nodes, max_depth=12
 [21:43:08] [443]
 [21:43:08] boosting round 444, 14287.3 sec elapsed
-[21:43:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 686 extra nodes, 0 pruned nodes, max_depth=12
+[21:43:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 686 extra nodes, 0 pruned nodes, max_depth=12
 [21:43:39] [444]
 [21:43:39] boosting round 445, 14318.5 sec elapsed
-[21:44:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 696 extra nodes, 0 pruned nodes, max_depth=12
+[21:44:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 696 extra nodes, 0 pruned nodes, max_depth=12
 [21:44:12] [445]
 [21:44:12] boosting round 446, 14351.6 sec elapsed
-[21:44:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 110 extra nodes, 0 pruned nodes, max_depth=12
+[21:44:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 110 extra nodes, 0 pruned nodes, max_depth=12
 [21:44:40] [446]
 [21:44:40] boosting round 447, 14379 sec elapsed
-[21:45:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1678 extra nodes, 0 pruned nodes, max_depth=12
+[21:45:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1678 extra nodes, 0 pruned nodes, max_depth=12
 [21:45:12] [447]
 [21:45:12] boosting round 448, 14411.7 sec elapsed
-[21:45:42] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 374 extra nodes, 0 pruned nodes, max_depth=12
+[21:45:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 374 extra nodes, 0 pruned nodes, max_depth=12
 [21:45:42] [448]
 [21:45:42] boosting round 449, 14441.6 sec elapsed
-[21:46:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 252 extra nodes, 0 pruned nodes, max_depth=12
+[21:46:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 252 extra nodes, 0 pruned nodes, max_depth=12
 [21:46:12] [449]
 [21:46:12] boosting round 450, 14471.6 sec elapsed
-[21:46:40] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 100 extra nodes, 0 pruned nodes, max_depth=12
+[21:46:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 100 extra nodes, 0 pruned nodes, max_depth=12
 [21:46:40] [450]
 [21:46:40] boosting round 451, 14499.8 sec elapsed
-[21:47:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3534 extra nodes, 0 pruned nodes, max_depth=12
+[21:47:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3534 extra nodes, 0 pruned nodes, max_depth=12
 [21:47:14] [451]
 [21:47:14] boosting round 452, 14533.8 sec elapsed
-[21:47:46] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 718 extra nodes, 0 pruned nodes, max_depth=12
+[21:47:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 718 extra nodes, 0 pruned nodes, max_depth=12
 [21:47:46] [452]
 [21:47:46] boosting round 453, 14565.5 sec elapsed
-[21:48:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
+[21:48:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
 [21:48:17] [453]
 [21:48:17] boosting round 454, 14596.2 sec elapsed
-[21:48:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1242 extra nodes, 0 pruned nodes, max_depth=12
+[21:48:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1242 extra nodes, 0 pruned nodes, max_depth=12
 [21:48:51] [454]
 [21:48:51] boosting round 455, 14629.9 sec elapsed
-[21:49:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
+[21:49:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 682 extra nodes, 0 pruned nodes, max_depth=12
 [21:49:23] [455]
 [21:49:23] boosting round 456, 14662 sec elapsed
-[21:49:52] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
+[21:49:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 324 extra nodes, 0 pruned nodes, max_depth=12
 [21:49:53] [456]
 [21:49:53] boosting round 457, 14692 sec elapsed
-[21:50:22] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 180 extra nodes, 0 pruned nodes, max_depth=12
+[21:50:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 180 extra nodes, 0 pruned nodes, max_depth=12
 [21:50:22] [457]
 [21:50:22] boosting round 458, 14721.9 sec elapsed
-[21:50:55] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 620 extra nodes, 0 pruned nodes, max_depth=12
+[21:50:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 620 extra nodes, 0 pruned nodes, max_depth=12
 [21:50:55] [458]
 [21:50:55] boosting round 459, 14754.4 sec elapsed
-[21:51:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 134 extra nodes, 0 pruned nodes, max_depth=12
+[21:51:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 134 extra nodes, 0 pruned nodes, max_depth=12
 [21:51:23] [459]
 [21:51:23] boosting round 460, 14782.5 sec elapsed
-[21:51:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 970 extra nodes, 0 pruned nodes, max_depth=12
+[21:51:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 970 extra nodes, 0 pruned nodes, max_depth=12
 [21:51:56] [460]
 [21:51:56] boosting round 461, 14815.5 sec elapsed
-[21:52:26] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 302 extra nodes, 0 pruned nodes, max_depth=12
+[21:52:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 302 extra nodes, 0 pruned nodes, max_depth=12
 [21:52:26] [461]
 [21:52:26] boosting round 462, 14845.2 sec elapsed
-[21:52:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
+[21:52:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 538 extra nodes, 0 pruned nodes, max_depth=12
 [21:52:58] [462]
 [21:52:58] boosting round 463, 14877.4 sec elapsed
-[21:53:30] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 982 extra nodes, 0 pruned nodes, max_depth=12
+[21:53:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 982 extra nodes, 0 pruned nodes, max_depth=12
 [21:53:30] [463]
 [21:53:30] boosting round 464, 14909.9 sec elapsed
-[21:54:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1134 extra nodes, 0 pruned nodes, max_depth=12
+[21:54:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1134 extra nodes, 0 pruned nodes, max_depth=12
 [21:54:03] [464]
 [21:54:03] boosting round 465, 14942.5 sec elapsed
-[21:54:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 310 extra nodes, 0 pruned nodes, max_depth=12
+[21:54:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 310 extra nodes, 0 pruned nodes, max_depth=12
 [21:54:33] [465]
 [21:54:33] boosting round 466, 14972.8 sec elapsed
-[21:55:04] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 384 extra nodes, 0 pruned nodes, max_depth=12
+[21:55:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 384 extra nodes, 0 pruned nodes, max_depth=12
 [21:55:05] [466]
 [21:55:05] boosting round 467, 15004 sec elapsed
-[21:55:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 224 extra nodes, 0 pruned nodes, max_depth=12
+[21:55:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 224 extra nodes, 0 pruned nodes, max_depth=12
 [21:55:34] [467]
 [21:55:34] boosting round 468, 15033.8 sec elapsed
-[21:56:07] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
+[21:56:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1562 extra nodes, 0 pruned nodes, max_depth=12
 [21:56:07] [468]
 [21:56:07] boosting round 469, 15066.4 sec elapsed
-[21:56:39] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 696 extra nodes, 0 pruned nodes, max_depth=12
+[21:56:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 696 extra nodes, 0 pruned nodes, max_depth=12
 [21:56:39] [469]
 [21:56:39] boosting round 470, 15098.2 sec elapsed
-[21:57:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2240 extra nodes, 0 pruned nodes, max_depth=12
+[21:57:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2240 extra nodes, 0 pruned nodes, max_depth=12
 [21:57:13] [470]
 [21:57:13] boosting round 471, 15131.9 sec elapsed
-[21:57:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 870 extra nodes, 0 pruned nodes, max_depth=12
+[21:57:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 870 extra nodes, 0 pruned nodes, max_depth=12
 [21:57:45] [471]
 [21:57:45] boosting round 472, 15164.8 sec elapsed
-[21:58:12] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 86 extra nodes, 0 pruned nodes, max_depth=12
+[21:58:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 86 extra nodes, 0 pruned nodes, max_depth=12
 [21:58:13] [472]
 [21:58:13] boosting round 473, 15191.9 sec elapsed
-[21:58:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 740 extra nodes, 0 pruned nodes, max_depth=12
+[21:58:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 740 extra nodes, 0 pruned nodes, max_depth=12
 [21:58:45] [473]
 [21:58:45] boosting round 474, 15224.3 sec elapsed
-[21:59:14] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 298 extra nodes, 0 pruned nodes, max_depth=12
+[21:59:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 298 extra nodes, 0 pruned nodes, max_depth=12
 [21:59:15] [474]
 [21:59:15] boosting round 475, 15254 sec elapsed
-[21:59:47] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 664 extra nodes, 0 pruned nodes, max_depth=12
+[21:59:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 664 extra nodes, 0 pruned nodes, max_depth=12
 [21:59:47] [475]
 [21:59:47] boosting round 476, 15286.4 sec elapsed
-[22:00:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 492 extra nodes, 0 pruned nodes, max_depth=12
+[22:00:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 492 extra nodes, 0 pruned nodes, max_depth=12
 [22:00:18] [476]
 [22:00:18] boosting round 477, 15317.2 sec elapsed
-[22:00:50] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 798 extra nodes, 0 pruned nodes, max_depth=12
+[22:00:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 798 extra nodes, 0 pruned nodes, max_depth=12
 [22:00:50] [477]
 [22:00:50] boosting round 478, 15349.1 sec elapsed
-[22:01:23] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2378 extra nodes, 0 pruned nodes, max_depth=12
+[22:01:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2378 extra nodes, 0 pruned nodes, max_depth=12
 [22:01:23] [478]
 [22:01:23] boosting round 479, 15382.1 sec elapsed
-[22:01:56] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1224 extra nodes, 0 pruned nodes, max_depth=12
+[22:01:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1224 extra nodes, 0 pruned nodes, max_depth=12
 [22:01:56] [479]
 [22:01:56] boosting round 480, 15415.2 sec elapsed
-[22:02:29] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2392 extra nodes, 0 pruned nodes, max_depth=12
+[22:02:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2392 extra nodes, 0 pruned nodes, max_depth=12
 [22:02:29] [480]
 [22:02:29] boosting round 481, 15448.6 sec elapsed
-[22:03:01] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 728 extra nodes, 0 pruned nodes, max_depth=12
+[22:03:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 728 extra nodes, 0 pruned nodes, max_depth=12
 [22:03:01] [481]
 [22:03:01] boosting round 482, 15480.4 sec elapsed
-[22:03:34] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3336 extra nodes, 0 pruned nodes, max_depth=12
+[22:03:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 3336 extra nodes, 0 pruned nodes, max_depth=12
 [22:03:34] [482]
 [22:03:34] boosting round 483, 15513.9 sec elapsed
-[22:04:05] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
+[22:04:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
 [22:04:05] [483]
 [22:04:05] boosting round 484, 15544.6 sec elapsed
-[22:04:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
+[22:04:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 632 extra nodes, 0 pruned nodes, max_depth=12
 [22:04:38] [484]
 [22:04:38] boosting round 485, 15577 sec elapsed
-[22:05:11] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2212 extra nodes, 0 pruned nodes, max_depth=12
+[22:05:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2212 extra nodes, 0 pruned nodes, max_depth=12
 [22:05:11] [485]
 [22:05:11] boosting round 486, 15610.2 sec elapsed
-[22:05:44] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1314 extra nodes, 0 pruned nodes, max_depth=12
+[22:05:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1314 extra nodes, 0 pruned nodes, max_depth=12
 [22:05:44] [486]
 [22:05:44] boosting round 487, 15643.1 sec elapsed
-[22:06:17] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2102 extra nodes, 0 pruned nodes, max_depth=12
+[22:06:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2102 extra nodes, 0 pruned nodes, max_depth=12
 [22:06:17] [487]
 [22:06:17] boosting round 488, 15676.3 sec elapsed
-[22:06:45] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 128 extra nodes, 0 pruned nodes, max_depth=12
+[22:06:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 128 extra nodes, 0 pruned nodes, max_depth=12
 [22:06:45] [488]
 [22:06:45] boosting round 489, 15704.3 sec elapsed
-[22:07:18] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1974 extra nodes, 0 pruned nodes, max_depth=12
+[22:07:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1974 extra nodes, 0 pruned nodes, max_depth=12
 [22:07:18] [489]
 [22:07:18] boosting round 490, 15737.3 sec elapsed
-[22:07:51] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
+[22:07:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2674 extra nodes, 0 pruned nodes, max_depth=12
 [22:07:51] [490]
 [22:07:51] boosting round 491, 15770.5 sec elapsed
-[22:08:25] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2190 extra nodes, 0 pruned nodes, max_depth=12
+[22:08:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2190 extra nodes, 0 pruned nodes, max_depth=12
 [22:08:25] [491]
 [22:08:25] boosting round 492, 15804.3 sec elapsed
-[22:08:58] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1686 extra nodes, 0 pruned nodes, max_depth=12
+[22:08:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1686 extra nodes, 0 pruned nodes, max_depth=12
 [22:08:58] [492]
 [22:08:58] boosting round 493, 15837.2 sec elapsed
-[22:09:31] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2108 extra nodes, 0 pruned nodes, max_depth=12
+[22:09:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2108 extra nodes, 0 pruned nodes, max_depth=12
 [22:09:31] [493]
 [22:09:31] boosting round 494, 15870.7 sec elapsed
-[22:10:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 770 extra nodes, 0 pruned nodes, max_depth=12
+[22:10:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 770 extra nodes, 0 pruned nodes, max_depth=12
 [22:10:04] [494]
 [22:10:04] boosting round 495, 15902.9 sec elapsed
-[22:10:33] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 254 extra nodes, 0 pruned nodes, max_depth=12
+[22:10:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 254 extra nodes, 0 pruned nodes, max_depth=12
 [22:10:34] [495]
 [22:10:34] boosting round 496, 15933 sec elapsed
-[22:11:03] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 234 extra nodes, 0 pruned nodes, max_depth=12
+[22:11:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 234 extra nodes, 0 pruned nodes, max_depth=12
 [22:11:04] [496]
 [22:11:04] boosting round 497, 15963 sec elapsed
-[22:11:37] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1320 extra nodes, 0 pruned nodes, max_depth=12
+[22:11:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 1320 extra nodes, 0 pruned nodes, max_depth=12
 [22:11:37] [497]
 [22:11:37] boosting round 498, 15996.2 sec elapsed
-[22:12:09] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2014 extra nodes, 0 pruned nodes, max_depth=12
+[22:12:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 2014 extra nodes, 0 pruned nodes, max_depth=12
 [22:12:10] [498]
 [22:12:10] boosting round 499, 16029.1 sec elapsed
-[22:12:41] /home/tks/download/xgb/xgboost/src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 556 extra nodes, 0 pruned nodes, max_depth=12
+[22:12:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 556 extra nodes, 0 pruned nodes, max_depth=12
 [22:12:41] [499]
 [22:12:42] update end, 16060.9 sec in all
