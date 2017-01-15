@@ -1,0 +1,1504 @@
+[08:31:48] 10500000x28 matrix with 294000000 entries loaded from ../data/higgs.train
+[08:31:49] 500000x28 matrix with 14000000 entries loaded from ../data/higgs.test
+[08:31:49] Tree method is selected to be 'hist', which uses histogram aggregation for faster training. Using default sequence of updaters: grow_fast_histmaker,prune
+[08:31:49] boosting round 0, 0 sec elapsed
+[08:31:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:31:59] [0]	test-auc:0.771814
+[08:31:59] boosting round 1, 10.0698 sec elapsed
+[08:32:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:32:01] [1]	test-auc:0.777943
+[08:32:01] boosting round 2, 11.779 sec elapsed
+[08:32:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:03] [2]	test-auc:0.781688
+[08:32:03] boosting round 3, 13.4827 sec elapsed
+[08:32:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:32:04] [3]	test-auc:0.784208
+[08:32:04] boosting round 4, 15.1985 sec elapsed
+[08:32:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:06] [4]	test-auc:0.786558
+[08:32:06] boosting round 5, 16.9008 sec elapsed
+[08:32:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:32:08] [5]	test-auc:0.788639
+[08:32:08] boosting round 6, 18.6136 sec elapsed
+[08:32:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:09] [6]	test-auc:0.790354
+[08:32:09] boosting round 7, 20.3307 sec elapsed
+[08:32:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:32:11] [7]	test-auc:0.791848
+[08:32:11] boosting round 8, 22.0385 sec elapsed
+[08:32:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:32:13] [8]	test-auc:0.793104
+[08:32:13] boosting round 9, 23.7476 sec elapsed
+[08:32:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:15] [9]	test-auc:0.794492
+[08:32:15] boosting round 10, 25.4896 sec elapsed
+[08:32:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:16] [10]	test-auc:0.795895
+[08:32:16] boosting round 11, 27.175 sec elapsed
+[08:32:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:18] [11]	test-auc:0.797051
+[08:32:18] boosting round 12, 28.8816 sec elapsed
+[08:32:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:20] [12]	test-auc:0.798219
+[08:32:20] boosting round 13, 30.5796 sec elapsed
+[08:32:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:21] [13]	test-auc:0.799233
+[08:32:21] boosting round 14, 32.3125 sec elapsed
+[08:32:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:23] [14]	test-auc:0.800238
+[08:32:23] boosting round 15, 34.041 sec elapsed
+[08:32:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:32:25] [15]	test-auc:0.801454
+[08:32:25] boosting round 16, 35.768 sec elapsed
+[08:32:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:32:27] [16]	test-auc:0.802467
+[08:32:27] boosting round 17, 37.4909 sec elapsed
+[08:32:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:32:28] [17]	test-auc:0.803453
+[08:32:28] boosting round 18, 39.1899 sec elapsed
+[08:32:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:30] [18]	test-auc:0.804660
+[08:32:30] boosting round 19, 40.8919 sec elapsed
+[08:32:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:32:32] [19]	test-auc:0.805493
+[08:32:32] boosting round 20, 42.5984 sec elapsed
+[08:32:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:32:33] [20]	test-auc:0.806272
+[08:32:33] boosting round 21, 44.2968 sec elapsed
+[08:32:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:32:35] [21]	test-auc:0.807335
+[08:32:35] boosting round 22, 45.9991 sec elapsed
+[08:32:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:32:37] [22]	test-auc:0.807992
+[08:32:37] boosting round 23, 47.7181 sec elapsed
+[08:32:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:32:39] [23]	test-auc:0.808982
+[08:32:39] boosting round 24, 49.454 sec elapsed
+[08:32:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:40] [24]	test-auc:0.809625
+[08:32:40] boosting round 25, 51.1775 sec elapsed
+[08:32:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:32:42] [25]	test-auc:0.810359
+[08:32:42] boosting round 26, 52.9163 sec elapsed
+[08:32:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:44] [26]	test-auc:0.811098
+[08:32:44] boosting round 27, 54.6888 sec elapsed
+[08:32:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:45] [27]	test-auc:0.811707
+[08:32:45] boosting round 28, 56.4197 sec elapsed
+[08:32:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:47] [28]	test-auc:0.812417
+[08:32:47] boosting round 29, 58.1583 sec elapsed
+[08:32:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:32:49] [29]	test-auc:0.812969
+[08:32:49] boosting round 30, 59.8891 sec elapsed
+[08:32:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:32:51] [30]	test-auc:0.813533
+[08:32:51] boosting round 31, 61.6616 sec elapsed
+[08:32:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:32:52] [31]	test-auc:0.814053
+[08:32:52] boosting round 32, 63.389 sec elapsed
+[08:32:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:32:54] [32]	test-auc:0.814647
+[08:32:54] boosting round 33, 65.1559 sec elapsed
+[08:32:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:32:56] [33]	test-auc:0.815195
+[08:32:56] boosting round 34, 66.9417 sec elapsed
+[08:32:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:32:58] [34]	test-auc:0.815702
+[08:32:58] boosting round 35, 68.6917 sec elapsed
+[08:32:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:00] [35]	test-auc:0.816157
+[08:33:00] boosting round 36, 70.4856 sec elapsed
+[08:33:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:33:01] [36]	test-auc:0.816581
+[08:33:01] boosting round 37, 72.2685 sec elapsed
+[08:33:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:03] [37]	test-auc:0.817021
+[08:33:03] boosting round 38, 74.0136 sec elapsed
+[08:33:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:05] [38]	test-auc:0.817474
+[08:33:05] boosting round 39, 75.7218 sec elapsed
+[08:33:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:07] [39]	test-auc:0.817863
+[08:33:07] boosting round 40, 77.4589 sec elapsed
+[08:33:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:33:08] [40]	test-auc:0.818286
+[08:33:08] boosting round 41, 79.214 sec elapsed
+[08:33:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:33:10] [41]	test-auc:0.818681
+[08:33:10] boosting round 42, 81.0611 sec elapsed
+[08:33:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:33:12] [42]	test-auc:0.819038
+[08:33:12] boosting round 43, 82.7723 sec elapsed
+[08:33:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:33:14] [43]	test-auc:0.819421
+[08:33:14] boosting round 44, 84.5132 sec elapsed
+[08:33:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:15] [44]	test-auc:0.819821
+[08:33:15] boosting round 45, 86.2673 sec elapsed
+[08:33:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:17] [45]	test-auc:0.820161
+[08:33:17] boosting round 46, 87.9789 sec elapsed
+[08:33:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:33:19] [46]	test-auc:0.820491
+[08:33:19] boosting round 47, 89.7222 sec elapsed
+[08:33:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:21] [47]	test-auc:0.820881
+[08:33:21] boosting round 48, 91.5076 sec elapsed
+[08:33:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:33:22] [48]	test-auc:0.821228
+[08:33:22] boosting round 49, 93.3419 sec elapsed
+[08:33:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:24] [49]	test-auc:0.821505
+[08:33:24] boosting round 50, 95.0642 sec elapsed
+[08:33:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:26] [50]	test-auc:0.821822
+[08:33:26] boosting round 51, 96.7976 sec elapsed
+[08:33:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:28] [51]	test-auc:0.822160
+[08:33:28] boosting round 52, 98.6456 sec elapsed
+[08:33:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:29] [52]	test-auc:0.822451
+[08:33:29] boosting round 53, 100.361 sec elapsed
+[08:33:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:33:31] [53]	test-auc:0.822746
+[08:33:31] boosting round 54, 102.127 sec elapsed
+[08:33:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:33] [54]	test-auc:0.823014
+[08:33:33] boosting round 55, 103.885 sec elapsed
+[08:33:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:33:35] [55]	test-auc:0.823371
+[08:33:35] boosting round 56, 105.655 sec elapsed
+[08:33:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:36] [56]	test-auc:0.823604
+[08:33:36] boosting round 57, 107.342 sec elapsed
+[08:33:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:38] [57]	test-auc:0.823883
+[08:33:38] boosting round 58, 109.176 sec elapsed
+[08:33:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:40] [58]	test-auc:0.824127
+[08:33:40] boosting round 59, 110.877 sec elapsed
+[08:33:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:33:42] [59]	test-auc:0.824419
+[08:33:42] boosting round 60, 112.718 sec elapsed
+[08:33:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:33:44] [60]	test-auc:0.824654
+[08:33:44] boosting round 61, 114.461 sec elapsed
+[08:33:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:33:45] [61]	test-auc:0.824946
+[08:33:45] boosting round 62, 116.364 sec elapsed
+[08:33:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:47] [62]	test-auc:0.825154
+[08:33:47] boosting round 63, 118.075 sec elapsed
+[08:33:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:33:49] [63]	test-auc:0.825360
+[08:33:49] boosting round 64, 119.847 sec elapsed
+[08:33:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:33:51] [64]	test-auc:0.825593
+[08:33:51] boosting round 65, 121.635 sec elapsed
+[08:33:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:33:53] [65]	test-auc:0.825823
+[08:33:53] boosting round 66, 123.453 sec elapsed
+[08:33:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:33:54] [66]	test-auc:0.826020
+[08:33:54] boosting round 67, 125.17 sec elapsed
+[08:33:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:33:56] [67]	test-auc:0.826250
+[08:33:56] boosting round 68, 126.865 sec elapsed
+[08:33:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:33:58] [68]	test-auc:0.826462
+[08:33:58] boosting round 69, 128.806 sec elapsed
+[08:33:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:34:00] [69]	test-auc:0.826651
+[08:34:00] boosting round 70, 130.532 sec elapsed
+[08:34:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:34:01] [70]	test-auc:0.826853
+[08:34:01] boosting round 71, 132.316 sec elapsed
+[08:34:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:03] [71]	test-auc:0.827044
+[08:34:03] boosting round 72, 133.99 sec elapsed
+[08:34:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:34:05] [72]	test-auc:0.827226
+[08:34:05] boosting round 73, 135.773 sec elapsed
+[08:34:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:34:07] [73]	test-auc:0.827396
+[08:34:07] boosting round 74, 137.475 sec elapsed
+[08:34:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:34:08] [74]	test-auc:0.827582
+[08:34:08] boosting round 75, 139.327 sec elapsed
+[08:34:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:34:10] [75]	test-auc:0.827753
+[08:34:10] boosting round 76, 141.113 sec elapsed
+[08:34:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:34:12] [76]	test-auc:0.827935
+[08:34:12] boosting round 77, 142.812 sec elapsed
+[08:34:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:34:14] [77]	test-auc:0.828084
+[08:34:14] boosting round 78, 144.533 sec elapsed
+[08:34:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:15] [78]	test-auc:0.828267
+[08:34:15] boosting round 79, 146.175 sec elapsed
+[08:34:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:34:17] [79]	test-auc:0.828479
+[08:34:17] boosting round 80, 148.075 sec elapsed
+[08:34:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:34:19] [80]	test-auc:0.828666
+[08:34:19] boosting round 81, 149.893 sec elapsed
+[08:34:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:21] [81]	test-auc:0.828822
+[08:34:21] boosting round 82, 151.591 sec elapsed
+[08:34:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:34:22] [82]	test-auc:0.828983
+[08:34:22] boosting round 83, 153.344 sec elapsed
+[08:34:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:34:24] [83]	test-auc:0.829205
+[08:34:24] boosting round 84, 155.147 sec elapsed
+[08:34:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=32
+[08:34:26] [84]	test-auc:0.829359
+[08:34:26] boosting round 85, 157.004 sec elapsed
+[08:34:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:34:28] [85]	test-auc:0.829491
+[08:34:28] boosting round 86, 158.759 sec elapsed
+[08:34:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:34:30] [86]	test-auc:0.829655
+[08:34:30] boosting round 87, 160.479 sec elapsed
+[08:34:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:31] [87]	test-auc:0.829876
+[08:34:31] boosting round 88, 162.231 sec elapsed
+[08:34:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:34:33] [88]	test-auc:0.830063
+[08:34:33] boosting round 89, 164.007 sec elapsed
+[08:34:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:34:35] [89]	test-auc:0.830231
+[08:34:35] boosting round 90, 165.64 sec elapsed
+[08:34:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:34:37] [90]	test-auc:0.830435
+[08:34:37] boosting round 91, 167.467 sec elapsed
+[08:34:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:34:38] [91]	test-auc:0.830555
+[08:34:38] boosting round 92, 168.893 sec elapsed
+[08:34:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:40] [92]	test-auc:0.830678
+[08:34:40] boosting round 93, 170.494 sec elapsed
+[08:34:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:41] [93]	test-auc:0.830815
+[08:34:41] boosting round 94, 172.172 sec elapsed
+[08:34:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:34:43] [94]	test-auc:0.830971
+[08:34:43] boosting round 95, 173.922 sec elapsed
+[08:34:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:34:45] [95]	test-auc:0.831160
+[08:34:45] boosting round 96, 175.52 sec elapsed
+[08:34:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:34:46] [96]	test-auc:0.831329
+[08:34:46] boosting round 97, 177.19 sec elapsed
+[08:34:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:34:48] [97]	test-auc:0.831439
+[08:34:48] boosting round 98, 178.942 sec elapsed
+[08:34:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=28
+[08:34:50] [98]	test-auc:0.831619
+[08:34:50] boosting round 99, 181.02 sec elapsed
+[08:34:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:34:52] [99]	test-auc:0.831776
+[08:34:52] boosting round 100, 182.729 sec elapsed
+[08:34:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:34:53] [100]	test-auc:0.831895
+[08:34:53] boosting round 101, 184.322 sec elapsed
+[08:34:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:34:55] [101]	test-auc:0.832030
+[08:34:55] boosting round 102, 186.003 sec elapsed
+[08:34:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:34:57] [102]	test-auc:0.832144
+[08:34:57] boosting round 103, 187.807 sec elapsed
+[08:34:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:34:59] [103]	test-auc:0.832256
+[08:34:59] boosting round 104, 189.457 sec elapsed
+[08:35:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:35:00] [104]	test-auc:0.832379
+[08:35:00] boosting round 105, 191.106 sec elapsed
+[08:35:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:35:02] [105]	test-auc:0.832528
+[08:35:02] boosting round 106, 192.802 sec elapsed
+[08:35:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:35:04] [106]	test-auc:0.832673
+[08:35:04] boosting round 107, 194.517 sec elapsed
+[08:35:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:05] [107]	test-auc:0.832769
+[08:35:05] boosting round 108, 196.049 sec elapsed
+[08:35:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:35:07] [108]	test-auc:0.832875
+[08:35:07] boosting round 109, 197.642 sec elapsed
+[08:35:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:35:09] [109]	test-auc:0.833018
+[08:35:09] boosting round 110, 199.442 sec elapsed
+[08:35:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:10] [110]	test-auc:0.833107
+[08:35:10] boosting round 111, 201.047 sec elapsed
+[08:35:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:35:12] [111]	test-auc:0.833195
+[08:35:12] boosting round 112, 202.734 sec elapsed
+[08:35:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:13] [112]	test-auc:0.833348
+[08:35:13] boosting round 113, 204.378 sec elapsed
+[08:35:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:35:15] [113]	test-auc:0.833440
+[08:35:15] boosting round 114, 205.98 sec elapsed
+[08:35:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:35:17] [114]	test-auc:0.833572
+[08:35:17] boosting round 115, 207.546 sec elapsed
+[08:35:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:35:18] [115]	test-auc:0.833655
+[08:35:18] boosting round 116, 209.278 sec elapsed
+[08:35:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:35:20] [116]	test-auc:0.833773
+[08:35:20] boosting round 117, 211.058 sec elapsed
+[08:35:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:22] [117]	test-auc:0.833880
+[08:35:22] boosting round 118, 212.663 sec elapsed
+[08:35:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:35:23] [118]	test-auc:0.834003
+[08:35:23] boosting round 119, 214.149 sec elapsed
+[08:35:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:25] [119]	test-auc:0.834088
+[08:35:25] boosting round 120, 215.614 sec elapsed
+[08:35:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:26] [120]	test-auc:0.834212
+[08:35:26] boosting round 121, 217.182 sec elapsed
+[08:35:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:35:28] [121]	test-auc:0.834287
+[08:35:28] boosting round 122, 218.851 sec elapsed
+[08:35:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:35:29] [122]	test-auc:0.834375
+[08:35:29] boosting round 123, 220.15 sec elapsed
+[08:35:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:35:31] [123]	test-auc:0.834465
+[08:35:31] boosting round 124, 221.889 sec elapsed
+[08:35:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:35:33] [124]	test-auc:0.834593
+[08:35:33] boosting round 125, 223.497 sec elapsed
+[08:35:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:35:34] [125]	test-auc:0.834705
+[08:35:34] boosting round 126, 225.255 sec elapsed
+[08:35:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:35] [126]	test-auc:0.834778
+[08:35:35] boosting round 127, 226.44 sec elapsed
+[08:35:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:37] [127]	test-auc:0.834859
+[08:35:37] boosting round 128, 228.139 sec elapsed
+[08:35:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:39] [128]	test-auc:0.834935
+[08:35:39] boosting round 129, 229.73 sec elapsed
+[08:35:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:35:41] [129]	test-auc:0.835070
+[08:35:41] boosting round 130, 231.563 sec elapsed
+[08:35:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:42] [130]	test-auc:0.835179
+[08:35:42] boosting round 131, 233.19 sec elapsed
+[08:35:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:44] [131]	test-auc:0.835280
+[08:35:44] boosting round 132, 234.829 sec elapsed
+[08:35:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:35:46] [132]	test-auc:0.835348
+[08:35:46] boosting round 133, 236.559 sec elapsed
+[08:35:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:35:47] [133]	test-auc:0.835463
+[08:35:47] boosting round 134, 238.301 sec elapsed
+[08:35:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:35:49] [134]	test-auc:0.835542
+[08:35:49] boosting round 135, 239.884 sec elapsed
+[08:35:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:50] [135]	test-auc:0.835616
+[08:35:50] boosting round 136, 241.4 sec elapsed
+[08:35:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:35:52] [136]	test-auc:0.835695
+[08:35:52] boosting round 137, 242.835 sec elapsed
+[08:35:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:35:53] [137]	test-auc:0.835770
+[08:35:53] boosting round 138, 244.269 sec elapsed
+[08:35:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:55] [138]	test-auc:0.835873
+[08:35:55] boosting round 139, 245.813 sec elapsed
+[08:35:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:35:56] [139]	test-auc:0.835928
+[08:35:56] boosting round 140, 247.155 sec elapsed
+[08:35:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:35:58] [140]	test-auc:0.835975
+[08:35:58] boosting round 141, 248.483 sec elapsed
+[08:35:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:35:59] [141]	test-auc:0.836038
+[08:35:59] boosting round 142, 249.911 sec elapsed
+[08:36:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:36:01] [142]	test-auc:0.836122
+[08:36:01] boosting round 143, 251.526 sec elapsed
+[08:36:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:36:02] [143]	test-auc:0.836240
+[08:36:02] boosting round 144, 252.981 sec elapsed
+[08:36:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:03] [144]	test-auc:0.836302
+[08:36:03] boosting round 145, 254.041 sec elapsed
+[08:36:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:36:05] [145]	test-auc:0.836410
+[08:36:05] boosting round 146, 255.767 sec elapsed
+[08:36:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:36:06] [146]	test-auc:0.836467
+[08:36:06] boosting round 147, 257.298 sec elapsed
+[08:36:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:08] [147]	test-auc:0.836546
+[08:36:08] boosting round 148, 258.833 sec elapsed
+[08:36:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:09] [148]	test-auc:0.836589
+[08:36:09] boosting round 149, 260.018 sec elapsed
+[08:36:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:11] [149]	test-auc:0.836645
+[08:36:11] boosting round 150, 261.454 sec elapsed
+[08:36:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:12] [150]	test-auc:0.836702
+[08:36:12] boosting round 151, 262.905 sec elapsed
+[08:36:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:36:13] [151]	test-auc:0.836761
+[08:36:13] boosting round 152, 264.404 sec elapsed
+[08:36:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:36:15] [152]	test-auc:0.836847
+[08:36:15] boosting round 153, 266.061 sec elapsed
+[08:36:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:36:16] [153]	test-auc:0.836895
+[08:36:16] boosting round 154, 267.113 sec elapsed
+[08:36:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:18] [154]	test-auc:0.836980
+[08:36:18] boosting round 155, 268.707 sec elapsed
+[08:36:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:19] [155]	test-auc:0.837037
+[08:36:19] boosting round 156, 270.003 sec elapsed
+[08:36:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:20] [156]	test-auc:0.837070
+[08:36:20] boosting round 157, 270.864 sec elapsed
+[08:36:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:36:21] [157]	test-auc:0.837153
+[08:36:21] boosting round 158, 272.377 sec elapsed
+[08:36:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:23] [158]	test-auc:0.837234
+[08:36:23] boosting round 159, 274.011 sec elapsed
+[08:36:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:36:25] [159]	test-auc:0.837302
+[08:36:25] boosting round 160, 275.52 sec elapsed
+[08:36:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:36:26] [160]	test-auc:0.837360
+[08:36:26] boosting round 161, 276.719 sec elapsed
+[08:36:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:36:27] [161]	test-auc:0.837399
+[08:36:27] boosting round 162, 277.832 sec elapsed
+[08:36:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:28] [162]	test-auc:0.837460
+[08:36:28] boosting round 163, 279.33 sec elapsed
+[08:36:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:29] [163]	test-auc:0.837502
+[08:36:29] boosting round 164, 280.323 sec elapsed
+[08:36:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:36:31] [164]	test-auc:0.837569
+[08:36:31] boosting round 165, 281.815 sec elapsed
+[08:36:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:32] [165]	test-auc:0.837626
+[08:36:32] boosting round 166, 283.343 sec elapsed
+[08:36:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:34] [166]	test-auc:0.837676
+[08:36:34] boosting round 167, 284.474 sec elapsed
+[08:36:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:35] [167]	test-auc:0.837728
+[08:36:35] boosting round 168, 285.503 sec elapsed
+[08:36:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:36] [168]	test-auc:0.837786
+[08:36:36] boosting round 169, 286.794 sec elapsed
+[08:36:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:36:37] [169]	test-auc:0.837835
+[08:36:37] boosting round 170, 288.027 sec elapsed
+[08:36:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:38] [170]	test-auc:0.837873
+[08:36:38] boosting round 171, 289.047 sec elapsed
+[08:36:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=31
+[08:36:40] [171]	test-auc:0.837929
+[08:36:40] boosting round 172, 290.542 sec elapsed
+[08:36:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:36:41] [172]	test-auc:0.837978
+[08:36:41] boosting round 173, 291.689 sec elapsed
+[08:36:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:36:42] [173]	test-auc:0.838061
+[08:36:42] boosting round 174, 293.239 sec elapsed
+[08:36:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:43] [174]	test-auc:0.838104
+[08:36:43] boosting round 175, 294.382 sec elapsed
+[08:36:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:45] [175]	test-auc:0.838149
+[08:36:45] boosting round 176, 295.803 sec elapsed
+[08:36:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:36:46] [176]	test-auc:0.838201
+[08:36:46] boosting round 177, 297.125 sec elapsed
+[08:36:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:47] [177]	test-auc:0.838247
+[08:36:47] boosting round 178, 298.381 sec elapsed
+[08:36:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:36:49] [178]	test-auc:0.838288
+[08:36:49] boosting round 179, 299.707 sec elapsed
+[08:36:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:36:50] [179]	test-auc:0.838327
+[08:36:50] boosting round 180, 300.521 sec elapsed
+[08:36:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:36:51] [180]	test-auc:0.838360
+[08:36:51] boosting round 181, 301.524 sec elapsed
+[08:36:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:36:52] [181]	test-auc:0.838388
+[08:36:52] boosting round 182, 302.648 sec elapsed
+[08:36:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:53] [182]	test-auc:0.838477
+[08:36:53] boosting round 183, 304.153 sec elapsed
+[08:36:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:36:54] [183]	test-auc:0.838499
+[08:36:54] boosting round 184, 304.897 sec elapsed
+[08:36:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:36:56] [184]	test-auc:0.838553
+[08:36:56] boosting round 185, 306.499 sec elapsed
+[08:36:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:57] [185]	test-auc:0.838613
+[08:36:57] boosting round 186, 307.925 sec elapsed
+[08:36:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:36:58] [186]	test-auc:0.838653
+[08:36:58] boosting round 187, 308.74 sec elapsed
+[08:36:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:36:59] [187]	test-auc:0.838690
+[08:36:59] boosting round 188, 309.818 sec elapsed
+[08:36:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:36:59] [188]	test-auc:0.838702
+[08:36:59] boosting round 189, 310.362 sec elapsed
+[08:37:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:37:00] [189]	test-auc:0.838714
+[08:37:00] boosting round 190, 311.031 sec elapsed
+[08:37:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:01] [190]	test-auc:0.838792
+[08:37:01] boosting round 191, 312.242 sec elapsed
+[08:37:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:02] [191]	test-auc:0.838823
+[08:37:02] boosting round 192, 313.134 sec elapsed
+[08:37:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:03] [192]	test-auc:0.838851
+[08:37:03] boosting round 193, 313.977 sec elapsed
+[08:37:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:04] [193]	test-auc:0.838890
+[08:37:04] boosting round 194, 314.888 sec elapsed
+[08:37:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:05] [194]	test-auc:0.838936
+[08:37:05] boosting round 195, 315.927 sec elapsed
+[08:37:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:37:06] [195]	test-auc:0.838990
+[08:37:06] boosting round 196, 317.157 sec elapsed
+[08:37:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:07] [196]	test-auc:0.839030
+[08:37:07] boosting round 197, 318.186 sec elapsed
+[08:37:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:08] [197]	test-auc:0.839041
+[08:37:08] boosting round 198, 318.725 sec elapsed
+[08:37:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:09] [198]	test-auc:0.839102
+[08:37:09] boosting round 199, 320.169 sec elapsed
+[08:37:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:37:10] [199]	test-auc:0.839121
+[08:37:10] boosting round 200, 321.144 sec elapsed
+[08:37:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:12] [200]	test-auc:0.839171
+[08:37:12] boosting round 201, 322.597 sec elapsed
+[08:37:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:13] [201]	test-auc:0.839207
+[08:37:13] boosting round 202, 323.658 sec elapsed
+[08:37:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:14] [202]	test-auc:0.839262
+[08:37:14] boosting round 203, 325.05 sec elapsed
+[08:37:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:15] [203]	test-auc:0.839310
+[08:37:15] boosting round 204, 325.952 sec elapsed
+[08:37:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:16] [204]	test-auc:0.839334
+[08:37:16] boosting round 205, 326.599 sec elapsed
+[08:37:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:16] [205]	test-auc:0.839349
+[08:37:16] boosting round 206, 327.162 sec elapsed
+[08:37:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:17] [206]	test-auc:0.839376
+[08:37:17] boosting round 207, 327.862 sec elapsed
+[08:37:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=29
+[08:37:18] [207]	test-auc:0.839426
+[08:37:18] boosting round 208, 328.801 sec elapsed
+[08:37:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:19] [208]	test-auc:0.839469
+[08:37:19] boosting round 209, 330.18 sec elapsed
+[08:37:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:37:20] [209]	test-auc:0.839517
+[08:37:20] boosting round 210, 331.225 sec elapsed
+[08:37:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:21] [210]	test-auc:0.839524
+[08:37:21] boosting round 211, 331.839 sec elapsed
+[08:37:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:22] [211]	test-auc:0.839547
+[08:37:22] boosting round 212, 332.509 sec elapsed
+[08:37:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:23] [212]	test-auc:0.839582
+[08:37:23] boosting round 213, 333.637 sec elapsed
+[08:37:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:24] [213]	test-auc:0.839646
+[08:37:24] boosting round 214, 334.755 sec elapsed
+[08:37:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:25] [214]	test-auc:0.839698
+[08:37:25] boosting round 215, 335.766 sec elapsed
+[08:37:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:26] [215]	test-auc:0.839750
+[08:37:26] boosting round 216, 337.16 sec elapsed
+[08:37:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:27] [216]	test-auc:0.839762
+[08:37:27] boosting round 217, 337.761 sec elapsed
+[08:37:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:37:27] [217]	test-auc:0.839777
+[08:37:27] boosting round 218, 338.356 sec elapsed
+[08:37:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:28] [218]	test-auc:0.839810
+[08:37:28] boosting round 219, 339.317 sec elapsed
+[08:37:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:37:29] [219]	test-auc:0.839821
+[08:37:29] boosting round 220, 339.89 sec elapsed
+[08:37:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:37:30] [220]	test-auc:0.839837
+[08:37:30] boosting round 221, 340.524 sec elapsed
+[08:37:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:30] [221]	test-auc:0.839861
+[08:37:30] boosting round 222, 341.245 sec elapsed
+[08:37:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:31] [222]	test-auc:0.839893
+[08:37:31] boosting round 223, 342.191 sec elapsed
+[08:37:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:37:32] [223]	test-auc:0.839904
+[08:37:32] boosting round 224, 342.754 sec elapsed
+[08:37:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:33] [224]	test-auc:0.839969
+[08:37:33] boosting round 225, 344.122 sec elapsed
+[08:37:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:34] [225]	test-auc:0.840024
+[08:37:34] boosting round 226, 345.188 sec elapsed
+[08:37:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:35] [226]	test-auc:0.840039
+[08:37:35] boosting round 227, 345.785 sec elapsed
+[08:37:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:36] [227]	test-auc:0.840066
+[08:37:36] boosting round 228, 346.615 sec elapsed
+[08:37:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:36] [228]	test-auc:0.840093
+[08:37:36] boosting round 229, 347.423 sec elapsed
+[08:37:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:37] [229]	test-auc:0.840101
+[08:37:37] boosting round 230, 347.967 sec elapsed
+[08:37:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:38] [230]	test-auc:0.840133
+[08:37:38] boosting round 231, 349.081 sec elapsed
+[08:37:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:37:39] [231]	test-auc:0.840159
+[08:37:39] boosting round 232, 350.035 sec elapsed
+[08:37:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:40] [232]	test-auc:0.840186
+[08:37:40] boosting round 233, 350.95 sec elapsed
+[08:37:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:41] [233]	test-auc:0.840237
+[08:37:41] boosting round 234, 352.1 sec elapsed
+[08:37:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:37:43] [234]	test-auc:0.840327
+[08:37:43] boosting round 235, 353.589 sec elapsed
+[08:37:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:43] [235]	test-auc:0.840352
+[08:37:43] boosting round 236, 354.374 sec elapsed
+[08:37:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:44] [236]	test-auc:0.840365
+[08:37:44] boosting round 237, 354.891 sec elapsed
+[08:37:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:44] [237]	test-auc:0.840374
+[08:37:44] boosting round 238, 355.414 sec elapsed
+[08:37:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:37:46] [238]	test-auc:0.840419
+[08:37:46] boosting round 239, 356.972 sec elapsed
+[08:37:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:47] [239]	test-auc:0.840427
+[08:37:47] boosting round 240, 357.506 sec elapsed
+[08:37:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:47] [240]	test-auc:0.840438
+[08:37:47] boosting round 241, 357.998 sec elapsed
+[08:37:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:37:48] [241]	test-auc:0.840450
+[08:37:48] boosting round 242, 358.574 sec elapsed
+[08:37:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:37:49] [242]	test-auc:0.840592
+[08:37:49] boosting round 243, 360.107 sec elapsed
+[08:37:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:37:50] [243]	test-auc:0.840606
+[08:37:50] boosting round 244, 360.612 sec elapsed
+[08:37:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:37:51] [244]	test-auc:0.840641
+[08:37:51] boosting round 245, 361.662 sec elapsed
+[08:37:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:37:52] [245]	test-auc:0.840669
+[08:37:52] boosting round 246, 362.557 sec elapsed
+[08:37:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:37:53] [246]	test-auc:0.840790
+[08:37:53] boosting round 247, 364.002 sec elapsed
+[08:37:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:54] [247]	test-auc:0.840832
+[08:37:54] boosting round 248, 365.063 sec elapsed
+[08:37:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:37:55] [248]	test-auc:0.840877
+[08:37:55] boosting round 249, 365.861 sec elapsed
+[08:37:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:55] [249]	test-auc:0.840888
+[08:37:55] boosting round 250, 366.369 sec elapsed
+[08:37:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:56] [250]	test-auc:0.840904
+[08:37:56] boosting round 251, 367.022 sec elapsed
+[08:37:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:37:57] [251]	test-auc:0.840941
+[08:37:57] boosting round 252, 368.081 sec elapsed
+[08:37:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:37:58] [252]	test-auc:0.840975
+[08:37:58] boosting round 253, 368.983 sec elapsed
+[08:37:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:37:59] [253]	test-auc:0.841004
+[08:37:59] boosting round 254, 370.121 sec elapsed
+[08:38:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:00] [254]	test-auc:0.841037
+[08:38:00] boosting round 255, 370.956 sec elapsed
+[08:38:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:01] [255]	test-auc:0.841059
+[08:38:01] boosting round 256, 371.609 sec elapsed
+[08:38:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:01] [256]	test-auc:0.841069
+[08:38:01] boosting round 257, 372.323 sec elapsed
+[08:38:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:02] [257]	test-auc:0.841077
+[08:38:02] boosting round 258, 372.829 sec elapsed
+[08:38:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:03] [258]	test-auc:0.841125
+[08:38:03] boosting round 259, 374.029 sec elapsed
+[08:38:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:38:04] [259]	test-auc:0.841132
+[08:38:04] boosting round 260, 374.541 sec elapsed
+[08:38:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:04] [260]	test-auc:0.841141
+[08:38:04] boosting round 261, 375.033 sec elapsed
+[08:38:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:38:05] [261]	test-auc:0.841202
+[08:38:05] boosting round 262, 376.402 sec elapsed
+[08:38:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:07] [262]	test-auc:0.841241
+[08:38:07] boosting round 263, 377.466 sec elapsed
+[08:38:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:07] [263]	test-auc:0.841268
+[08:38:07] boosting round 264, 378.401 sec elapsed
+[08:38:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:38:08] [264]	test-auc:0.841309
+[08:38:08] boosting round 265, 379.247 sec elapsed
+[08:38:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:09] [265]	test-auc:0.841328
+[08:38:09] boosting round 266, 379.814 sec elapsed
+[08:38:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=13
+[08:38:10] [266]	test-auc:0.841427
+[08:38:10] boosting round 267, 381.233 sec elapsed
+[08:38:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:11] [267]	test-auc:0.841472
+[08:38:11] boosting round 268, 382.267 sec elapsed
+[08:38:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:12] [268]	test-auc:0.841490
+[08:38:12] boosting round 269, 383.068 sec elapsed
+[08:38:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:13] [269]	test-auc:0.841523
+[08:38:13] boosting round 270, 384.117 sec elapsed
+[08:38:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:14] [270]	test-auc:0.841566
+[08:38:14] boosting round 271, 385.202 sec elapsed
+[08:38:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:16] [271]	test-auc:0.841632
+[08:38:16] boosting round 272, 386.536 sec elapsed
+[08:38:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:16] [272]	test-auc:0.841670
+[08:38:16] boosting round 273, 387.265 sec elapsed
+[08:38:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:17] [273]	test-auc:0.841693
+[08:38:17] boosting round 274, 388.127 sec elapsed
+[08:38:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:18] [274]	test-auc:0.841735
+[08:38:18] boosting round 275, 389.33 sec elapsed
+[08:38:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:38:19] [275]	test-auc:0.841736
+[08:38:19] boosting round 276, 389.815 sec elapsed
+[08:38:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:19] [276]	test-auc:0.841748
+[08:38:19] boosting round 277, 390.397 sec elapsed
+[08:38:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:38:20] [277]	test-auc:0.841766
+[08:38:20] boosting round 278, 391.01 sec elapsed
+[08:38:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:38:21] [278]	test-auc:0.841770
+[08:38:21] boosting round 279, 391.51 sec elapsed
+[08:38:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:22] [279]	test-auc:0.841805
+[08:38:22] boosting round 280, 392.761 sec elapsed
+[08:38:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:38:23] [280]	test-auc:0.841844
+[08:38:23] boosting round 281, 393.817 sec elapsed
+[08:38:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:24] [281]	test-auc:0.841872
+[08:38:24] boosting round 282, 394.771 sec elapsed
+[08:38:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:25] [282]	test-auc:0.841903
+[08:38:25] boosting round 283, 395.526 sec elapsed
+[08:38:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:25] [283]	test-auc:0.841921
+[08:38:25] boosting round 284, 396.413 sec elapsed
+[08:38:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:26] [284]	test-auc:0.841931
+[08:38:26] boosting round 285, 396.927 sec elapsed
+[08:38:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:27] [285]	test-auc:0.841940
+[08:38:27] boosting round 286, 397.674 sec elapsed
+[08:38:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:27] [286]	test-auc:0.841945
+[08:38:27] boosting round 287, 398.178 sec elapsed
+[08:38:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:29] [287]	test-auc:0.842000
+[08:38:29] boosting round 288, 399.753 sec elapsed
+[08:38:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:38:30] [288]	test-auc:0.842024
+[08:38:30] boosting round 289, 400.692 sec elapsed
+[08:38:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:31] [289]	test-auc:0.842060
+[08:38:31] boosting round 290, 401.71 sec elapsed
+[08:38:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:32] [290]	test-auc:0.842099
+[08:38:32] boosting round 291, 402.744 sec elapsed
+[08:38:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:32] [291]	test-auc:0.842113
+[08:38:32] boosting round 292, 403.355 sec elapsed
+[08:38:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:33] [292]	test-auc:0.842147
+[08:38:33] boosting round 293, 404.416 sec elapsed
+[08:38:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:35] [293]	test-auc:0.842190
+[08:38:35] boosting round 294, 405.908 sec elapsed
+[08:38:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:36] [294]	test-auc:0.842263
+[08:38:36] boosting round 295, 407.159 sec elapsed
+[08:38:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:38:38] [295]	test-auc:0.842325
+[08:38:38] boosting round 296, 408.663 sec elapsed
+[08:38:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:38] [296]	test-auc:0.842332
+[08:38:38] boosting round 297, 409.205 sec elapsed
+[08:38:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:39] [297]	test-auc:0.842342
+[08:38:39] boosting round 298, 409.708 sec elapsed
+[08:38:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:39] [298]	test-auc:0.842350
+[08:38:39] boosting round 299, 410.31 sec elapsed
+[08:38:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:40] [299]	test-auc:0.842359
+[08:38:40] boosting round 300, 411.083 sec elapsed
+[08:38:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:41] [300]	test-auc:0.842373
+[08:38:41] boosting round 301, 411.956 sec elapsed
+[08:38:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:42] [301]	test-auc:0.842436
+[08:38:42] boosting round 302, 413.195 sec elapsed
+[08:38:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:43] [302]	test-auc:0.842452
+[08:38:43] boosting round 303, 413.888 sec elapsed
+[08:38:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:38:43] [303]	test-auc:0.842467
+[08:38:43] boosting round 304, 414.398 sec elapsed
+[08:38:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:44] [304]	test-auc:0.842478
+[08:38:44] boosting round 305, 415.055 sec elapsed
+[08:38:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:45] [305]	test-auc:0.842490
+[08:38:45] boosting round 306, 415.776 sec elapsed
+[08:38:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:45] [306]	test-auc:0.842503
+[08:38:45] boosting round 307, 416.309 sec elapsed
+[08:38:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:46] [307]	test-auc:0.842510
+[08:38:46] boosting round 308, 416.817 sec elapsed
+[08:38:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:38:46] [308]	test-auc:0.842514
+[08:38:46] boosting round 309, 417.378 sec elapsed
+[08:38:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:47] [309]	test-auc:0.842522
+[08:38:47] boosting round 310, 418.029 sec elapsed
+[08:38:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:48] [310]	test-auc:0.842545
+[08:38:48] boosting round 311, 418.831 sec elapsed
+[08:38:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:49] [311]	test-auc:0.842568
+[08:38:49] boosting round 312, 419.707 sec elapsed
+[08:38:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:50] [312]	test-auc:0.842580
+[08:38:50] boosting round 313, 420.581 sec elapsed
+[08:38:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:51] [313]	test-auc:0.842606
+[08:38:51] boosting round 314, 421.626 sec elapsed
+[08:38:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:51] [314]	test-auc:0.842613
+[08:38:51] boosting round 315, 422.094 sec elapsed
+[08:38:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:52] [315]	test-auc:0.842631
+[08:38:52] boosting round 316, 422.91 sec elapsed
+[08:38:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:53] [316]	test-auc:0.842653
+[08:38:53] boosting round 317, 423.841 sec elapsed
+[08:38:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:38:54] [317]	test-auc:0.842677
+[08:38:54] boosting round 318, 424.625 sec elapsed
+[08:38:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:55] [318]	test-auc:0.842707
+[08:38:55] boosting round 319, 425.607 sec elapsed
+[08:38:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:38:55] [319]	test-auc:0.842710
+[08:38:55] boosting round 320, 426.126 sec elapsed
+[08:38:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:38:56] [320]	test-auc:0.842717
+[08:38:56] boosting round 321, 426.689 sec elapsed
+[08:38:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:38:57] [321]	test-auc:0.842735
+[08:38:57] boosting round 322, 427.602 sec elapsed
+[08:38:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:38:57] [322]	test-auc:0.842753
+[08:38:57] boosting round 323, 428.371 sec elapsed
+[08:38:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:38:58] [323]	test-auc:0.842763
+[08:38:58] boosting round 324, 428.983 sec elapsed
+[08:38:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:59] [324]	test-auc:0.842770
+[08:38:59] boosting round 325, 429.482 sec elapsed
+[08:38:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:38:59] [325]	test-auc:0.842781
+[08:38:59] boosting round 326, 430.06 sec elapsed
+[08:39:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:39:00] [326]	test-auc:0.842814
+[08:39:00] boosting round 327, 431.298 sec elapsed
+[08:39:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:01] [327]	test-auc:0.842846
+[08:39:01] boosting round 328, 432.212 sec elapsed
+[08:39:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:39:02] [328]	test-auc:0.842866
+[08:39:02] boosting round 329, 433.113 sec elapsed
+[08:39:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:03] [329]	test-auc:0.842872
+[08:39:03] boosting round 330, 433.627 sec elapsed
+[08:39:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:03] [330]	test-auc:0.842889
+[08:39:03] boosting round 331, 434.366 sec elapsed
+[08:39:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:04] [331]	test-auc:0.842890
+[08:39:04] boosting round 332, 434.834 sec elapsed
+[08:39:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:04] [332]	test-auc:0.842901
+[08:39:04] boosting round 333, 435.312 sec elapsed
+[08:39:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:05] [333]	test-auc:0.842907
+[08:39:05] boosting round 334, 435.962 sec elapsed
+[08:39:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:39:06] [334]	test-auc:0.842912
+[08:39:06] boosting round 335, 436.56 sec elapsed
+[08:39:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:39:06] [335]	test-auc:0.842927
+[08:39:06] boosting round 336, 437.071 sec elapsed
+[08:39:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:07] [336]	test-auc:0.842933
+[08:39:07] boosting round 337, 437.697 sec elapsed
+[08:39:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:07] [337]	test-auc:0.842941
+[08:39:07] boosting round 338, 438.25 sec elapsed
+[08:39:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:39:08] [338]	test-auc:0.842949
+[08:39:08] boosting round 339, 438.771 sec elapsed
+[08:39:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:09] [339]	test-auc:0.842982
+[08:39:09] boosting round 340, 440.11 sec elapsed
+[08:39:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:39:10] [340]	test-auc:0.843021
+[08:39:10] boosting round 341, 441.12 sec elapsed
+[08:39:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:11] [341]	test-auc:0.843045
+[08:39:11] boosting round 342, 442.029 sec elapsed
+[08:39:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:12] [342]	test-auc:0.843076
+[08:39:12] boosting round 343, 442.998 sec elapsed
+[08:39:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:13] [343]	test-auc:0.843109
+[08:39:13] boosting round 344, 443.972 sec elapsed
+[08:39:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:39:14] [344]	test-auc:0.843153
+[08:39:14] boosting round 345, 445.283 sec elapsed
+[08:39:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:15] [345]	test-auc:0.843179
+[08:39:15] boosting round 346, 445.979 sec elapsed
+[08:39:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:16] [346]	test-auc:0.843183
+[08:39:16] boosting round 347, 446.485 sec elapsed
+[08:39:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:39:16] [347]	test-auc:0.843187
+[08:39:16] boosting round 348, 447.059 sec elapsed
+[08:39:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:17] [348]	test-auc:0.843200
+[08:39:17] boosting round 349, 447.757 sec elapsed
+[08:39:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:39:17] [349]	test-auc:0.843207
+[08:39:17] boosting round 350, 448.318 sec elapsed
+[08:39:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:39:19] [350]	test-auc:0.843300
+[08:39:19] boosting round 351, 449.813 sec elapsed
+[08:39:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:39:20] [351]	test-auc:0.843397
+[08:39:20] boosting round 352, 451.282 sec elapsed
+[08:39:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:21] [352]	test-auc:0.843415
+[08:39:21] boosting round 353, 452.135 sec elapsed
+[08:39:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:22] [353]	test-auc:0.843438
+[08:39:22] boosting round 354, 452.842 sec elapsed
+[08:39:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:39:23] [354]	test-auc:0.843452
+[08:39:23] boosting round 355, 453.636 sec elapsed
+[08:39:23] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:23] [355]	test-auc:0.843471
+[08:39:23] boosting round 356, 454.286 sec elapsed
+[08:39:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:24] [356]	test-auc:0.843489
+[08:39:24] boosting round 357, 455.058 sec elapsed
+[08:39:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:39:25] [357]	test-auc:0.843489
+[08:39:25] boosting round 358, 455.584 sec elapsed
+[08:39:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=29
+[08:39:25] [358]	test-auc:0.843492
+[08:39:25] boosting round 359, 456.12 sec elapsed
+[08:39:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:26] [359]	test-auc:0.843504
+[08:39:26] boosting round 360, 456.918 sec elapsed
+[08:39:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:39:27] [360]	test-auc:0.843508
+[08:39:27] boosting round 361, 457.514 sec elapsed
+[08:39:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:27] [361]	test-auc:0.843519
+[08:39:27] boosting round 362, 458.326 sec elapsed
+[08:39:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:28] [362]	test-auc:0.843529
+[08:39:28] boosting round 363, 458.839 sec elapsed
+[08:39:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:29] [363]	test-auc:0.843544
+[08:39:29] boosting round 364, 459.486 sec elapsed
+[08:39:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:29] [364]	test-auc:0.843563
+[08:39:29] boosting round 365, 460.296 sec elapsed
+[08:39:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:31] [365]	test-auc:0.843594
+[08:39:31] boosting round 366, 461.51 sec elapsed
+[08:39:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:31] [366]	test-auc:0.843611
+[08:39:31] boosting round 367, 462.326 sec elapsed
+[08:39:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:32] [367]	test-auc:0.843624
+[08:39:32] boosting round 368, 462.919 sec elapsed
+[08:39:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:32] [368]	test-auc:0.843631
+[08:39:32] boosting round 369, 463.421 sec elapsed
+[08:39:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:33] [369]	test-auc:0.843639
+[08:39:33] boosting round 370, 463.967 sec elapsed
+[08:39:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:34] [370]	test-auc:0.843648
+[08:39:34] boosting round 371, 464.6 sec elapsed
+[08:39:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:35] [371]	test-auc:0.843682
+[08:39:35] boosting round 372, 465.83 sec elapsed
+[08:39:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:36] [372]	test-auc:0.843692
+[08:39:36] boosting round 373, 466.603 sec elapsed
+[08:39:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:37] [373]	test-auc:0.843727
+[08:39:37] boosting round 374, 467.589 sec elapsed
+[08:39:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:38] [374]	test-auc:0.843764
+[08:39:38] boosting round 375, 468.77 sec elapsed
+[08:39:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:38] [375]	test-auc:0.843771
+[08:39:38] boosting round 376, 469.287 sec elapsed
+[08:39:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:39] [376]	test-auc:0.843780
+[08:39:39] boosting round 377, 469.81 sec elapsed
+[08:39:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:39:39] [377]	test-auc:0.843787
+[08:39:39] boosting round 378, 470.419 sec elapsed
+[08:39:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:40] [378]	test-auc:0.843801
+[08:39:40] boosting round 379, 471.008 sec elapsed
+[08:39:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:41] [379]	test-auc:0.843805
+[08:39:41] boosting round 380, 471.705 sec elapsed
+[08:39:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:41] [380]	test-auc:0.843810
+[08:39:41] boosting round 381, 472.249 sec elapsed
+[08:39:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:39:42] [381]	test-auc:0.843813
+[08:39:42] boosting round 382, 472.807 sec elapsed
+[08:39:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:42] [382]	test-auc:0.843819
+[08:39:42] boosting round 383, 473.413 sec elapsed
+[08:39:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:43] [383]	test-auc:0.843834
+[08:39:43] boosting round 384, 474.182 sec elapsed
+[08:39:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:44] [384]	test-auc:0.843854
+[08:39:44] boosting round 385, 474.949 sec elapsed
+[08:39:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:45] [385]	test-auc:0.843857
+[08:39:45] boosting round 386, 475.47 sec elapsed
+[08:39:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:45] [386]	test-auc:0.843860
+[08:39:45] boosting round 387, 476.047 sec elapsed
+[08:39:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:46] [387]	test-auc:0.843872
+[08:39:46] boosting round 388, 476.726 sec elapsed
+[08:39:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:39:47] [388]	test-auc:0.843905
+[08:39:47] boosting round 389, 477.939 sec elapsed
+[08:39:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:48] [389]	test-auc:0.843936
+[08:39:48] boosting round 390, 478.969 sec elapsed
+[08:39:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:49] [390]	test-auc:0.843938
+[08:39:49] boosting round 391, 479.624 sec elapsed
+[08:39:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:39:49] [391]	test-auc:0.843948
+[08:39:49] boosting round 392, 480.224 sec elapsed
+[08:39:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:50] [392]	test-auc:0.843955
+[08:39:50] boosting round 393, 480.73 sec elapsed
+[08:39:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:50] [393]	test-auc:0.843966
+[08:39:50] boosting round 394, 481.343 sec elapsed
+[08:39:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:51] [394]	test-auc:0.843971
+[08:39:51] boosting round 395, 481.89 sec elapsed
+[08:39:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:52] [395]	test-auc:0.843975
+[08:39:52] boosting round 396, 482.445 sec elapsed
+[08:39:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:39:52] [396]	test-auc:0.843998
+[08:39:52] boosting round 397, 483.321 sec elapsed
+[08:39:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:39:53] [397]	test-auc:0.844006
+[08:39:53] boosting round 398, 484.006 sec elapsed
+[08:39:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:39:54] [398]	test-auc:0.844013
+[08:39:54] boosting round 399, 484.715 sec elapsed
+[08:39:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=31
+[08:39:54] [399]	test-auc:0.844023
+[08:39:54] boosting round 400, 485.249 sec elapsed
+[08:39:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:39:55] [400]	test-auc:0.844030
+[08:39:55] boosting round 401, 485.86 sec elapsed
+[08:39:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:56] [401]	test-auc:0.844037
+[08:39:56] boosting round 402, 486.456 sec elapsed
+[08:39:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:39:56] [402]	test-auc:0.844043
+[08:39:56] boosting round 403, 486.993 sec elapsed
+[08:39:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:57] [403]	test-auc:0.844060
+[08:39:57] boosting round 404, 488.023 sec elapsed
+[08:39:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:39:58] [404]	test-auc:0.844092
+[08:39:58] boosting round 405, 489.19 sec elapsed
+[08:39:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=15
+[08:39:59] [405]	test-auc:0.844110
+[08:39:59] boosting round 406, 490.009 sec elapsed
+[08:40:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:00] [406]	test-auc:0.844132
+[08:40:00] boosting round 407, 490.791 sec elapsed
+[08:40:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:01] [407]	test-auc:0.844154
+[08:40:01] boosting round 408, 491.623 sec elapsed
+[08:40:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:01] [408]	test-auc:0.844159
+[08:40:01] boosting round 409, 492.373 sec elapsed
+[08:40:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:03] [409]	test-auc:0.844185
+[08:40:03] boosting round 410, 493.504 sec elapsed
+[08:40:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:04] [410]	test-auc:0.844218
+[08:40:04] boosting round 411, 494.686 sec elapsed
+[08:40:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:05] [411]	test-auc:0.844251
+[08:40:05] boosting round 412, 495.754 sec elapsed
+[08:40:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:06] [412]	test-auc:0.844276
+[08:40:06] boosting round 413, 496.598 sec elapsed
+[08:40:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:07] [413]	test-auc:0.844332
+[08:40:07] boosting round 414, 497.773 sec elapsed
+[08:40:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:08] [414]	test-auc:0.844393
+[08:40:08] boosting round 415, 498.953 sec elapsed
+[08:40:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:09] [415]	test-auc:0.844472
+[08:40:09] boosting round 416, 500.37 sec elapsed
+[08:40:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:10] [416]	test-auc:0.844480
+[08:40:10] boosting round 417, 501.164 sec elapsed
+[08:40:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:11] [417]	test-auc:0.844496
+[08:40:11] boosting round 418, 501.799 sec elapsed
+[08:40:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:11] [418]	test-auc:0.844500
+[08:40:11] boosting round 419, 502.274 sec elapsed
+[08:40:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:12] [419]	test-auc:0.844516
+[08:40:12] boosting round 420, 502.86 sec elapsed
+[08:40:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:13] [420]	test-auc:0.844534
+[08:40:13] boosting round 421, 503.694 sec elapsed
+[08:40:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:40:13] [421]	test-auc:0.844535
+[08:40:13] boosting round 422, 504.218 sec elapsed
+[08:40:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:14] [422]	test-auc:0.844539
+[08:40:14] boosting round 423, 504.856 sec elapsed
+[08:40:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:40:14] [423]	test-auc:0.844538
+[08:40:14] boosting round 424, 505.304 sec elapsed
+[08:40:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:15] [424]	test-auc:0.844542
+[08:40:15] boosting round 425, 505.775 sec elapsed
+[08:40:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:16] [425]	test-auc:0.844555
+[08:40:16] boosting round 426, 506.506 sec elapsed
+[08:40:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:17] [426]	test-auc:0.844579
+[08:40:17] boosting round 427, 507.482 sec elapsed
+[08:40:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:40:18] [427]	test-auc:0.844606
+[08:40:18] boosting round 428, 508.713 sec elapsed
+[08:40:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:18] [428]	test-auc:0.844613
+[08:40:18] boosting round 429, 509.393 sec elapsed
+[08:40:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:19] [429]	test-auc:0.844630
+[08:40:19] boosting round 430, 510.176 sec elapsed
+[08:40:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:20] [430]	test-auc:0.844631
+[08:40:20] boosting round 431, 510.679 sec elapsed
+[08:40:20] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:20] [431]	test-auc:0.844631
+[08:40:20] boosting round 432, 511.333 sec elapsed
+[08:40:21] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=14
+[08:40:22] [432]	test-auc:0.844652
+[08:40:22] boosting round 433, 512.49 sec elapsed
+[08:40:22] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:23] [433]	test-auc:0.844685
+[08:40:23] boosting round 434, 513.58 sec elapsed
+[08:40:24] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:24] [434]	test-auc:0.844721
+[08:40:24] boosting round 435, 515.068 sec elapsed
+[08:40:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:25] [435]	test-auc:0.844731
+[08:40:25] boosting round 436, 515.823 sec elapsed
+[08:40:25] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:40:25] [436]	test-auc:0.844732
+[08:40:25] boosting round 437, 516.397 sec elapsed
+[08:40:26] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:26] [437]	test-auc:0.844754
+[08:40:26] boosting round 438, 517.427 sec elapsed
+[08:40:27] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:27] [438]	test-auc:0.844769
+[08:40:27] boosting round 439, 517.972 sec elapsed
+[08:40:28] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:28] [439]	test-auc:0.844779
+[08:40:28] boosting round 440, 518.676 sec elapsed
+[08:40:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:29] [440]	test-auc:0.844815
+[08:40:29] boosting round 441, 519.888 sec elapsed
+[08:40:29] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:30] [441]	test-auc:0.844820
+[08:40:30] boosting round 442, 520.473 sec elapsed
+[08:40:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:40:30] [442]	test-auc:0.844822
+[08:40:30] boosting round 443, 520.926 sec elapsed
+[08:40:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:31] [443]	test-auc:0.844838
+[08:40:31] boosting round 444, 522.146 sec elapsed
+[08:40:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=28
+[08:40:32] [444]	test-auc:0.844862
+[08:40:32] boosting round 445, 522.907 sec elapsed
+[08:40:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:33] [445]	test-auc:0.844888
+[08:40:33] boosting round 446, 523.606 sec elapsed
+[08:40:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:40:34] [446]	test-auc:0.844902
+[08:40:34] boosting round 447, 524.488 sec elapsed
+[08:40:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:34] [447]	test-auc:0.844906
+[08:40:34] boosting round 448, 525.078 sec elapsed
+[08:40:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:35] [448]	test-auc:0.844912
+[08:40:35] boosting round 449, 525.641 sec elapsed
+[08:40:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:36] [449]	test-auc:0.844937
+[08:40:36] boosting round 450, 526.664 sec elapsed
+[08:40:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:37] [450]	test-auc:0.844980
+[08:40:37] boosting round 451, 527.787 sec elapsed
+[08:40:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:38] [451]	test-auc:0.845002
+[08:40:38] boosting round 452, 528.725 sec elapsed
+[08:40:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:38] [452]	test-auc:0.845010
+[08:40:38] boosting round 453, 529.347 sec elapsed
+[08:40:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:40:39] [453]	test-auc:0.845017
+[08:40:39] boosting round 454, 529.939 sec elapsed
+[08:40:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:40] [454]	test-auc:0.845024
+[08:40:40] boosting round 455, 530.595 sec elapsed
+[08:40:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:40] [455]	test-auc:0.845044
+[08:40:40] boosting round 456, 531.34 sec elapsed
+[08:40:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:41] [456]	test-auc:0.845043
+[08:40:41] boosting round 457, 531.808 sec elapsed
+[08:40:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:42] [457]	test-auc:0.845051
+[08:40:42] boosting round 458, 532.486 sec elapsed
+[08:40:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:40:42] [458]	test-auc:0.845063
+[08:40:42] boosting round 459, 533.084 sec elapsed
+[08:40:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:43] [459]	test-auc:0.845067
+[08:40:43] boosting round 460, 533.614 sec elapsed
+[08:40:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:43] [460]	test-auc:0.845080
+[08:40:43] boosting round 461, 534.319 sec elapsed
+[08:40:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:40:44] [461]	test-auc:0.845082
+[08:40:44] boosting round 462, 534.85 sec elapsed
+[08:40:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:45] [462]	test-auc:0.845119
+[08:40:45] boosting round 463, 536.218 sec elapsed
+[08:40:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:46] [463]	test-auc:0.845125
+[08:40:46] boosting round 464, 536.729 sec elapsed
+[08:40:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:46] [464]	test-auc:0.845133
+[08:40:46] boosting round 465, 537.226 sec elapsed
+[08:40:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:40:47] [465]	test-auc:0.845145
+[08:40:47] boosting round 466, 537.829 sec elapsed
+[08:40:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:47] [466]	test-auc:0.845150
+[08:40:47] boosting round 467, 538.322 sec elapsed
+[08:40:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:48] [467]	test-auc:0.845155
+[08:40:48] boosting round 468, 538.916 sec elapsed
+[08:40:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:49] [468]	test-auc:0.845167
+[08:40:49] boosting round 469, 539.6 sec elapsed
+[08:40:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:49] [469]	test-auc:0.845182
+[08:40:49] boosting round 470, 540.153 sec elapsed
+[08:40:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=18
+[08:40:50] [470]	test-auc:0.845226
+[08:40:50] boosting round 471, 541.11 sec elapsed
+[08:40:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:51] [471]	test-auc:0.845229
+[08:40:51] boosting round 472, 541.684 sec elapsed
+[08:40:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:40:52] [472]	test-auc:0.845301
+[08:40:52] boosting round 473, 543.154 sec elapsed
+[08:40:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:53] [473]	test-auc:0.845314
+[08:40:53] boosting round 474, 543.849 sec elapsed
+[08:40:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:54] [474]	test-auc:0.845337
+[08:40:54] boosting round 475, 544.83 sec elapsed
+[08:40:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:40:54] [475]	test-auc:0.845338
+[08:40:54] boosting round 476, 545.293 sec elapsed
+[08:40:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:40:55] [476]	test-auc:0.845355
+[08:40:55] boosting round 477, 545.998 sec elapsed
+[08:40:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:40:56] [477]	test-auc:0.845372
+[08:40:56] boosting round 478, 546.814 sec elapsed
+[08:40:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:40:57] [478]	test-auc:0.845381
+[08:40:57] boosting round 479, 547.562 sec elapsed
+[08:40:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:40:57] [479]	test-auc:0.845386
+[08:40:57] boosting round 480, 548.034 sec elapsed
+[08:40:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:58] [480]	test-auc:0.845405
+[08:40:58] boosting round 481, 548.715 sec elapsed
+[08:40:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:59] [481]	test-auc:0.845419
+[08:40:59] boosting round 482, 549.529 sec elapsed
+[08:40:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=20
+[08:40:59] [482]	test-auc:0.845427
+[08:40:59] boosting round 483, 550.156 sec elapsed
+[08:41:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=17
+[08:41:01] [483]	test-auc:0.845462
+[08:41:01] boosting round 484, 551.687 sec elapsed
+[08:41:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=27
+[08:41:01] [484]	test-auc:0.845478
+[08:41:01] boosting round 485, 552.365 sec elapsed
+[08:41:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:41:02] [485]	test-auc:0.845492
+[08:41:02] boosting round 486, 552.951 sec elapsed
+[08:41:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:41:03] [486]	test-auc:0.845507
+[08:41:03] boosting round 487, 553.703 sec elapsed
+[08:41:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=23
+[08:41:03] [487]	test-auc:0.845525
+[08:41:03] boosting round 488, 554.429 sec elapsed
+[08:41:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:41:04] [488]	test-auc:0.845525
+[08:41:04] boosting round 489, 554.998 sec elapsed
+[08:41:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=22
+[08:41:05] [489]	test-auc:0.845534
+[08:41:05] boosting round 490, 555.573 sec elapsed
+[08:41:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:41:05] [490]	test-auc:0.845549
+[08:41:05] boosting round 491, 556.23 sec elapsed
+[08:41:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=26
+[08:41:06] [491]	test-auc:0.845556
+[08:41:06] boosting round 492, 556.754 sec elapsed
+[08:41:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:41:07] [492]	test-auc:0.845580
+[08:41:07] boosting round 493, 557.697 sec elapsed
+[08:41:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=28
+[08:41:07] [493]	test-auc:0.845582
+[08:41:07] boosting round 494, 558.244 sec elapsed
+[08:41:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:41:08] [494]	test-auc:0.845593
+[08:41:08] boosting round 495, 558.851 sec elapsed
+[08:41:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=19
+[08:41:08] [495]	test-auc:0.845599
+[08:41:08] boosting round 496, 559.388 sec elapsed
+[08:41:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=25
+[08:41:09] [496]	test-auc:0.845598
+[08:41:09] boosting round 497, 559.849 sec elapsed
+[08:41:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=16
+[08:41:10] [497]	test-auc:0.845605
+[08:41:10] boosting round 498, 560.462 sec elapsed
+[08:41:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=24
+[08:41:10] [498]	test-auc:0.845606
+[08:41:10] boosting round 499, 560.97 sec elapsed
+[08:41:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 508 extra nodes, 0 pruned nodes, max_depth=21
+[08:41:11] [499]	test-auc:0.845617
+[08:41:11] update end, 561.52 sec in all

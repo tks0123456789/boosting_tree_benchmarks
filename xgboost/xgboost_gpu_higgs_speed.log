@@ -1,0 +1,3 @@
+[03:56:56] 10500000x28 matrix with 294000000 entries loaded from ../data/higgs.train
+[03:56:56] boosting round 0, 0 sec elapsed
+CUDA error: plugin/updater_gpu/src/device_helpers.cuh(383): out of memory

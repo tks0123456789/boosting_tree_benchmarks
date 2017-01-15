@@ -1,0 +1,1006 @@
+[08:22:46] 473134x700 matrix with 105393924 entries loaded from ../data/yahoo.train
+[08:22:46] 19944 groups are loaded from ../data/yahoo.train.group
+[08:22:48] 165660x700 matrix with 36976759 entries loaded from ../data/yahoo.test
+[08:22:48] 6983 groups are loaded from ../data/yahoo.test.group
+[08:22:48] boosting round 0, 0 sec elapsed
+[08:22:49] Allocated 4032/7769 MB on GeForce GTX 1070
+[08:22:50] [0]	test-ndcg@1:0.646810	test-ndcg@3:0.643572	test-ndcg@5:0.666038	test-ndcg@10:0.719242
+[08:22:50] boosting round 1, 2.6045 sec elapsed
+[08:22:51] [1]	test-ndcg@1:0.653032	test-ndcg@3:0.651351	test-ndcg@5:0.672599	test-ndcg@10:0.725098
+[08:22:51] boosting round 2, 3.65786 sec elapsed
+[08:22:52] [2]	test-ndcg@1:0.659921	test-ndcg@3:0.655894	test-ndcg@5:0.676400	test-ndcg@10:0.727382
+[08:22:52] boosting round 3, 4.71449 sec elapsed
+[08:22:53] [3]	test-ndcg@1:0.661841	test-ndcg@3:0.657285	test-ndcg@5:0.678294	test-ndcg@10:0.727896
+[08:22:53] boosting round 4, 5.76836 sec elapsed
+[08:22:54] [4]	test-ndcg@1:0.663434	test-ndcg@3:0.657972	test-ndcg@5:0.677479	test-ndcg@10:0.727486
+[08:22:54] boosting round 5, 6.82398 sec elapsed
+[08:22:55] [5]	test-ndcg@1:0.661548	test-ndcg@3:0.656688	test-ndcg@5:0.676733	test-ndcg@10:0.727525
+[08:22:55] boosting round 6, 7.88264 sec elapsed
+[08:22:56] [6]	test-ndcg@1:0.659922	test-ndcg@3:0.656551	test-ndcg@5:0.676673	test-ndcg@10:0.727643
+[08:22:56] boosting round 7, 8.94112 sec elapsed
+[08:22:58] [7]	test-ndcg@1:0.656852	test-ndcg@3:0.656262	test-ndcg@5:0.677212	test-ndcg@10:0.728048
+[08:22:58] boosting round 8, 10.0016 sec elapsed
+[08:22:59] [8]	test-ndcg@1:0.655242	test-ndcg@3:0.654842	test-ndcg@5:0.676401	test-ndcg@10:0.728050
+[08:22:59] boosting round 9, 11.0591 sec elapsed
+[08:23:00] [9]	test-ndcg@1:0.656745	test-ndcg@3:0.656373	test-ndcg@5:0.677415	test-ndcg@10:0.729047
+[08:23:00] boosting round 10, 12.1129 sec elapsed
+[08:23:01] [10]	test-ndcg@1:0.656165	test-ndcg@3:0.656433	test-ndcg@5:0.676924	test-ndcg@10:0.728908
+[08:23:01] boosting round 11, 13.1705 sec elapsed
+[08:23:02] [11]	test-ndcg@1:0.656034	test-ndcg@3:0.656779	test-ndcg@5:0.677782	test-ndcg@10:0.729328
+[08:23:02] boosting round 12, 14.2294 sec elapsed
+[08:23:03] [12]	test-ndcg@1:0.658445	test-ndcg@3:0.659069	test-ndcg@5:0.679805	test-ndcg@10:0.730518
+[08:23:03] boosting round 13, 15.2818 sec elapsed
+[08:23:04] [13]	test-ndcg@1:0.661800	test-ndcg@3:0.661821	test-ndcg@5:0.682489	test-ndcg@10:0.733173
+[08:23:04] boosting round 14, 16.3417 sec elapsed
+[08:23:05] [14]	test-ndcg@1:0.665181	test-ndcg@3:0.663472	test-ndcg@5:0.684647	test-ndcg@10:0.735079
+[08:23:05] boosting round 15, 17.4016 sec elapsed
+[08:23:06] [15]	test-ndcg@1:0.666787	test-ndcg@3:0.665416	test-ndcg@5:0.686766	test-ndcg@10:0.736568
+[08:23:06] boosting round 16, 18.455 sec elapsed
+[08:23:07] [16]	test-ndcg@1:0.668429	test-ndcg@3:0.667355	test-ndcg@5:0.687898	test-ndcg@10:0.738032
+[08:23:07] boosting round 17, 19.5142 sec elapsed
+[08:23:08] [17]	test-ndcg@1:0.669430	test-ndcg@3:0.668683	test-ndcg@5:0.688378	test-ndcg@10:0.738674
+[08:23:08] boosting round 18, 20.5732 sec elapsed
+[08:23:09] [18]	test-ndcg@1:0.670342	test-ndcg@3:0.669830	test-ndcg@5:0.689408	test-ndcg@10:0.739468
+[08:23:09] boosting round 19, 21.6289 sec elapsed
+[08:23:10] [19]	test-ndcg@1:0.672739	test-ndcg@3:0.670579	test-ndcg@5:0.690791	test-ndcg@10:0.740347
+[08:23:10] boosting round 20, 22.6845 sec elapsed
+[08:23:11] [20]	test-ndcg@1:0.674278	test-ndcg@3:0.671317	test-ndcg@5:0.692085	test-ndcg@10:0.741323
+[08:23:11] boosting round 21, 23.7397 sec elapsed
+[08:23:12] [21]	test-ndcg@1:0.675567	test-ndcg@3:0.672661	test-ndcg@5:0.693222	test-ndcg@10:0.742264
+[08:23:12] boosting round 22, 24.794 sec elapsed
+[08:23:13] [22]	test-ndcg@1:0.677039	test-ndcg@3:0.673031	test-ndcg@5:0.693400	test-ndcg@10:0.742948
+[08:23:13] boosting round 23, 25.8471 sec elapsed
+[08:23:14] [23]	test-ndcg@1:0.677122	test-ndcg@3:0.674030	test-ndcg@5:0.694012	test-ndcg@10:0.743156
+[08:23:14] boosting round 24, 26.9039 sec elapsed
+[08:23:16] [24]	test-ndcg@1:0.678137	test-ndcg@3:0.674853	test-ndcg@5:0.694706	test-ndcg@10:0.743735
+[08:23:16] boosting round 25, 27.9648 sec elapsed
+[08:23:17] [25]	test-ndcg@1:0.678913	test-ndcg@3:0.675044	test-ndcg@5:0.695642	test-ndcg@10:0.744468
+[08:23:17] boosting round 26, 29.0224 sec elapsed
+[08:23:18] [26]	test-ndcg@1:0.679884	test-ndcg@3:0.676174	test-ndcg@5:0.696033	test-ndcg@10:0.745105
+[08:23:18] boosting round 27, 30.0906 sec elapsed
+[08:23:19] [27]	test-ndcg@1:0.681328	test-ndcg@3:0.676797	test-ndcg@5:0.697234	test-ndcg@10:0.745285
+[08:23:19] boosting round 28, 31.1478 sec elapsed
+[08:23:20] [28]	test-ndcg@1:0.683100	test-ndcg@3:0.678200	test-ndcg@5:0.699096	test-ndcg@10:0.746764
+[08:23:20] boosting round 29, 32.2135 sec elapsed
+[08:23:21] [29]	test-ndcg@1:0.684405	test-ndcg@3:0.679403	test-ndcg@5:0.700188	test-ndcg@10:0.747555
+[08:23:21] boosting round 30, 33.2774 sec elapsed
+[08:23:22] [30]	test-ndcg@1:0.686121	test-ndcg@3:0.680276	test-ndcg@5:0.701192	test-ndcg@10:0.748340
+[08:23:22] boosting round 31, 34.3385 sec elapsed
+[08:23:23] [31]	test-ndcg@1:0.687019	test-ndcg@3:0.681436	test-ndcg@5:0.702392	test-ndcg@10:0.749069
+[08:23:23] boosting round 32, 35.3928 sec elapsed
+[08:23:24] [32]	test-ndcg@1:0.687324	test-ndcg@3:0.681332	test-ndcg@5:0.703245	test-ndcg@10:0.749637
+[08:23:24] boosting round 33, 36.4619 sec elapsed
+[08:23:25] [33]	test-ndcg@1:0.689146	test-ndcg@3:0.682858	test-ndcg@5:0.704430	test-ndcg@10:0.750876
+[08:23:25] boosting round 34, 37.5138 sec elapsed
+[08:23:26] [34]	test-ndcg@1:0.688928	test-ndcg@3:0.683218	test-ndcg@5:0.704629	test-ndcg@10:0.751041
+[08:23:26] boosting round 35, 38.5643 sec elapsed
+[08:23:27] [35]	test-ndcg@1:0.688786	test-ndcg@3:0.683236	test-ndcg@5:0.704833	test-ndcg@10:0.751151
+[08:23:27] boosting round 36, 39.63 sec elapsed
+[08:23:28] [36]	test-ndcg@1:0.690111	test-ndcg@3:0.684341	test-ndcg@5:0.705724	test-ndcg@10:0.751883
+[08:23:28] boosting round 37, 40.6893 sec elapsed
+[08:23:29] [37]	test-ndcg@1:0.690611	test-ndcg@3:0.685014	test-ndcg@5:0.706194	test-ndcg@10:0.752584
+[08:23:29] boosting round 38, 41.7574 sec elapsed
+[08:23:30] [38]	test-ndcg@1:0.691624	test-ndcg@3:0.685982	test-ndcg@5:0.706694	test-ndcg@10:0.753079
+[08:23:30] boosting round 39, 42.8098 sec elapsed
+[08:23:31] [39]	test-ndcg@1:0.691231	test-ndcg@3:0.686347	test-ndcg@5:0.707302	test-ndcg@10:0.753251
+[08:23:31] boosting round 40, 43.8617 sec elapsed
+[08:23:32] [40]	test-ndcg@1:0.692157	test-ndcg@3:0.686999	test-ndcg@5:0.707776	test-ndcg@10:0.753585
+[08:23:32] boosting round 41, 44.9249 sec elapsed
+[08:23:34] [41]	test-ndcg@1:0.691520	test-ndcg@3:0.687181	test-ndcg@5:0.707846	test-ndcg@10:0.753884
+[08:23:34] boosting round 42, 45.9735 sec elapsed
+[08:23:35] [42]	test-ndcg@1:0.692180	test-ndcg@3:0.688231	test-ndcg@5:0.708209	test-ndcg@10:0.754224
+[08:23:35] boosting round 43, 47.0268 sec elapsed
+[08:23:36] [43]	test-ndcg@1:0.693551	test-ndcg@3:0.689101	test-ndcg@5:0.709050	test-ndcg@10:0.755026
+[08:23:36] boosting round 44, 48.0892 sec elapsed
+[08:23:37] [44]	test-ndcg@1:0.693717	test-ndcg@3:0.689407	test-ndcg@5:0.709381	test-ndcg@10:0.755366
+[08:23:37] boosting round 45, 49.1437 sec elapsed
+[08:23:38] [45]	test-ndcg@1:0.693955	test-ndcg@3:0.689759	test-ndcg@5:0.709596	test-ndcg@10:0.755572
+[08:23:38] boosting round 46, 50.213 sec elapsed
+[08:23:39] [46]	test-ndcg@1:0.694184	test-ndcg@3:0.689395	test-ndcg@5:0.710069	test-ndcg@10:0.755893
+[08:23:39] boosting round 47, 51.2828 sec elapsed
+[08:23:40] [47]	test-ndcg@1:0.695525	test-ndcg@3:0.690898	test-ndcg@5:0.710464	test-ndcg@10:0.756379
+[08:23:40] boosting round 48, 52.3418 sec elapsed
+[08:23:41] [48]	test-ndcg@1:0.695819	test-ndcg@3:0.691402	test-ndcg@5:0.710579	test-ndcg@10:0.756697
+[08:23:41] boosting round 49, 53.3999 sec elapsed
+[08:23:42] [49]	test-ndcg@1:0.696737	test-ndcg@3:0.691825	test-ndcg@5:0.711037	test-ndcg@10:0.757249
+[08:23:42] boosting round 50, 54.4624 sec elapsed
+[08:23:43] [50]	test-ndcg@1:0.697737	test-ndcg@3:0.692732	test-ndcg@5:0.711834	test-ndcg@10:0.757522
+[08:23:43] boosting round 51, 55.5348 sec elapsed
+[08:23:44] [51]	test-ndcg@1:0.697613	test-ndcg@3:0.692706	test-ndcg@5:0.712209	test-ndcg@10:0.757743
+[08:23:44] boosting round 52, 56.6032 sec elapsed
+[08:23:45] [52]	test-ndcg@1:0.699920	test-ndcg@3:0.693617	test-ndcg@5:0.712992	test-ndcg@10:0.758315
+[08:23:45] boosting round 53, 57.6575 sec elapsed
+[08:23:46] [53]	test-ndcg@1:0.698787	test-ndcg@3:0.693774	test-ndcg@5:0.713029	test-ndcg@10:0.758526
+[08:23:46] boosting round 54, 58.7146 sec elapsed
+[08:23:47] [54]	test-ndcg@1:0.700616	test-ndcg@3:0.694951	test-ndcg@5:0.713778	test-ndcg@10:0.759137
+[08:23:47] boosting round 55, 59.7868 sec elapsed
+[08:23:48] [55]	test-ndcg@1:0.700568	test-ndcg@3:0.695096	test-ndcg@5:0.714002	test-ndcg@10:0.759330
+[08:23:48] boosting round 56, 60.8583 sec elapsed
+[08:23:49] [56]	test-ndcg@1:0.701206	test-ndcg@3:0.695849	test-ndcg@5:0.714574	test-ndcg@10:0.759664
+[08:23:49] boosting round 57, 61.9339 sec elapsed
+[08:23:51] [57]	test-ndcg@1:0.700190	test-ndcg@3:0.695607	test-ndcg@5:0.714660	test-ndcg@10:0.759648
+[08:23:51] boosting round 58, 63.0022 sec elapsed
+[08:23:52] [58]	test-ndcg@1:0.700979	test-ndcg@3:0.696227	test-ndcg@5:0.715000	test-ndcg@10:0.759880
+[08:23:52] boosting round 59, 64.0679 sec elapsed
+[08:23:53] [59]	test-ndcg@1:0.701243	test-ndcg@3:0.696258	test-ndcg@5:0.715548	test-ndcg@10:0.760082
+[08:23:53] boosting round 60, 65.1264 sec elapsed
+[08:23:54] [60]	test-ndcg@1:0.701419	test-ndcg@3:0.696224	test-ndcg@5:0.715674	test-ndcg@10:0.760327
+[08:23:54] boosting round 61, 66.2002 sec elapsed
+[08:23:55] [61]	test-ndcg@1:0.701281	test-ndcg@3:0.696392	test-ndcg@5:0.716233	test-ndcg@10:0.760577
+[08:23:55] boosting round 62, 67.2608 sec elapsed
+[08:23:56] [62]	test-ndcg@1:0.701793	test-ndcg@3:0.696944	test-ndcg@5:0.716710	test-ndcg@10:0.760938
+[08:23:56] boosting round 63, 68.3304 sec elapsed
+[08:23:57] [63]	test-ndcg@1:0.700846	test-ndcg@3:0.697162	test-ndcg@5:0.716635	test-ndcg@10:0.760925
+[08:23:57] boosting round 64, 69.3839 sec elapsed
+[08:23:58] [64]	test-ndcg@1:0.702201	test-ndcg@3:0.697183	test-ndcg@5:0.717347	test-ndcg@10:0.761220
+[08:23:58] boosting round 65, 70.4534 sec elapsed
+[08:23:59] [65]	test-ndcg@1:0.701843	test-ndcg@3:0.697549	test-ndcg@5:0.717464	test-ndcg@10:0.761346
+[08:23:59] boosting round 66, 71.5178 sec elapsed
+[08:24:00] [66]	test-ndcg@1:0.702572	test-ndcg@3:0.697865	test-ndcg@5:0.717637	test-ndcg@10:0.761326
+[08:24:00] boosting round 67, 72.5634 sec elapsed
+[08:24:01] [67]	test-ndcg@1:0.702798	test-ndcg@3:0.698545	test-ndcg@5:0.718078	test-ndcg@10:0.761871
+[08:24:01] boosting round 68, 73.6371 sec elapsed
+[08:24:02] [68]	test-ndcg@1:0.703060	test-ndcg@3:0.698816	test-ndcg@5:0.718421	test-ndcg@10:0.762084
+[08:24:02] boosting round 69, 74.7017 sec elapsed
+[08:24:03] [69]	test-ndcg@1:0.703292	test-ndcg@3:0.698896	test-ndcg@5:0.718623	test-ndcg@10:0.762404
+[08:24:03] boosting round 70, 75.7785 sec elapsed
+[08:24:04] [70]	test-ndcg@1:0.703754	test-ndcg@3:0.699315	test-ndcg@5:0.718679	test-ndcg@10:0.762708
+[08:24:04] boosting round 71, 76.8474 sec elapsed
+[08:24:05] [71]	test-ndcg@1:0.703515	test-ndcg@3:0.699823	test-ndcg@5:0.719004	test-ndcg@10:0.762854
+[08:24:05] boosting round 72, 77.9131 sec elapsed
+[08:24:06] [72]	test-ndcg@1:0.704109	test-ndcg@3:0.700198	test-ndcg@5:0.719446	test-ndcg@10:0.763326
+[08:24:06] boosting round 73, 78.9601 sec elapsed
+[08:24:08] [73]	test-ndcg@1:0.704125	test-ndcg@3:0.700247	test-ndcg@5:0.719506	test-ndcg@10:0.763416
+[08:24:08] boosting round 74, 80.0305 sec elapsed
+[08:24:09] [74]	test-ndcg@1:0.704148	test-ndcg@3:0.700723	test-ndcg@5:0.719796	test-ndcg@10:0.763771
+[08:24:09] boosting round 75, 81.1095 sec elapsed
+[08:24:10] [75]	test-ndcg@1:0.704932	test-ndcg@3:0.700822	test-ndcg@5:0.720263	test-ndcg@10:0.763954
+[08:24:10] boosting round 76, 82.1788 sec elapsed
+[08:24:11] [76]	test-ndcg@1:0.705513	test-ndcg@3:0.701202	test-ndcg@5:0.720860	test-ndcg@10:0.764313
+[08:24:11] boosting round 77, 83.2459 sec elapsed
+[08:24:12] [77]	test-ndcg@1:0.705826	test-ndcg@3:0.701411	test-ndcg@5:0.720876	test-ndcg@10:0.764617
+[08:24:12] boosting round 78, 84.2964 sec elapsed
+[08:24:13] [78]	test-ndcg@1:0.705541	test-ndcg@3:0.701879	test-ndcg@5:0.721143	test-ndcg@10:0.764867
+[08:24:13] boosting round 79, 85.348 sec elapsed
+[08:24:14] [79]	test-ndcg@1:0.706449	test-ndcg@3:0.702297	test-ndcg@5:0.721643	test-ndcg@10:0.764972
+[08:24:14] boosting round 80, 86.419 sec elapsed
+[08:24:15] [80]	test-ndcg@1:0.705572	test-ndcg@3:0.701870	test-ndcg@5:0.721428	test-ndcg@10:0.765011
+[08:24:15] boosting round 81, 87.4769 sec elapsed
+[08:24:16] [81]	test-ndcg@1:0.706279	test-ndcg@3:0.702402	test-ndcg@5:0.721731	test-ndcg@10:0.765190
+[08:24:16] boosting round 82, 88.554 sec elapsed
+[08:24:17] [82]	test-ndcg@1:0.706068	test-ndcg@3:0.702731	test-ndcg@5:0.721544	test-ndcg@10:0.765205
+[08:24:17] boosting round 83, 89.6237 sec elapsed
+[08:24:18] [83]	test-ndcg@1:0.706165	test-ndcg@3:0.702913	test-ndcg@5:0.721789	test-ndcg@10:0.765479
+[08:24:18] boosting round 84, 90.683 sec elapsed
+[08:24:19] [84]	test-ndcg@1:0.706921	test-ndcg@3:0.703311	test-ndcg@5:0.722004	test-ndcg@10:0.765679
+[08:24:19] boosting round 85, 91.7342 sec elapsed
+[08:24:20] [85]	test-ndcg@1:0.707116	test-ndcg@3:0.703445	test-ndcg@5:0.722320	test-ndcg@10:0.766119
+[08:24:20] boosting round 86, 92.8057 sec elapsed
+[08:24:21] [86]	test-ndcg@1:0.708463	test-ndcg@3:0.704011	test-ndcg@5:0.722714	test-ndcg@10:0.766365
+[08:24:21] boosting round 87, 93.8758 sec elapsed
+[08:24:22] [87]	test-ndcg@1:0.708609	test-ndcg@3:0.704425	test-ndcg@5:0.723068	test-ndcg@10:0.766528
+[08:24:22] boosting round 88, 94.9322 sec elapsed
+[08:24:24] [88]	test-ndcg@1:0.708529	test-ndcg@3:0.704892	test-ndcg@5:0.723194	test-ndcg@10:0.766649
+[08:24:24] boosting round 89, 96.0004 sec elapsed
+[08:24:25] [89]	test-ndcg@1:0.709649	test-ndcg@3:0.704999	test-ndcg@5:0.723374	test-ndcg@10:0.766995
+[08:24:25] boosting round 90, 97.0672 sec elapsed
+[08:24:26] [90]	test-ndcg@1:0.710483	test-ndcg@3:0.705291	test-ndcg@5:0.723824	test-ndcg@10:0.767246
+[08:24:26] boosting round 91, 98.1254 sec elapsed
+[08:24:27] [91]	test-ndcg@1:0.710186	test-ndcg@3:0.705245	test-ndcg@5:0.723996	test-ndcg@10:0.767114
+[08:24:27] boosting round 92, 99.1827 sec elapsed
+[08:24:28] [92]	test-ndcg@1:0.709968	test-ndcg@3:0.705236	test-ndcg@5:0.723866	test-ndcg@10:0.767184
+[08:24:28] boosting round 93, 100.238 sec elapsed
+[08:24:29] [93]	test-ndcg@1:0.709576	test-ndcg@3:0.705130	test-ndcg@5:0.723905	test-ndcg@10:0.767099
+[08:24:29] boosting round 94, 101.281 sec elapsed
+[08:24:30] [94]	test-ndcg@1:0.709788	test-ndcg@3:0.705320	test-ndcg@5:0.724267	test-ndcg@10:0.767327
+[08:24:30] boosting round 95, 102.34 sec elapsed
+[08:24:31] [95]	test-ndcg@1:0.710269	test-ndcg@3:0.705747	test-ndcg@5:0.724315	test-ndcg@10:0.767572
+[08:24:31] boosting round 96, 103.415 sec elapsed
+[08:24:32] [96]	test-ndcg@1:0.710558	test-ndcg@3:0.705985	test-ndcg@5:0.724535	test-ndcg@10:0.767849
+[08:24:32] boosting round 97, 104.495 sec elapsed
+[08:24:33] [97]	test-ndcg@1:0.709620	test-ndcg@3:0.706088	test-ndcg@5:0.724555	test-ndcg@10:0.767859
+[08:24:33] boosting round 98, 105.577 sec elapsed
+[08:24:34] [98]	test-ndcg@1:0.709799	test-ndcg@3:0.705952	test-ndcg@5:0.724655	test-ndcg@10:0.768072
+[08:24:34] boosting round 99, 106.627 sec elapsed
+[08:24:35] [99]	test-ndcg@1:0.710472	test-ndcg@3:0.706220	test-ndcg@5:0.725221	test-ndcg@10:0.768599
+[08:24:35] boosting round 100, 107.703 sec elapsed
+[08:24:36] [100]	test-ndcg@1:0.710436	test-ndcg@3:0.706556	test-ndcg@5:0.725260	test-ndcg@10:0.768621
+[08:24:36] boosting round 101, 108.779 sec elapsed
+[08:24:37] [101]	test-ndcg@1:0.710711	test-ndcg@3:0.706920	test-ndcg@5:0.725751	test-ndcg@10:0.768850
+[08:24:37] boosting round 102, 109.839 sec elapsed
+[08:24:38] [102]	test-ndcg@1:0.710789	test-ndcg@3:0.707184	test-ndcg@5:0.725684	test-ndcg@10:0.768853
+[08:24:38] boosting round 103, 110.893 sec elapsed
+[08:24:39] [103]	test-ndcg@1:0.710816	test-ndcg@3:0.707160	test-ndcg@5:0.725617	test-ndcg@10:0.768890
+[08:24:39] boosting round 104, 111.941 sec elapsed
+[08:24:41] [104]	test-ndcg@1:0.711799	test-ndcg@3:0.707254	test-ndcg@5:0.725757	test-ndcg@10:0.769186
+[08:24:41] boosting round 105, 112.986 sec elapsed
+[08:24:42] [105]	test-ndcg@1:0.710846	test-ndcg@3:0.706896	test-ndcg@5:0.725681	test-ndcg@10:0.769089
+[08:24:42] boosting round 106, 114.054 sec elapsed
+[08:24:43] [106]	test-ndcg@1:0.711184	test-ndcg@3:0.707603	test-ndcg@5:0.725592	test-ndcg@10:0.769341
+[08:24:43] boosting round 107, 115.098 sec elapsed
+[08:24:44] [107]	test-ndcg@1:0.711929	test-ndcg@3:0.707810	test-ndcg@5:0.726290	test-ndcg@10:0.769449
+[08:24:44] boosting round 108, 116.165 sec elapsed
+[08:24:45] [108]	test-ndcg@1:0.712297	test-ndcg@3:0.708085	test-ndcg@5:0.726522	test-ndcg@10:0.769454
+[08:24:45] boosting round 109, 117.226 sec elapsed
+[08:24:46] [109]	test-ndcg@1:0.712604	test-ndcg@3:0.708168	test-ndcg@5:0.726536	test-ndcg@10:0.769520
+[08:24:46] boosting round 110, 118.286 sec elapsed
+[08:24:47] [110]	test-ndcg@1:0.711806	test-ndcg@3:0.708057	test-ndcg@5:0.726464	test-ndcg@10:0.769617
+[08:24:47] boosting round 111, 119.353 sec elapsed
+[08:24:48] [111]	test-ndcg@1:0.712415	test-ndcg@3:0.708018	test-ndcg@5:0.726759	test-ndcg@10:0.769635
+[08:24:48] boosting round 112, 120.431 sec elapsed
+[08:24:49] [112]	test-ndcg@1:0.712586	test-ndcg@3:0.708133	test-ndcg@5:0.726889	test-ndcg@10:0.769799
+[08:24:49] boosting round 113, 121.475 sec elapsed
+[08:24:50] [113]	test-ndcg@1:0.712379	test-ndcg@3:0.707942	test-ndcg@5:0.726708	test-ndcg@10:0.769743
+[08:24:50] boosting round 114, 122.527 sec elapsed
+[08:24:51] [114]	test-ndcg@1:0.711808	test-ndcg@3:0.707897	test-ndcg@5:0.726670	test-ndcg@10:0.769817
+[08:24:51] boosting round 115, 123.591 sec elapsed
+[08:24:52] [115]	test-ndcg@1:0.712098	test-ndcg@3:0.708146	test-ndcg@5:0.726974	test-ndcg@10:0.769913
+[08:24:52] boosting round 116, 124.654 sec elapsed
+[08:24:53] [116]	test-ndcg@1:0.711540	test-ndcg@3:0.708356	test-ndcg@5:0.727178	test-ndcg@10:0.769906
+[08:24:53] boosting round 117, 125.727 sec elapsed
+[08:24:54] [117]	test-ndcg@1:0.711340	test-ndcg@3:0.708399	test-ndcg@5:0.727164	test-ndcg@10:0.770105
+[08:24:54] boosting round 118, 126.802 sec elapsed
+[08:24:55] [118]	test-ndcg@1:0.711507	test-ndcg@3:0.708391	test-ndcg@5:0.727326	test-ndcg@10:0.770198
+[08:24:55] boosting round 119, 127.86 sec elapsed
+[08:24:56] [119]	test-ndcg@1:0.712251	test-ndcg@3:0.709112	test-ndcg@5:0.727674	test-ndcg@10:0.770407
+[08:24:56] boosting round 120, 128.937 sec elapsed
+[08:24:58] [120]	test-ndcg@1:0.712237	test-ndcg@3:0.709317	test-ndcg@5:0.727830	test-ndcg@10:0.770527
+[08:24:58] boosting round 121, 129.998 sec elapsed
+[08:24:59] [121]	test-ndcg@1:0.712389	test-ndcg@3:0.709660	test-ndcg@5:0.727772	test-ndcg@10:0.770545
+[08:24:59] boosting round 122, 131.049 sec elapsed
+[08:25:00] [122]	test-ndcg@1:0.712233	test-ndcg@3:0.709641	test-ndcg@5:0.727884	test-ndcg@10:0.770670
+[08:25:00] boosting round 123, 132.11 sec elapsed
+[08:25:01] [123]	test-ndcg@1:0.712057	test-ndcg@3:0.709267	test-ndcg@5:0.727777	test-ndcg@10:0.770615
+[08:25:01] boosting round 124, 133.173 sec elapsed
+[08:25:02] [124]	test-ndcg@1:0.712799	test-ndcg@3:0.709647	test-ndcg@5:0.727948	test-ndcg@10:0.770762
+[08:25:02] boosting round 125, 134.232 sec elapsed
+[08:25:03] [125]	test-ndcg@1:0.713350	test-ndcg@3:0.710007	test-ndcg@5:0.728094	test-ndcg@10:0.770927
+[08:25:03] boosting round 126, 135.273 sec elapsed
+[08:25:04] [126]	test-ndcg@1:0.712166	test-ndcg@3:0.709605	test-ndcg@5:0.727826	test-ndcg@10:0.770906
+[08:25:04] boosting round 127, 136.343 sec elapsed
+[08:25:05] [127]	test-ndcg@1:0.712450	test-ndcg@3:0.709727	test-ndcg@5:0.728159	test-ndcg@10:0.770985
+[08:25:05] boosting round 128, 137.401 sec elapsed
+[08:25:06] [128]	test-ndcg@1:0.712286	test-ndcg@3:0.709746	test-ndcg@5:0.728083	test-ndcg@10:0.771012
+[08:25:06] boosting round 129, 138.443 sec elapsed
+[08:25:07] [129]	test-ndcg@1:0.712798	test-ndcg@3:0.709848	test-ndcg@5:0.728137	test-ndcg@10:0.771217
+[08:25:07] boosting round 130, 139.487 sec elapsed
+[08:25:08] [130]	test-ndcg@1:0.713283	test-ndcg@3:0.710093	test-ndcg@5:0.728334	test-ndcg@10:0.771246
+[08:25:08] boosting round 131, 140.54 sec elapsed
+[08:25:09] [131]	test-ndcg@1:0.714550	test-ndcg@3:0.710664	test-ndcg@5:0.728673	test-ndcg@10:0.771539
+[08:25:09] boosting round 132, 141.613 sec elapsed
+[08:25:10] [132]	test-ndcg@1:0.714467	test-ndcg@3:0.710957	test-ndcg@5:0.728485	test-ndcg@10:0.771766
+[08:25:10] boosting round 133, 142.673 sec elapsed
+[08:25:11] [133]	test-ndcg@1:0.714489	test-ndcg@3:0.710844	test-ndcg@5:0.728731	test-ndcg@10:0.771757
+[08:25:11] boosting round 134, 143.739 sec elapsed
+[08:25:12] [134]	test-ndcg@1:0.713999	test-ndcg@3:0.710656	test-ndcg@5:0.728523	test-ndcg@10:0.771887
+[08:25:12] boosting round 135, 144.808 sec elapsed
+[08:25:13] [135]	test-ndcg@1:0.714456	test-ndcg@3:0.710873	test-ndcg@5:0.728698	test-ndcg@10:0.772009
+[08:25:13] boosting round 136, 145.853 sec elapsed
+[08:25:14] [136]	test-ndcg@1:0.714482	test-ndcg@3:0.711002	test-ndcg@5:0.728880	test-ndcg@10:0.772200
+[08:25:14] boosting round 137, 146.91 sec elapsed
+[08:25:16] [137]	test-ndcg@1:0.714909	test-ndcg@3:0.711300	test-ndcg@5:0.729166	test-ndcg@10:0.772159
+[08:25:16] boosting round 138, 147.97 sec elapsed
+[08:25:17] [138]	test-ndcg@1:0.714816	test-ndcg@3:0.711265	test-ndcg@5:0.729095	test-ndcg@10:0.772211
+[08:25:17] boosting round 139, 149.017 sec elapsed
+[08:25:18] [139]	test-ndcg@1:0.714890	test-ndcg@3:0.711226	test-ndcg@5:0.729238	test-ndcg@10:0.772300
+[08:25:18] boosting round 140, 150.077 sec elapsed
+[08:25:19] [140]	test-ndcg@1:0.714899	test-ndcg@3:0.711396	test-ndcg@5:0.729423	test-ndcg@10:0.772346
+[08:25:19] boosting round 141, 151.131 sec elapsed
+[08:25:20] [141]	test-ndcg@1:0.714207	test-ndcg@3:0.711267	test-ndcg@5:0.728998	test-ndcg@10:0.772137
+[08:25:20] boosting round 142, 152.187 sec elapsed
+[08:25:21] [142]	test-ndcg@1:0.714305	test-ndcg@3:0.711769	test-ndcg@5:0.729334	test-ndcg@10:0.772395
+[08:25:21] boosting round 143, 153.264 sec elapsed
+[08:25:22] [143]	test-ndcg@1:0.715017	test-ndcg@3:0.711724	test-ndcg@5:0.729595	test-ndcg@10:0.772485
+[08:25:22] boosting round 144, 154.325 sec elapsed
+[08:25:23] [144]	test-ndcg@1:0.714722	test-ndcg@3:0.711597	test-ndcg@5:0.729528	test-ndcg@10:0.772495
+[08:25:23] boosting round 145, 155.386 sec elapsed
+[08:25:24] [145]	test-ndcg@1:0.715485	test-ndcg@3:0.711825	test-ndcg@5:0.729700	test-ndcg@10:0.772846
+[08:25:24] boosting round 146, 156.438 sec elapsed
+[08:25:25] [146]	test-ndcg@1:0.715246	test-ndcg@3:0.711735	test-ndcg@5:0.729642	test-ndcg@10:0.772802
+[08:25:25] boosting round 147, 157.49 sec elapsed
+[08:25:26] [147]	test-ndcg@1:0.715415	test-ndcg@3:0.711624	test-ndcg@5:0.729715	test-ndcg@10:0.772894
+[08:25:26] boosting round 148, 158.531 sec elapsed
+[08:25:27] [148]	test-ndcg@1:0.715500	test-ndcg@3:0.711589	test-ndcg@5:0.729807	test-ndcg@10:0.773037
+[08:25:27] boosting round 149, 159.606 sec elapsed
+[08:25:28] [149]	test-ndcg@1:0.715152	test-ndcg@3:0.711313	test-ndcg@5:0.729743	test-ndcg@10:0.772898
+[08:25:28] boosting round 150, 160.667 sec elapsed
+[08:25:29] [150]	test-ndcg@1:0.715138	test-ndcg@3:0.711512	test-ndcg@5:0.729962	test-ndcg@10:0.773001
+[08:25:29] boosting round 151, 161.711 sec elapsed
+[08:25:30] [151]	test-ndcg@1:0.714797	test-ndcg@3:0.711517	test-ndcg@5:0.730112	test-ndcg@10:0.773022
+[08:25:30] boosting round 152, 162.76 sec elapsed
+[08:25:31] [152]	test-ndcg@1:0.714725	test-ndcg@3:0.711859	test-ndcg@5:0.730158	test-ndcg@10:0.773115
+[08:25:31] boosting round 153, 163.806 sec elapsed
+[08:25:32] [153]	test-ndcg@1:0.714123	test-ndcg@3:0.712113	test-ndcg@5:0.730410	test-ndcg@10:0.773105
+[08:25:32] boosting round 154, 164.868 sec elapsed
+[08:25:33] [154]	test-ndcg@1:0.714782	test-ndcg@3:0.711788	test-ndcg@5:0.730237	test-ndcg@10:0.773175
+[08:25:33] boosting round 155, 165.922 sec elapsed
+[08:25:35] [155]	test-ndcg@1:0.715227	test-ndcg@3:0.712050	test-ndcg@5:0.730551	test-ndcg@10:0.773406
+[08:25:35] boosting round 156, 166.98 sec elapsed
+[08:25:36] [156]	test-ndcg@1:0.715690	test-ndcg@3:0.711911	test-ndcg@5:0.730609	test-ndcg@10:0.773477
+[08:25:36] boosting round 157, 168.019 sec elapsed
+[08:25:37] [157]	test-ndcg@1:0.715658	test-ndcg@3:0.712051	test-ndcg@5:0.730526	test-ndcg@10:0.773434
+[08:25:37] boosting round 158, 169.062 sec elapsed
+[08:25:38] [158]	test-ndcg@1:0.715877	test-ndcg@3:0.712451	test-ndcg@5:0.731016	test-ndcg@10:0.773634
+[08:25:38] boosting round 159, 170.096 sec elapsed
+[08:25:39] [159]	test-ndcg@1:0.714869	test-ndcg@3:0.712602	test-ndcg@5:0.730766	test-ndcg@10:0.773619
+[08:25:39] boosting round 160, 171.137 sec elapsed
+[08:25:40] [160]	test-ndcg@1:0.715009	test-ndcg@3:0.712478	test-ndcg@5:0.730672	test-ndcg@10:0.773679
+[08:25:40] boosting round 161, 172.181 sec elapsed
+[08:25:41] [161]	test-ndcg@1:0.714747	test-ndcg@3:0.712452	test-ndcg@5:0.730446	test-ndcg@10:0.773700
+[08:25:41] boosting round 162, 173.227 sec elapsed
+[08:25:42] [162]	test-ndcg@1:0.715115	test-ndcg@3:0.712128	test-ndcg@5:0.730586	test-ndcg@10:0.773625
+[08:25:42] boosting round 163, 174.268 sec elapsed
+[08:25:43] [163]	test-ndcg@1:0.715397	test-ndcg@3:0.712324	test-ndcg@5:0.730460	test-ndcg@10:0.773789
+[08:25:43] boosting round 164, 175.335 sec elapsed
+[08:25:44] [164]	test-ndcg@1:0.715678	test-ndcg@3:0.712451	test-ndcg@5:0.730905	test-ndcg@10:0.773865
+[08:25:44] boosting round 165, 176.413 sec elapsed
+[08:25:45] [165]	test-ndcg@1:0.715662	test-ndcg@3:0.712269	test-ndcg@5:0.730673	test-ndcg@10:0.773999
+[08:25:45] boosting round 166, 177.477 sec elapsed
+[08:25:46] [166]	test-ndcg@1:0.715144	test-ndcg@3:0.712435	test-ndcg@5:0.730842	test-ndcg@10:0.774042
+[08:25:46] boosting round 167, 178.534 sec elapsed
+[08:25:47] [167]	test-ndcg@1:0.715150	test-ndcg@3:0.712576	test-ndcg@5:0.730920	test-ndcg@10:0.774053
+[08:25:47] boosting round 168, 179.581 sec elapsed
+[08:25:48] [168]	test-ndcg@1:0.716319	test-ndcg@3:0.712957	test-ndcg@5:0.731448	test-ndcg@10:0.774299
+[08:25:48] boosting round 169, 180.636 sec elapsed
+[08:25:49] [169]	test-ndcg@1:0.715831	test-ndcg@3:0.713178	test-ndcg@5:0.731089	test-ndcg@10:0.774298
+[08:25:49] boosting round 170, 181.707 sec elapsed
+[08:25:50] [170]	test-ndcg@1:0.715883	test-ndcg@3:0.712927	test-ndcg@5:0.730982	test-ndcg@10:0.774196
+[08:25:50] boosting round 171, 182.765 sec elapsed
+[08:25:51] [171]	test-ndcg@1:0.715026	test-ndcg@3:0.712735	test-ndcg@5:0.730980	test-ndcg@10:0.774196
+[08:25:51] boosting round 172, 183.802 sec elapsed
+[08:25:52] [172]	test-ndcg@1:0.715517	test-ndcg@3:0.712963	test-ndcg@5:0.731174	test-ndcg@10:0.774310
+[08:25:52] boosting round 173, 184.851 sec elapsed
+[08:25:53] [173]	test-ndcg@1:0.715749	test-ndcg@3:0.713018	test-ndcg@5:0.731054	test-ndcg@10:0.774380
+[08:25:53] boosting round 174, 185.901 sec elapsed
+[08:25:55] [174]	test-ndcg@1:0.715793	test-ndcg@3:0.713354	test-ndcg@5:0.731146	test-ndcg@10:0.774481
+[08:25:55] boosting round 175, 186.966 sec elapsed
+[08:25:56] [175]	test-ndcg@1:0.716156	test-ndcg@3:0.713588	test-ndcg@5:0.731354	test-ndcg@10:0.774603
+[08:25:56] boosting round 176, 188.03 sec elapsed
+[08:25:57] [176]	test-ndcg@1:0.715920	test-ndcg@3:0.713002	test-ndcg@5:0.731143	test-ndcg@10:0.774417
+[08:25:57] boosting round 177, 189.078 sec elapsed
+[08:25:58] [177]	test-ndcg@1:0.715751	test-ndcg@3:0.713053	test-ndcg@5:0.731136	test-ndcg@10:0.774619
+[08:25:58] boosting round 178, 190.124 sec elapsed
+[08:25:59] [178]	test-ndcg@1:0.715536	test-ndcg@3:0.713169	test-ndcg@5:0.731182	test-ndcg@10:0.774719
+[08:25:59] boosting round 179, 191.162 sec elapsed
+[08:26:00] [179]	test-ndcg@1:0.716060	test-ndcg@3:0.713217	test-ndcg@5:0.731280	test-ndcg@10:0.774805
+[08:26:00] boosting round 180, 192.223 sec elapsed
+[08:26:01] [180]	test-ndcg@1:0.715707	test-ndcg@3:0.713297	test-ndcg@5:0.731526	test-ndcg@10:0.775029
+[08:26:01] boosting round 181, 193.284 sec elapsed
+[08:26:02] [181]	test-ndcg@1:0.715425	test-ndcg@3:0.713343	test-ndcg@5:0.731336	test-ndcg@10:0.774838
+[08:26:02] boosting round 182, 194.331 sec elapsed
+[08:26:03] [182]	test-ndcg@1:0.715206	test-ndcg@3:0.713211	test-ndcg@5:0.731366	test-ndcg@10:0.774972
+[08:26:03] boosting round 183, 195.376 sec elapsed
+[08:26:04] [183]	test-ndcg@1:0.715509	test-ndcg@3:0.713700	test-ndcg@5:0.731651	test-ndcg@10:0.775191
+[08:26:04] boosting round 184, 196.437 sec elapsed
+[08:26:05] [184]	test-ndcg@1:0.715246	test-ndcg@3:0.713357	test-ndcg@5:0.731645	test-ndcg@10:0.775084
+[08:26:05] boosting round 185, 197.508 sec elapsed
+[08:26:06] [185]	test-ndcg@1:0.715101	test-ndcg@3:0.713396	test-ndcg@5:0.731540	test-ndcg@10:0.775162
+[08:26:06] boosting round 186, 198.55 sec elapsed
+[08:26:07] [186]	test-ndcg@1:0.714775	test-ndcg@3:0.713429	test-ndcg@5:0.731488	test-ndcg@10:0.775194
+[08:26:07] boosting round 187, 199.589 sec elapsed
+[08:26:08] [187]	test-ndcg@1:0.715652	test-ndcg@3:0.713576	test-ndcg@5:0.732016	test-ndcg@10:0.775284
+[08:26:08] boosting round 188, 200.639 sec elapsed
+[08:26:09] [188]	test-ndcg@1:0.715686	test-ndcg@3:0.713784	test-ndcg@5:0.732213	test-ndcg@10:0.775428
+[08:26:09] boosting round 189, 201.697 sec elapsed
+[08:26:10] [189]	test-ndcg@1:0.714849	test-ndcg@3:0.713747	test-ndcg@5:0.731850	test-ndcg@10:0.775283
+[08:26:10] boosting round 190, 202.756 sec elapsed
+[08:26:11] [190]	test-ndcg@1:0.715032	test-ndcg@3:0.713923	test-ndcg@5:0.732085	test-ndcg@10:0.775292
+[08:26:11] boosting round 191, 203.842 sec elapsed
+[08:26:12] [191]	test-ndcg@1:0.715730	test-ndcg@3:0.714080	test-ndcg@5:0.732405	test-ndcg@10:0.775480
+[08:26:12] boosting round 192, 204.887 sec elapsed
+[08:26:13] [192]	test-ndcg@1:0.716383	test-ndcg@3:0.714197	test-ndcg@5:0.732367	test-ndcg@10:0.775561
+[08:26:13] boosting round 193, 205.925 sec elapsed
+[08:26:15] [193]	test-ndcg@1:0.716786	test-ndcg@3:0.714205	test-ndcg@5:0.732396	test-ndcg@10:0.775589
+[08:26:15] boosting round 194, 206.989 sec elapsed
+[08:26:16] [194]	test-ndcg@1:0.717150	test-ndcg@3:0.714044	test-ndcg@5:0.732556	test-ndcg@10:0.775691
+[08:26:16] boosting round 195, 208.036 sec elapsed
+[08:26:17] [195]	test-ndcg@1:0.716472	test-ndcg@3:0.713989	test-ndcg@5:0.732421	test-ndcg@10:0.775595
+[08:26:17] boosting round 196, 209.061 sec elapsed
+[08:26:18] [196]	test-ndcg@1:0.715995	test-ndcg@3:0.713648	test-ndcg@5:0.732184	test-ndcg@10:0.775453
+[08:26:18] boosting round 197, 210.099 sec elapsed
+[08:26:19] [197]	test-ndcg@1:0.715921	test-ndcg@3:0.713745	test-ndcg@5:0.732253	test-ndcg@10:0.775502
+[08:26:19] boosting round 198, 211.156 sec elapsed
+[08:26:20] [198]	test-ndcg@1:0.715655	test-ndcg@3:0.713669	test-ndcg@5:0.732376	test-ndcg@10:0.775541
+[08:26:20] boosting round 199, 212.186 sec elapsed
+[08:26:21] [199]	test-ndcg@1:0.715246	test-ndcg@3:0.713888	test-ndcg@5:0.732403	test-ndcg@10:0.775674
+[08:26:21] boosting round 200, 213.224 sec elapsed
+[08:26:22] [200]	test-ndcg@1:0.714441	test-ndcg@3:0.713860	test-ndcg@5:0.732055	test-ndcg@10:0.775582
+[08:26:22] boosting round 201, 214.287 sec elapsed
+[08:26:23] [201]	test-ndcg@1:0.714152	test-ndcg@3:0.713723	test-ndcg@5:0.732102	test-ndcg@10:0.775568
+[08:26:23] boosting round 202, 215.329 sec elapsed
+[08:26:24] [202]	test-ndcg@1:0.714314	test-ndcg@3:0.713922	test-ndcg@5:0.731949	test-ndcg@10:0.775725
+[08:26:24] boosting round 203, 216.38 sec elapsed
+[08:26:25] [203]	test-ndcg@1:0.713980	test-ndcg@3:0.713908	test-ndcg@5:0.732118	test-ndcg@10:0.775769
+[08:26:25] boosting round 204, 217.424 sec elapsed
+[08:26:26] [204]	test-ndcg@1:0.714048	test-ndcg@3:0.713913	test-ndcg@5:0.732174	test-ndcg@10:0.775733
+[08:26:26] boosting round 205, 218.489 sec elapsed
+[08:26:27] [205]	test-ndcg@1:0.713941	test-ndcg@3:0.714058	test-ndcg@5:0.732344	test-ndcg@10:0.775819
+[08:26:27] boosting round 206, 219.535 sec elapsed
+[08:26:28] [206]	test-ndcg@1:0.714580	test-ndcg@3:0.714224	test-ndcg@5:0.732384	test-ndcg@10:0.776019
+[08:26:28] boosting round 207, 220.594 sec elapsed
+[08:26:29] [207]	test-ndcg@1:0.714432	test-ndcg@3:0.714229	test-ndcg@5:0.732158	test-ndcg@10:0.775947
+[08:26:29] boosting round 208, 221.622 sec elapsed
+[08:26:30] [208]	test-ndcg@1:0.713977	test-ndcg@3:0.714194	test-ndcg@5:0.732220	test-ndcg@10:0.775812
+[08:26:30] boosting round 209, 222.684 sec elapsed
+[08:26:31] [209]	test-ndcg@1:0.714537	test-ndcg@3:0.714187	test-ndcg@5:0.732300	test-ndcg@10:0.775903
+[08:26:31] boosting round 210, 223.716 sec elapsed
+[08:26:32] [210]	test-ndcg@1:0.714403	test-ndcg@3:0.714026	test-ndcg@5:0.732333	test-ndcg@10:0.775949
+[08:26:32] boosting round 211, 224.775 sec elapsed
+[08:26:33] [211]	test-ndcg@1:0.714437	test-ndcg@3:0.714023	test-ndcg@5:0.732304	test-ndcg@10:0.775997
+[08:26:33] boosting round 212, 225.809 sec elapsed
+[08:26:34] [212]	test-ndcg@1:0.714505	test-ndcg@3:0.714250	test-ndcg@5:0.732299	test-ndcg@10:0.776131
+[08:26:34] boosting round 213, 226.856 sec elapsed
+[08:26:35] [213]	test-ndcg@1:0.714649	test-ndcg@3:0.713964	test-ndcg@5:0.732372	test-ndcg@10:0.775961
+[08:26:35] boosting round 214, 227.901 sec elapsed
+[08:26:36] [214]	test-ndcg@1:0.713980	test-ndcg@3:0.713617	test-ndcg@5:0.732417	test-ndcg@10:0.775879
+[08:26:36] boosting round 215, 228.963 sec elapsed
+[08:26:38] [215]	test-ndcg@1:0.713656	test-ndcg@3:0.713817	test-ndcg@5:0.732598	test-ndcg@10:0.775867
+[08:26:38] boosting round 216, 230.028 sec elapsed
+[08:26:39] [216]	test-ndcg@1:0.713958	test-ndcg@3:0.713997	test-ndcg@5:0.732711	test-ndcg@10:0.776031
+[08:26:39] boosting round 217, 231.07 sec elapsed
+[08:26:40] [217]	test-ndcg@1:0.713563	test-ndcg@3:0.714006	test-ndcg@5:0.732531	test-ndcg@10:0.776006
+[08:26:40] boosting round 218, 232.136 sec elapsed
+[08:26:41] [218]	test-ndcg@1:0.713575	test-ndcg@3:0.714306	test-ndcg@5:0.732944	test-ndcg@10:0.776205
+[08:26:41] boosting round 219, 233.185 sec elapsed
+[08:26:42] [219]	test-ndcg@1:0.713954	test-ndcg@3:0.714397	test-ndcg@5:0.732841	test-ndcg@10:0.776239
+[08:26:42] boosting round 220, 234.258 sec elapsed
+[08:26:43] [220]	test-ndcg@1:0.713961	test-ndcg@3:0.714245	test-ndcg@5:0.732886	test-ndcg@10:0.776217
+[08:26:43] boosting round 221, 235.29 sec elapsed
+[08:26:44] [221]	test-ndcg@1:0.714632	test-ndcg@3:0.714483	test-ndcg@5:0.732981	test-ndcg@10:0.776286
+[08:26:44] boosting round 222, 236.336 sec elapsed
+[08:26:45] [222]	test-ndcg@1:0.713977	test-ndcg@3:0.714385	test-ndcg@5:0.732563	test-ndcg@10:0.776253
+[08:26:45] boosting round 223, 237.392 sec elapsed
+[08:26:46] [223]	test-ndcg@1:0.714271	test-ndcg@3:0.714489	test-ndcg@5:0.732896	test-ndcg@10:0.776406
+[08:26:46] boosting round 224, 238.447 sec elapsed
+[08:26:47] [224]	test-ndcg@1:0.714709	test-ndcg@3:0.714444	test-ndcg@5:0.733134	test-ndcg@10:0.776400
+[08:26:47] boosting round 225, 239.479 sec elapsed
+[08:26:48] [225]	test-ndcg@1:0.714264	test-ndcg@3:0.714273	test-ndcg@5:0.733058	test-ndcg@10:0.776502
+[08:26:48] boosting round 226, 240.55 sec elapsed
+[08:26:49] [226]	test-ndcg@1:0.713957	test-ndcg@3:0.714337	test-ndcg@5:0.733126	test-ndcg@10:0.776529
+[08:26:49] boosting round 227, 241.62 sec elapsed
+[08:26:50] [227]	test-ndcg@1:0.713718	test-ndcg@3:0.714103	test-ndcg@5:0.733166	test-ndcg@10:0.776448
+[08:26:50] boosting round 228, 242.675 sec elapsed
+[08:26:51] [228]	test-ndcg@1:0.714189	test-ndcg@3:0.714397	test-ndcg@5:0.733088	test-ndcg@10:0.776397
+[08:26:51] boosting round 229, 243.733 sec elapsed
+[08:26:52] [229]	test-ndcg@1:0.713889	test-ndcg@3:0.714504	test-ndcg@5:0.733214	test-ndcg@10:0.776327
+[08:26:52] boosting round 230, 244.775 sec elapsed
+[08:26:53] [230]	test-ndcg@1:0.713579	test-ndcg@3:0.714243	test-ndcg@5:0.733121	test-ndcg@10:0.776323
+[08:26:53] boosting round 231, 245.832 sec elapsed
+[08:26:54] [231]	test-ndcg@1:0.713796	test-ndcg@3:0.714701	test-ndcg@5:0.733335	test-ndcg@10:0.776478
+[08:26:54] boosting round 232, 246.915 sec elapsed
+[08:26:55] [232]	test-ndcg@1:0.713862	test-ndcg@3:0.714632	test-ndcg@5:0.733074	test-ndcg@10:0.776476
+[08:26:55] boosting round 233, 247.953 sec elapsed
+[08:26:57] [233]	test-ndcg@1:0.713952	test-ndcg@3:0.714809	test-ndcg@5:0.733234	test-ndcg@10:0.776606
+[08:26:57] boosting round 234, 249.012 sec elapsed
+[08:26:58] [234]	test-ndcg@1:0.714036	test-ndcg@3:0.714982	test-ndcg@5:0.733267	test-ndcg@10:0.776686
+[08:26:58] boosting round 235, 250.061 sec elapsed
+[08:26:59] [235]	test-ndcg@1:0.714507	test-ndcg@3:0.715319	test-ndcg@5:0.733479	test-ndcg@10:0.776779
+[08:26:59] boosting round 236, 251.114 sec elapsed
+[08:27:00] [236]	test-ndcg@1:0.714091	test-ndcg@3:0.715238	test-ndcg@5:0.733443	test-ndcg@10:0.776722
+[08:27:00] boosting round 237, 252.139 sec elapsed
+[08:27:01] [237]	test-ndcg@1:0.714223	test-ndcg@3:0.715384	test-ndcg@5:0.733550	test-ndcg@10:0.776882
+[08:27:01] boosting round 238, 253.176 sec elapsed
+[08:27:02] [238]	test-ndcg@1:0.714493	test-ndcg@3:0.715578	test-ndcg@5:0.733716	test-ndcg@10:0.777038
+[08:27:02] boosting round 239, 254.206 sec elapsed
+[08:27:03] [239]	test-ndcg@1:0.714902	test-ndcg@3:0.715914	test-ndcg@5:0.733797	test-ndcg@10:0.777007
+[08:27:03] boosting round 240, 255.267 sec elapsed
+[08:27:04] [240]	test-ndcg@1:0.715123	test-ndcg@3:0.715516	test-ndcg@5:0.733850	test-ndcg@10:0.776987
+[08:27:04] boosting round 241, 256.311 sec elapsed
+[08:27:05] [241]	test-ndcg@1:0.714879	test-ndcg@3:0.715214	test-ndcg@5:0.733857	test-ndcg@10:0.776835
+[08:27:05] boosting round 242, 257.389 sec elapsed
+[08:27:06] [242]	test-ndcg@1:0.714895	test-ndcg@3:0.715131	test-ndcg@5:0.733788	test-ndcg@10:0.776948
+[08:27:06] boosting round 243, 258.435 sec elapsed
+[08:27:07] [243]	test-ndcg@1:0.714726	test-ndcg@3:0.715186	test-ndcg@5:0.733882	test-ndcg@10:0.776980
+[08:27:07] boosting round 244, 259.48 sec elapsed
+[08:27:08] [244]	test-ndcg@1:0.714699	test-ndcg@3:0.715488	test-ndcg@5:0.733693	test-ndcg@10:0.776931
+[08:27:08] boosting round 245, 260.533 sec elapsed
+[08:27:09] [245]	test-ndcg@1:0.714747	test-ndcg@3:0.715575	test-ndcg@5:0.733724	test-ndcg@10:0.777077
+[08:27:09] boosting round 246, 261.565 sec elapsed
+[08:27:10] [246]	test-ndcg@1:0.714610	test-ndcg@3:0.715575	test-ndcg@5:0.733888	test-ndcg@10:0.777103
+[08:27:10] boosting round 247, 262.603 sec elapsed
+[08:27:11] [247]	test-ndcg@1:0.715119	test-ndcg@3:0.715650	test-ndcg@5:0.733957	test-ndcg@10:0.777311
+[08:27:11] boosting round 248, 263.624 sec elapsed
+[08:27:12] [248]	test-ndcg@1:0.714857	test-ndcg@3:0.715513	test-ndcg@5:0.734097	test-ndcg@10:0.777277
+[08:27:12] boosting round 249, 264.687 sec elapsed
+[08:27:13] [249]	test-ndcg@1:0.714388	test-ndcg@3:0.715705	test-ndcg@5:0.734126	test-ndcg@10:0.777370
+[08:27:13] boosting round 250, 265.732 sec elapsed
+[08:27:14] [250]	test-ndcg@1:0.713907	test-ndcg@3:0.715411	test-ndcg@5:0.733894	test-ndcg@10:0.777161
+[08:27:14] boosting round 251, 266.784 sec elapsed
+[08:27:15] [251]	test-ndcg@1:0.714759	test-ndcg@3:0.715613	test-ndcg@5:0.734169	test-ndcg@10:0.777223
+[08:27:15] boosting round 252, 267.828 sec elapsed
+[08:27:16] [252]	test-ndcg@1:0.714854	test-ndcg@3:0.715519	test-ndcg@5:0.734170	test-ndcg@10:0.777202
+[08:27:16] boosting round 253, 268.866 sec elapsed
+[08:27:17] [253]	test-ndcg@1:0.714752	test-ndcg@3:0.715743	test-ndcg@5:0.734087	test-ndcg@10:0.777311
+[08:27:17] boosting round 254, 269.92 sec elapsed
+[08:27:19] [254]	test-ndcg@1:0.715284	test-ndcg@3:0.715987	test-ndcg@5:0.734271	test-ndcg@10:0.777456
+[08:27:19] boosting round 255, 270.982 sec elapsed
+[08:27:20] [255]	test-ndcg@1:0.715111	test-ndcg@3:0.716034	test-ndcg@5:0.734232	test-ndcg@10:0.777483
+[08:27:20] boosting round 256, 272.05 sec elapsed
+[08:27:21] [256]	test-ndcg@1:0.715135	test-ndcg@3:0.716136	test-ndcg@5:0.734047	test-ndcg@10:0.777485
+[08:27:21] boosting round 257, 273.083 sec elapsed
+[08:27:22] [257]	test-ndcg@1:0.714670	test-ndcg@3:0.715735	test-ndcg@5:0.733919	test-ndcg@10:0.777447
+[08:27:22] boosting round 258, 274.141 sec elapsed
+[08:27:23] [258]	test-ndcg@1:0.714743	test-ndcg@3:0.715839	test-ndcg@5:0.734019	test-ndcg@10:0.777516
+[08:27:23] boosting round 259, 275.177 sec elapsed
+[08:27:24] [259]	test-ndcg@1:0.714910	test-ndcg@3:0.716011	test-ndcg@5:0.734039	test-ndcg@10:0.777641
+[08:27:24] boosting round 260, 276.219 sec elapsed
+[08:27:25] [260]	test-ndcg@1:0.714904	test-ndcg@3:0.715987	test-ndcg@5:0.733872	test-ndcg@10:0.777653
+[08:27:25] boosting round 261, 277.274 sec elapsed
+[08:27:26] [261]	test-ndcg@1:0.715633	test-ndcg@3:0.716014	test-ndcg@5:0.734109	test-ndcg@10:0.777695
+[08:27:26] boosting round 262, 278.319 sec elapsed
+[08:27:27] [262]	test-ndcg@1:0.716172	test-ndcg@3:0.716356	test-ndcg@5:0.734137	test-ndcg@10:0.777769
+[08:27:27] boosting round 263, 279.383 sec elapsed
+[08:27:28] [263]	test-ndcg@1:0.715621	test-ndcg@3:0.716129	test-ndcg@5:0.734014	test-ndcg@10:0.777787
+[08:27:28] boosting round 264, 280.439 sec elapsed
+[08:27:29] [264]	test-ndcg@1:0.715540	test-ndcg@3:0.716258	test-ndcg@5:0.734154	test-ndcg@10:0.777794
+[08:27:29] boosting round 265, 281.493 sec elapsed
+[08:27:30] [265]	test-ndcg@1:0.716243	test-ndcg@3:0.716377	test-ndcg@5:0.734371	test-ndcg@10:0.778023
+[08:27:30] boosting round 266, 282.543 sec elapsed
+[08:27:31] [266]	test-ndcg@1:0.716820	test-ndcg@3:0.716582	test-ndcg@5:0.734538	test-ndcg@10:0.778093
+[08:27:31] boosting round 267, 283.574 sec elapsed
+[08:27:32] [267]	test-ndcg@1:0.716588	test-ndcg@3:0.716344	test-ndcg@5:0.734486	test-ndcg@10:0.778050
+[08:27:32] boosting round 268, 284.626 sec elapsed
+[08:27:33] [268]	test-ndcg@1:0.716154	test-ndcg@3:0.716189	test-ndcg@5:0.734366	test-ndcg@10:0.777797
+[08:27:33] boosting round 269, 285.663 sec elapsed
+[08:27:34] [269]	test-ndcg@1:0.716386	test-ndcg@3:0.716277	test-ndcg@5:0.734369	test-ndcg@10:0.778005
+[08:27:34] boosting round 270, 286.708 sec elapsed
+[08:27:35] [270]	test-ndcg@1:0.716251	test-ndcg@3:0.716515	test-ndcg@5:0.734204	test-ndcg@10:0.777835
+[08:27:35] boosting round 271, 287.758 sec elapsed
+[08:27:36] [271]	test-ndcg@1:0.716072	test-ndcg@3:0.716021	test-ndcg@5:0.734170	test-ndcg@10:0.777833
+[08:27:36] boosting round 272, 288.823 sec elapsed
+[08:27:37] [272]	test-ndcg@1:0.715888	test-ndcg@3:0.715996	test-ndcg@5:0.734360	test-ndcg@10:0.777858
+[08:27:37] boosting round 273, 289.864 sec elapsed
+[08:27:38] [273]	test-ndcg@1:0.715045	test-ndcg@3:0.715931	test-ndcg@5:0.734131	test-ndcg@10:0.777749
+[08:27:38] boosting round 274, 290.913 sec elapsed
+[08:27:39] [274]	test-ndcg@1:0.715067	test-ndcg@3:0.715940	test-ndcg@5:0.734203	test-ndcg@10:0.777740
+[08:27:39] boosting round 275, 291.948 sec elapsed
+[08:27:41] [275]	test-ndcg@1:0.715378	test-ndcg@3:0.716188	test-ndcg@5:0.734287	test-ndcg@10:0.777736
+[08:27:41] boosting round 276, 292.988 sec elapsed
+[08:27:42] [276]	test-ndcg@1:0.714972	test-ndcg@3:0.715912	test-ndcg@5:0.734165	test-ndcg@10:0.777695
+[08:27:42] boosting round 277, 294.033 sec elapsed
+[08:27:43] [277]	test-ndcg@1:0.715054	test-ndcg@3:0.716143	test-ndcg@5:0.734153	test-ndcg@10:0.777705
+[08:27:43] boosting round 278, 295.061 sec elapsed
+[08:27:44] [278]	test-ndcg@1:0.714859	test-ndcg@3:0.715826	test-ndcg@5:0.734358	test-ndcg@10:0.777755
+[08:27:44] boosting round 279, 296.129 sec elapsed
+[08:27:45] [279]	test-ndcg@1:0.715075	test-ndcg@3:0.715955	test-ndcg@5:0.734335	test-ndcg@10:0.777733
+[08:27:45] boosting round 280, 297.162 sec elapsed
+[08:27:46] [280]	test-ndcg@1:0.714370	test-ndcg@3:0.715628	test-ndcg@5:0.734157	test-ndcg@10:0.777634
+[08:27:46] boosting round 281, 298.188 sec elapsed
+[08:27:47] [281]	test-ndcg@1:0.715326	test-ndcg@3:0.715907	test-ndcg@5:0.734385	test-ndcg@10:0.777700
+[08:27:47] boosting round 282, 299.236 sec elapsed
+[08:27:48] [282]	test-ndcg@1:0.715088	test-ndcg@3:0.715854	test-ndcg@5:0.734241	test-ndcg@10:0.777728
+[08:27:48] boosting round 283, 300.262 sec elapsed
+[08:27:49] [283]	test-ndcg@1:0.715290	test-ndcg@3:0.715732	test-ndcg@5:0.734460	test-ndcg@10:0.777818
+[08:27:49] boosting round 284, 301.317 sec elapsed
+[08:27:50] [284]	test-ndcg@1:0.715276	test-ndcg@3:0.715754	test-ndcg@5:0.734363	test-ndcg@10:0.777847
+[08:27:50] boosting round 285, 302.334 sec elapsed
+[08:27:51] [285]	test-ndcg@1:0.715712	test-ndcg@3:0.715844	test-ndcg@5:0.734449	test-ndcg@10:0.777930
+[08:27:51] boosting round 286, 303.372 sec elapsed
+[08:27:52] [286]	test-ndcg@1:0.715614	test-ndcg@3:0.715844	test-ndcg@5:0.734522	test-ndcg@10:0.777928
+[08:27:52] boosting round 287, 304.436 sec elapsed
+[08:27:53] [287]	test-ndcg@1:0.715545	test-ndcg@3:0.716096	test-ndcg@5:0.734430	test-ndcg@10:0.777987
+[08:27:53] boosting round 288, 305.482 sec elapsed
+[08:27:54] [288]	test-ndcg@1:0.715820	test-ndcg@3:0.716163	test-ndcg@5:0.734837	test-ndcg@10:0.778113
+[08:27:54] boosting round 289, 306.539 sec elapsed
+[08:27:55] [289]	test-ndcg@1:0.716214	test-ndcg@3:0.716032	test-ndcg@5:0.734816	test-ndcg@10:0.778179
+[08:27:55] boosting round 290, 307.605 sec elapsed
+[08:27:56] [290]	test-ndcg@1:0.716037	test-ndcg@3:0.715962	test-ndcg@5:0.734923	test-ndcg@10:0.778082
+[08:27:56] boosting round 291, 308.651 sec elapsed
+[08:27:57] [291]	test-ndcg@1:0.715160	test-ndcg@3:0.715992	test-ndcg@5:0.734892	test-ndcg@10:0.777939
+[08:27:57] boosting round 292, 309.698 sec elapsed
+[08:27:58] [292]	test-ndcg@1:0.715449	test-ndcg@3:0.716131	test-ndcg@5:0.734946	test-ndcg@10:0.778042
+[08:27:58] boosting round 293, 310.746 sec elapsed
+[08:27:59] [293]	test-ndcg@1:0.716116	test-ndcg@3:0.716344	test-ndcg@5:0.734888	test-ndcg@10:0.778081
+[08:27:59] boosting round 294, 311.781 sec elapsed
+[08:28:00] [294]	test-ndcg@1:0.716370	test-ndcg@3:0.716438	test-ndcg@5:0.735173	test-ndcg@10:0.778177
+[08:28:00] boosting round 295, 312.807 sec elapsed
+[08:28:01] [295]	test-ndcg@1:0.716469	test-ndcg@3:0.716740	test-ndcg@5:0.734928	test-ndcg@10:0.778232
+[08:28:01] boosting round 296, 313.867 sec elapsed
+[08:28:02] [296]	test-ndcg@1:0.716547	test-ndcg@3:0.716658	test-ndcg@5:0.735106	test-ndcg@10:0.778275
+[08:28:02] boosting round 297, 314.904 sec elapsed
+[08:28:03] [297]	test-ndcg@1:0.716779	test-ndcg@3:0.716700	test-ndcg@5:0.735277	test-ndcg@10:0.778479
+[08:28:03] boosting round 298, 315.939 sec elapsed
+[08:28:04] [298]	test-ndcg@1:0.716997	test-ndcg@3:0.716710	test-ndcg@5:0.735182	test-ndcg@10:0.778509
+[08:28:04] boosting round 299, 316.958 sec elapsed
+[08:28:06] [299]	test-ndcg@1:0.716874	test-ndcg@3:0.716572	test-ndcg@5:0.735260	test-ndcg@10:0.778505
+[08:28:06] boosting round 300, 318.007 sec elapsed
+[08:28:07] [300]	test-ndcg@1:0.716461	test-ndcg@3:0.716428	test-ndcg@5:0.735161	test-ndcg@10:0.778429
+[08:28:07] boosting round 301, 319.026 sec elapsed
+[08:28:08] [301]	test-ndcg@1:0.716666	test-ndcg@3:0.716623	test-ndcg@5:0.735144	test-ndcg@10:0.778449
+[08:28:08] boosting round 302, 320.078 sec elapsed
+[08:28:09] [302]	test-ndcg@1:0.717210	test-ndcg@3:0.716881	test-ndcg@5:0.735455	test-ndcg@10:0.778583
+[08:28:09] boosting round 303, 321.136 sec elapsed
+[08:28:10] [303]	test-ndcg@1:0.716494	test-ndcg@3:0.716543	test-ndcg@5:0.735135	test-ndcg@10:0.778381
+[08:28:10] boosting round 304, 322.177 sec elapsed
+[08:28:11] [304]	test-ndcg@1:0.716236	test-ndcg@3:0.716819	test-ndcg@5:0.735234	test-ndcg@10:0.778395
+[08:28:11] boosting round 305, 323.208 sec elapsed
+[08:28:12] [305]	test-ndcg@1:0.716357	test-ndcg@3:0.716783	test-ndcg@5:0.735224	test-ndcg@10:0.778384
+[08:28:12] boosting round 306, 324.239 sec elapsed
+[08:28:13] [306]	test-ndcg@1:0.716591	test-ndcg@3:0.716760	test-ndcg@5:0.735256	test-ndcg@10:0.778358
+[08:28:13] boosting round 307, 325.254 sec elapsed
+[08:28:14] [307]	test-ndcg@1:0.716537	test-ndcg@3:0.716696	test-ndcg@5:0.735306	test-ndcg@10:0.778389
+[08:28:14] boosting round 308, 326.288 sec elapsed
+[08:28:15] [308]	test-ndcg@1:0.716572	test-ndcg@3:0.716676	test-ndcg@5:0.735269	test-ndcg@10:0.778403
+[08:28:15] boosting round 309, 327.309 sec elapsed
+[08:28:16] [309]	test-ndcg@1:0.716533	test-ndcg@3:0.716707	test-ndcg@5:0.735374	test-ndcg@10:0.778441
+[08:28:16] boosting round 310, 328.333 sec elapsed
+[08:28:17] [310]	test-ndcg@1:0.715963	test-ndcg@3:0.716426	test-ndcg@5:0.735495	test-ndcg@10:0.778459
+[08:28:17] boosting round 311, 329.376 sec elapsed
+[08:28:18] [311]	test-ndcg@1:0.716112	test-ndcg@3:0.716484	test-ndcg@5:0.735268	test-ndcg@10:0.778416
+[08:28:18] boosting round 312, 330.405 sec elapsed
+[08:28:19] [312]	test-ndcg@1:0.715990	test-ndcg@3:0.716518	test-ndcg@5:0.735274	test-ndcg@10:0.778522
+[08:28:19] boosting round 313, 331.448 sec elapsed
+[08:28:20] [313]	test-ndcg@1:0.716281	test-ndcg@3:0.716227	test-ndcg@5:0.735438	test-ndcg@10:0.778433
+[08:28:20] boosting round 314, 332.484 sec elapsed
+[08:28:21] [314]	test-ndcg@1:0.716880	test-ndcg@3:0.716815	test-ndcg@5:0.735552	test-ndcg@10:0.778576
+[08:28:21] boosting round 315, 333.555 sec elapsed
+[08:28:22] [315]	test-ndcg@1:0.716921	test-ndcg@3:0.716944	test-ndcg@5:0.735430	test-ndcg@10:0.778582
+[08:28:22] boosting round 316, 334.582 sec elapsed
+[08:28:23] [316]	test-ndcg@1:0.716915	test-ndcg@3:0.716519	test-ndcg@5:0.735333	test-ndcg@10:0.778434
+[08:28:23] boosting round 317, 335.618 sec elapsed
+[08:28:24] [317]	test-ndcg@1:0.716985	test-ndcg@3:0.716445	test-ndcg@5:0.735452	test-ndcg@10:0.778493
+[08:28:24] boosting round 318, 336.641 sec elapsed
+[08:28:25] [318]	test-ndcg@1:0.716814	test-ndcg@3:0.716390	test-ndcg@5:0.735519	test-ndcg@10:0.778518
+[08:28:25] boosting round 319, 337.706 sec elapsed
+[08:28:26] [319]	test-ndcg@1:0.716757	test-ndcg@3:0.716383	test-ndcg@5:0.735451	test-ndcg@10:0.778523
+[08:28:26] boosting round 320, 338.729 sec elapsed
+[08:28:27] [320]	test-ndcg@1:0.716550	test-ndcg@3:0.716383	test-ndcg@5:0.735452	test-ndcg@10:0.778561
+[08:28:27] boosting round 321, 339.76 sec elapsed
+[08:28:28] [321]	test-ndcg@1:0.716301	test-ndcg@3:0.716427	test-ndcg@5:0.735395	test-ndcg@10:0.778535
+[08:28:28] boosting round 322, 340.79 sec elapsed
+[08:28:29] [322]	test-ndcg@1:0.716434	test-ndcg@3:0.716382	test-ndcg@5:0.735260	test-ndcg@10:0.778483
+[08:28:29] boosting round 323, 341.816 sec elapsed
+[08:28:30] [323]	test-ndcg@1:0.716883	test-ndcg@3:0.716443	test-ndcg@5:0.735383	test-ndcg@10:0.778551
+[08:28:30] boosting round 324, 342.841 sec elapsed
+[08:28:31] [324]	test-ndcg@1:0.717078	test-ndcg@3:0.716520	test-ndcg@5:0.735467	test-ndcg@10:0.778553
+[08:28:31] boosting round 325, 343.86 sec elapsed
+[08:28:32] [325]	test-ndcg@1:0.717024	test-ndcg@3:0.716335	test-ndcg@5:0.735229	test-ndcg@10:0.778491
+[08:28:32] boosting round 326, 344.899 sec elapsed
+[08:28:33] [326]	test-ndcg@1:0.717341	test-ndcg@3:0.716437	test-ndcg@5:0.735370	test-ndcg@10:0.778563
+[08:28:33] boosting round 327, 345.918 sec elapsed
+[08:28:34] [327]	test-ndcg@1:0.717122	test-ndcg@3:0.716395	test-ndcg@5:0.735320	test-ndcg@10:0.778548
+[08:28:34] boosting round 328, 346.935 sec elapsed
+[08:28:36] [328]	test-ndcg@1:0.717544	test-ndcg@3:0.716433	test-ndcg@5:0.735577	test-ndcg@10:0.778617
+[08:28:36] boosting round 329, 347.995 sec elapsed
+[08:28:37] [329]	test-ndcg@1:0.717236	test-ndcg@3:0.716761	test-ndcg@5:0.735651	test-ndcg@10:0.778775
+[08:28:37] boosting round 330, 349.024 sec elapsed
+[08:28:38] [330]	test-ndcg@1:0.717042	test-ndcg@3:0.716470	test-ndcg@5:0.735632	test-ndcg@10:0.778641
+[08:28:38] boosting round 331, 350.053 sec elapsed
+[08:28:39] [331]	test-ndcg@1:0.716839	test-ndcg@3:0.716551	test-ndcg@5:0.735650	test-ndcg@10:0.778576
+[08:28:39] boosting round 332, 351.068 sec elapsed
+[08:28:40] [332]	test-ndcg@1:0.716812	test-ndcg@3:0.716447	test-ndcg@5:0.735552	test-ndcg@10:0.778454
+[08:28:40] boosting round 333, 352.092 sec elapsed
+[08:28:41] [333]	test-ndcg@1:0.717233	test-ndcg@3:0.716486	test-ndcg@5:0.735390	test-ndcg@10:0.778514
+[08:28:41] boosting round 334, 353.121 sec elapsed
+[08:28:42] [334]	test-ndcg@1:0.717102	test-ndcg@3:0.716609	test-ndcg@5:0.735382	test-ndcg@10:0.778503
+[08:28:42] boosting round 335, 354.159 sec elapsed
+[08:28:43] [335]	test-ndcg@1:0.716576	test-ndcg@3:0.716391	test-ndcg@5:0.735266	test-ndcg@10:0.778387
+[08:28:43] boosting round 336, 355.222 sec elapsed
+[08:28:44] [336]	test-ndcg@1:0.716449	test-ndcg@3:0.716176	test-ndcg@5:0.735011	test-ndcg@10:0.778535
+[08:28:44] boosting round 337, 356.281 sec elapsed
+[08:28:45] [337]	test-ndcg@1:0.716702	test-ndcg@3:0.716287	test-ndcg@5:0.735169	test-ndcg@10:0.778539
+[08:28:45] boosting round 338, 357.306 sec elapsed
+[08:28:46] [338]	test-ndcg@1:0.716686	test-ndcg@3:0.716175	test-ndcg@5:0.735184	test-ndcg@10:0.778464
+[08:28:46] boosting round 339, 358.329 sec elapsed
+[08:28:47] [339]	test-ndcg@1:0.716799	test-ndcg@3:0.716154	test-ndcg@5:0.735364	test-ndcg@10:0.778478
+[08:28:47] boosting round 340, 359.347 sec elapsed
+[08:28:48] [340]	test-ndcg@1:0.716370	test-ndcg@3:0.716615	test-ndcg@5:0.735386	test-ndcg@10:0.778536
+[08:28:48] boosting round 341, 360.411 sec elapsed
+[08:28:49] [341]	test-ndcg@1:0.715744	test-ndcg@3:0.716648	test-ndcg@5:0.735439	test-ndcg@10:0.778406
+[08:28:49] boosting round 342, 361.451 sec elapsed
+[08:28:50] [342]	test-ndcg@1:0.716821	test-ndcg@3:0.716977	test-ndcg@5:0.735542	test-ndcg@10:0.778546
+[08:28:50] boosting round 343, 362.472 sec elapsed
+[08:28:51] [343]	test-ndcg@1:0.716439	test-ndcg@3:0.717066	test-ndcg@5:0.735536	test-ndcg@10:0.778526
+[08:28:51] boosting round 344, 363.489 sec elapsed
+[08:28:52] [344]	test-ndcg@1:0.716356	test-ndcg@3:0.716918	test-ndcg@5:0.735481	test-ndcg@10:0.778533
+[08:28:52] boosting round 345, 364.519 sec elapsed
+[08:28:53] [345]	test-ndcg@1:0.716501	test-ndcg@3:0.717007	test-ndcg@5:0.735599	test-ndcg@10:0.778572
+[08:28:53] boosting round 346, 365.579 sec elapsed
+[08:28:54] [346]	test-ndcg@1:0.717019	test-ndcg@3:0.717100	test-ndcg@5:0.735622	test-ndcg@10:0.778636
+[08:28:54] boosting round 347, 366.607 sec elapsed
+[08:28:55] [347]	test-ndcg@1:0.716198	test-ndcg@3:0.716801	test-ndcg@5:0.735490	test-ndcg@10:0.778557
+[08:28:55] boosting round 348, 367.657 sec elapsed
+[08:28:56] [348]	test-ndcg@1:0.716308	test-ndcg@3:0.716874	test-ndcg@5:0.735433	test-ndcg@10:0.778582
+[08:28:56] boosting round 349, 368.687 sec elapsed
+[08:28:57] [349]	test-ndcg@1:0.716385	test-ndcg@3:0.716817	test-ndcg@5:0.735380	test-ndcg@10:0.778635
+[08:28:57] boosting round 350, 369.717 sec elapsed
+[08:28:58] [350]	test-ndcg@1:0.715907	test-ndcg@3:0.716690	test-ndcg@5:0.735227	test-ndcg@10:0.778681
+[08:28:58] boosting round 351, 370.761 sec elapsed
+[08:28:59] [351]	test-ndcg@1:0.716281	test-ndcg@3:0.716843	test-ndcg@5:0.735231	test-ndcg@10:0.778659
+[08:28:59] boosting round 352, 371.806 sec elapsed
+[08:29:00] [352]	test-ndcg@1:0.716482	test-ndcg@3:0.716859	test-ndcg@5:0.735564	test-ndcg@10:0.778753
+[08:29:00] boosting round 353, 372.829 sec elapsed
+[08:29:01] [353]	test-ndcg@1:0.716741	test-ndcg@3:0.716896	test-ndcg@5:0.735654	test-ndcg@10:0.778822
+[08:29:01] boosting round 354, 373.869 sec elapsed
+[08:29:02] [354]	test-ndcg@1:0.716727	test-ndcg@3:0.717019	test-ndcg@5:0.735778	test-ndcg@10:0.778862
+[08:29:02] boosting round 355, 374.892 sec elapsed
+[08:29:03] [355]	test-ndcg@1:0.716446	test-ndcg@3:0.716981	test-ndcg@5:0.735597	test-ndcg@10:0.778842
+[08:29:03] boosting round 356, 375.914 sec elapsed
+[08:29:04] [356]	test-ndcg@1:0.715798	test-ndcg@3:0.716744	test-ndcg@5:0.735598	test-ndcg@10:0.778837
+[08:29:04] boosting round 357, 376.93 sec elapsed
+[08:29:06] [357]	test-ndcg@1:0.716426	test-ndcg@3:0.717112	test-ndcg@5:0.735745	test-ndcg@10:0.778835
+[08:29:06] boosting round 358, 377.984 sec elapsed
+[08:29:07] [358]	test-ndcg@1:0.716356	test-ndcg@3:0.717085	test-ndcg@5:0.735771	test-ndcg@10:0.778739
+[08:29:07] boosting round 359, 379.039 sec elapsed
+[08:29:08] [359]	test-ndcg@1:0.716820	test-ndcg@3:0.717183	test-ndcg@5:0.735770	test-ndcg@10:0.778778
+[08:29:08] boosting round 360, 380.082 sec elapsed
+[08:29:09] [360]	test-ndcg@1:0.716787	test-ndcg@3:0.717257	test-ndcg@5:0.735782	test-ndcg@10:0.778775
+[08:29:09] boosting round 361, 381.105 sec elapsed
+[08:29:10] [361]	test-ndcg@1:0.716692	test-ndcg@3:0.717048	test-ndcg@5:0.735720	test-ndcg@10:0.778684
+[08:29:10] boosting round 362, 382.162 sec elapsed
+[08:29:11] [362]	test-ndcg@1:0.717046	test-ndcg@3:0.717105	test-ndcg@5:0.735818	test-ndcg@10:0.778802
+[08:29:11] boosting round 363, 383.178 sec elapsed
+[08:29:12] [363]	test-ndcg@1:0.716780	test-ndcg@3:0.717123	test-ndcg@5:0.735854	test-ndcg@10:0.778699
+[08:29:12] boosting round 364, 384.229 sec elapsed
+[08:29:13] [364]	test-ndcg@1:0.716862	test-ndcg@3:0.717079	test-ndcg@5:0.735924	test-ndcg@10:0.778742
+[08:29:13] boosting round 365, 385.252 sec elapsed
+[08:29:14] [365]	test-ndcg@1:0.716712	test-ndcg@3:0.716982	test-ndcg@5:0.735819	test-ndcg@10:0.778834
+[08:29:14] boosting round 366, 386.294 sec elapsed
+[08:29:15] [366]	test-ndcg@1:0.716998	test-ndcg@3:0.716926	test-ndcg@5:0.735751	test-ndcg@10:0.778914
+[08:29:15] boosting round 367, 387.316 sec elapsed
+[08:29:16] [367]	test-ndcg@1:0.716460	test-ndcg@3:0.716815	test-ndcg@5:0.735627	test-ndcg@10:0.778826
+[08:29:16] boosting round 368, 388.358 sec elapsed
+[08:29:17] [368]	test-ndcg@1:0.716487	test-ndcg@3:0.716889	test-ndcg@5:0.735606	test-ndcg@10:0.778930
+[08:29:17] boosting round 369, 389.394 sec elapsed
+[08:29:18] [369]	test-ndcg@1:0.716487	test-ndcg@3:0.716929	test-ndcg@5:0.735555	test-ndcg@10:0.778922
+[08:29:18] boosting round 370, 390.413 sec elapsed
+[08:29:19] [370]	test-ndcg@1:0.716897	test-ndcg@3:0.716996	test-ndcg@5:0.735760	test-ndcg@10:0.779037
+[08:29:19] boosting round 371, 391.445 sec elapsed
+[08:29:20] [371]	test-ndcg@1:0.716067	test-ndcg@3:0.716600	test-ndcg@5:0.735660	test-ndcg@10:0.778834
+[08:29:20] boosting round 372, 392.513 sec elapsed
+[08:29:21] [372]	test-ndcg@1:0.716401	test-ndcg@3:0.716575	test-ndcg@5:0.735670	test-ndcg@10:0.778851
+[08:29:21] boosting round 373, 393.544 sec elapsed
+[08:29:22] [373]	test-ndcg@1:0.716722	test-ndcg@3:0.716619	test-ndcg@5:0.735824	test-ndcg@10:0.778885
+[08:29:22] boosting round 374, 394.593 sec elapsed
+[08:29:23] [374]	test-ndcg@1:0.716483	test-ndcg@3:0.716702	test-ndcg@5:0.735875	test-ndcg@10:0.779103
+[08:29:23] boosting round 375, 395.641 sec elapsed
+[08:29:24] [375]	test-ndcg@1:0.717054	test-ndcg@3:0.717019	test-ndcg@5:0.735913	test-ndcg@10:0.779130
+[08:29:24] boosting round 376, 396.688 sec elapsed
+[08:29:25] [376]	test-ndcg@1:0.717369	test-ndcg@3:0.717163	test-ndcg@5:0.736001	test-ndcg@10:0.779202
+[08:29:25] boosting round 377, 397.748 sec elapsed
+[08:29:26] [377]	test-ndcg@1:0.717558	test-ndcg@3:0.717256	test-ndcg@5:0.736101	test-ndcg@10:0.779282
+[08:29:26] boosting round 378, 398.794 sec elapsed
+[08:29:27] [378]	test-ndcg@1:0.717824	test-ndcg@3:0.717400	test-ndcg@5:0.736042	test-ndcg@10:0.779299
+[08:29:27] boosting round 379, 399.821 sec elapsed
+[08:29:28] [379]	test-ndcg@1:0.718233	test-ndcg@3:0.717409	test-ndcg@5:0.736296	test-ndcg@10:0.779396
+[08:29:28] boosting round 380, 400.865 sec elapsed
+[08:29:29] [380]	test-ndcg@1:0.718290	test-ndcg@3:0.717291	test-ndcg@5:0.736316	test-ndcg@10:0.779289
+[08:29:29] boosting round 381, 401.921 sec elapsed
+[08:29:30] [381]	test-ndcg@1:0.718152	test-ndcg@3:0.717301	test-ndcg@5:0.736403	test-ndcg@10:0.779286
+[08:29:30] boosting round 382, 402.945 sec elapsed
+[08:29:32] [382]	test-ndcg@1:0.717834	test-ndcg@3:0.717103	test-ndcg@5:0.736381	test-ndcg@10:0.779285
+[08:29:32] boosting round 383, 403.975 sec elapsed
+[08:29:33] [383]	test-ndcg@1:0.718053	test-ndcg@3:0.717416	test-ndcg@5:0.736374	test-ndcg@10:0.779353
+[08:29:33] boosting round 384, 405.019 sec elapsed
+[08:29:34] [384]	test-ndcg@1:0.718428	test-ndcg@3:0.717376	test-ndcg@5:0.736340	test-ndcg@10:0.779523
+[08:29:34] boosting round 385, 406.069 sec elapsed
+[08:29:35] [385]	test-ndcg@1:0.718793	test-ndcg@3:0.717237	test-ndcg@5:0.736443	test-ndcg@10:0.779444
+[08:29:35] boosting round 386, 407.124 sec elapsed
+[08:29:36] [386]	test-ndcg@1:0.719279	test-ndcg@3:0.717334	test-ndcg@5:0.736508	test-ndcg@10:0.779543
+[08:29:36] boosting round 387, 408.14 sec elapsed
+[08:29:37] [387]	test-ndcg@1:0.719144	test-ndcg@3:0.717390	test-ndcg@5:0.736625	test-ndcg@10:0.779456
+[08:29:37] boosting round 388, 409.202 sec elapsed
+[08:29:38] [388]	test-ndcg@1:0.719253	test-ndcg@3:0.717516	test-ndcg@5:0.736796	test-ndcg@10:0.779631
+[08:29:38] boosting round 389, 410.242 sec elapsed
+[08:29:39] [389]	test-ndcg@1:0.719010	test-ndcg@3:0.717453	test-ndcg@5:0.736783	test-ndcg@10:0.779665
+[08:29:39] boosting round 390, 411.279 sec elapsed
+[08:29:40] [390]	test-ndcg@1:0.718580	test-ndcg@3:0.717325	test-ndcg@5:0.736700	test-ndcg@10:0.779512
+[08:29:40] boosting round 391, 412.32 sec elapsed
+[08:29:41] [391]	test-ndcg@1:0.718526	test-ndcg@3:0.717542	test-ndcg@5:0.736733	test-ndcg@10:0.779518
+[08:29:41] boosting round 392, 413.364 sec elapsed
+[08:29:42] [392]	test-ndcg@1:0.719043	test-ndcg@3:0.717594	test-ndcg@5:0.736847	test-ndcg@10:0.779520
+[08:29:42] boosting round 393, 414.394 sec elapsed
+[08:29:43] [393]	test-ndcg@1:0.718833	test-ndcg@3:0.717699	test-ndcg@5:0.736595	test-ndcg@10:0.779455
+[08:29:43] boosting round 394, 415.444 sec elapsed
+[08:29:44] [394]	test-ndcg@1:0.718901	test-ndcg@3:0.717694	test-ndcg@5:0.736719	test-ndcg@10:0.779457
+[08:29:44] boosting round 395, 416.47 sec elapsed
+[08:29:45] [395]	test-ndcg@1:0.718744	test-ndcg@3:0.717749	test-ndcg@5:0.736761	test-ndcg@10:0.779340
+[08:29:45] boosting round 396, 417.516 sec elapsed
+[08:29:46] [396]	test-ndcg@1:0.718815	test-ndcg@3:0.717425	test-ndcg@5:0.736713	test-ndcg@10:0.779297
+[08:29:46] boosting round 397, 418.57 sec elapsed
+[08:29:47] [397]	test-ndcg@1:0.719164	test-ndcg@3:0.717458	test-ndcg@5:0.736587	test-ndcg@10:0.779357
+[08:29:47] boosting round 398, 419.638 sec elapsed
+[08:29:48] [398]	test-ndcg@1:0.719388	test-ndcg@3:0.717673	test-ndcg@5:0.736789	test-ndcg@10:0.779469
+[08:29:48] boosting round 399, 420.663 sec elapsed
+[08:29:49] [399]	test-ndcg@1:0.719483	test-ndcg@3:0.717311	test-ndcg@5:0.736674	test-ndcg@10:0.779377
+[08:29:49] boosting round 400, 421.692 sec elapsed
+[08:29:50] [400]	test-ndcg@1:0.719421	test-ndcg@3:0.717325	test-ndcg@5:0.736619	test-ndcg@10:0.779429
+[08:29:50] boosting round 401, 422.713 sec elapsed
+[08:29:51] [401]	test-ndcg@1:0.719404	test-ndcg@3:0.717547	test-ndcg@5:0.736735	test-ndcg@10:0.779527
+[08:29:51] boosting round 402, 423.747 sec elapsed
+[08:29:52] [402]	test-ndcg@1:0.719485	test-ndcg@3:0.717587	test-ndcg@5:0.736756	test-ndcg@10:0.779586
+[08:29:52] boosting round 403, 424.77 sec elapsed
+[08:29:53] [403]	test-ndcg@1:0.719288	test-ndcg@3:0.717494	test-ndcg@5:0.736745	test-ndcg@10:0.779471
+[08:29:53] boosting round 404, 425.815 sec elapsed
+[08:29:54] [404]	test-ndcg@1:0.718909	test-ndcg@3:0.717444	test-ndcg@5:0.736716	test-ndcg@10:0.779442
+[08:29:54] boosting round 405, 426.852 sec elapsed
+[08:29:55] [405]	test-ndcg@1:0.719157	test-ndcg@3:0.717669	test-ndcg@5:0.736769	test-ndcg@10:0.779511
+[08:29:55] boosting round 406, 427.895 sec elapsed
+[08:29:56] [406]	test-ndcg@1:0.719557	test-ndcg@3:0.717935	test-ndcg@5:0.737050	test-ndcg@10:0.779662
+[08:29:56] boosting round 407, 428.935 sec elapsed
+[08:29:57] [407]	test-ndcg@1:0.719423	test-ndcg@3:0.717935	test-ndcg@5:0.736966	test-ndcg@10:0.779656
+[08:29:57] boosting round 408, 429.958 sec elapsed
+[08:29:59] [408]	test-ndcg@1:0.719309	test-ndcg@3:0.717869	test-ndcg@5:0.736879	test-ndcg@10:0.779602
+[08:29:59] boosting round 409, 430.978 sec elapsed
+[08:30:00] [409]	test-ndcg@1:0.718971	test-ndcg@3:0.717462	test-ndcg@5:0.736625	test-ndcg@10:0.779434
+[08:30:00] boosting round 410, 432.026 sec elapsed
+[08:30:01] [410]	test-ndcg@1:0.718977	test-ndcg@3:0.717324	test-ndcg@5:0.736789	test-ndcg@10:0.779426
+[08:30:01] boosting round 411, 433.07 sec elapsed
+[08:30:02] [411]	test-ndcg@1:0.718866	test-ndcg@3:0.717282	test-ndcg@5:0.736703	test-ndcg@10:0.779416
+[08:30:02] boosting round 412, 434.087 sec elapsed
+[08:30:03] [412]	test-ndcg@1:0.718324	test-ndcg@3:0.717273	test-ndcg@5:0.736645	test-ndcg@10:0.779403
+[08:30:03] boosting round 413, 435.131 sec elapsed
+[08:30:04] [413]	test-ndcg@1:0.717989	test-ndcg@3:0.717320	test-ndcg@5:0.736716	test-ndcg@10:0.779474
+[08:30:04] boosting round 414, 436.191 sec elapsed
+[08:30:05] [414]	test-ndcg@1:0.718321	test-ndcg@3:0.717320	test-ndcg@5:0.736688	test-ndcg@10:0.779546
+[08:30:05] boosting round 415, 437.213 sec elapsed
+[08:30:06] [415]	test-ndcg@1:0.718098	test-ndcg@3:0.717375	test-ndcg@5:0.736656	test-ndcg@10:0.779464
+[08:30:06] boosting round 416, 438.241 sec elapsed
+[08:30:07] [416]	test-ndcg@1:0.718075	test-ndcg@3:0.717432	test-ndcg@5:0.736535	test-ndcg@10:0.779369
+[08:30:07] boosting round 417, 439.262 sec elapsed
+[08:30:08] [417]	test-ndcg@1:0.718267	test-ndcg@3:0.717205	test-ndcg@5:0.736461	test-ndcg@10:0.779348
+[08:30:08] boosting round 418, 440.304 sec elapsed
+[08:30:09] [418]	test-ndcg@1:0.717937	test-ndcg@3:0.717306	test-ndcg@5:0.736430	test-ndcg@10:0.779286
+[08:30:09] boosting round 419, 441.34 sec elapsed
+[08:30:10] [419]	test-ndcg@1:0.717916	test-ndcg@3:0.717296	test-ndcg@5:0.736472	test-ndcg@10:0.779273
+[08:30:10] boosting round 420, 442.356 sec elapsed
+[08:30:11] [420]	test-ndcg@1:0.717645	test-ndcg@3:0.717051	test-ndcg@5:0.736548	test-ndcg@10:0.779304
+[08:30:11] boosting round 421, 443.394 sec elapsed
+[08:30:12] [421]	test-ndcg@1:0.717836	test-ndcg@3:0.717171	test-ndcg@5:0.736624	test-ndcg@10:0.779344
+[08:30:12] boosting round 422, 444.418 sec elapsed
+[08:30:13] [422]	test-ndcg@1:0.717590	test-ndcg@3:0.717070	test-ndcg@5:0.736612	test-ndcg@10:0.779284
+[08:30:13] boosting round 423, 445.453 sec elapsed
+[08:30:14] [423]	test-ndcg@1:0.717427	test-ndcg@3:0.717077	test-ndcg@5:0.736520	test-ndcg@10:0.779304
+[08:30:14] boosting round 424, 446.478 sec elapsed
+[08:30:15] [424]	test-ndcg@1:0.717584	test-ndcg@3:0.717587	test-ndcg@5:0.736762	test-ndcg@10:0.779506
+[08:30:15] boosting round 425, 447.53 sec elapsed
+[08:30:16] [425]	test-ndcg@1:0.717618	test-ndcg@3:0.717617	test-ndcg@5:0.736773	test-ndcg@10:0.779553
+[08:30:16] boosting round 426, 448.554 sec elapsed
+[08:30:17] [426]	test-ndcg@1:0.717672	test-ndcg@3:0.717661	test-ndcg@5:0.736795	test-ndcg@10:0.779522
+[08:30:17] boosting round 427, 449.575 sec elapsed
+[08:30:18] [427]	test-ndcg@1:0.717399	test-ndcg@3:0.717790	test-ndcg@5:0.736672	test-ndcg@10:0.779557
+[08:30:18] boosting round 428, 450.612 sec elapsed
+[08:30:19] [428]	test-ndcg@1:0.717504	test-ndcg@3:0.717693	test-ndcg@5:0.736842	test-ndcg@10:0.779600
+[08:30:19] boosting round 429, 451.643 sec elapsed
+[08:30:20] [429]	test-ndcg@1:0.717843	test-ndcg@3:0.717543	test-ndcg@5:0.736905	test-ndcg@10:0.779563
+[08:30:20] boosting round 430, 452.679 sec elapsed
+[08:30:21] [430]	test-ndcg@1:0.717824	test-ndcg@3:0.717335	test-ndcg@5:0.736739	test-ndcg@10:0.779581
+[08:30:21] boosting round 431, 453.731 sec elapsed
+[08:30:22] [431]	test-ndcg@1:0.717680	test-ndcg@3:0.717206	test-ndcg@5:0.736846	test-ndcg@10:0.779537
+[08:30:22] boosting round 432, 454.782 sec elapsed
+[08:30:23] [432]	test-ndcg@1:0.718016	test-ndcg@3:0.717497	test-ndcg@5:0.736824	test-ndcg@10:0.779548
+[08:30:23] boosting round 433, 455.829 sec elapsed
+[08:30:24] [433]	test-ndcg@1:0.718418	test-ndcg@3:0.717526	test-ndcg@5:0.736743	test-ndcg@10:0.779600
+[08:30:24] boosting round 434, 456.86 sec elapsed
+[08:30:25] [434]	test-ndcg@1:0.718336	test-ndcg@3:0.717419	test-ndcg@5:0.736960	test-ndcg@10:0.779638
+[08:30:25] boosting round 435, 457.93 sec elapsed
+[08:30:27] [435]	test-ndcg@1:0.717689	test-ndcg@3:0.717189	test-ndcg@5:0.736808	test-ndcg@10:0.779489
+[08:30:27] boosting round 436, 458.982 sec elapsed
+[08:30:28] [436]	test-ndcg@1:0.718289	test-ndcg@3:0.717380	test-ndcg@5:0.736985	test-ndcg@10:0.779598
+[08:30:28] boosting round 437, 460.047 sec elapsed
+[08:30:29] [437]	test-ndcg@1:0.718002	test-ndcg@3:0.717523	test-ndcg@5:0.736969	test-ndcg@10:0.779524
+[08:30:29] boosting round 438, 461.082 sec elapsed
+[08:30:30] [438]	test-ndcg@1:0.718114	test-ndcg@3:0.717383	test-ndcg@5:0.736828	test-ndcg@10:0.779466
+[08:30:30] boosting round 439, 462.11 sec elapsed
+[08:30:31] [439]	test-ndcg@1:0.717252	test-ndcg@3:0.717120	test-ndcg@5:0.736739	test-ndcg@10:0.779339
+[08:30:31] boosting round 440, 463.175 sec elapsed
+[08:30:32] [440]	test-ndcg@1:0.717776	test-ndcg@3:0.717490	test-ndcg@5:0.736704	test-ndcg@10:0.779498
+[08:30:32] boosting round 441, 464.241 sec elapsed
+[08:30:33] [441]	test-ndcg@1:0.717811	test-ndcg@3:0.717456	test-ndcg@5:0.736732	test-ndcg@10:0.779470
+[08:30:33] boosting round 442, 465.264 sec elapsed
+[08:30:34] [442]	test-ndcg@1:0.717118	test-ndcg@3:0.717059	test-ndcg@5:0.736235	test-ndcg@10:0.779177
+[08:30:34] boosting round 443, 466.31 sec elapsed
+[08:30:35] [443]	test-ndcg@1:0.717023	test-ndcg@3:0.717039	test-ndcg@5:0.736474	test-ndcg@10:0.779202
+[08:30:35] boosting round 444, 467.339 sec elapsed
+[08:30:36] [444]	test-ndcg@1:0.717091	test-ndcg@3:0.716997	test-ndcg@5:0.736518	test-ndcg@10:0.779258
+[08:30:36] boosting round 445, 468.366 sec elapsed
+[08:30:37] [445]	test-ndcg@1:0.717254	test-ndcg@3:0.717062	test-ndcg@5:0.736611	test-ndcg@10:0.779243
+[08:30:37] boosting round 446, 469.386 sec elapsed
+[08:30:38] [446]	test-ndcg@1:0.716805	test-ndcg@3:0.717034	test-ndcg@5:0.736585	test-ndcg@10:0.779166
+[08:30:38] boosting round 447, 470.454 sec elapsed
+[08:30:39] [447]	test-ndcg@1:0.716757	test-ndcg@3:0.717140	test-ndcg@5:0.736685	test-ndcg@10:0.779166
+[08:30:39] boosting round 448, 471.47 sec elapsed
+[08:30:40] [448]	test-ndcg@1:0.716709	test-ndcg@3:0.717029	test-ndcg@5:0.736679	test-ndcg@10:0.779177
+[08:30:40] boosting round 449, 472.485 sec elapsed
+[08:30:41] [449]	test-ndcg@1:0.716254	test-ndcg@3:0.717004	test-ndcg@5:0.736461	test-ndcg@10:0.779165
+[08:30:41] boosting round 450, 473.526 sec elapsed
+[08:30:42] [450]	test-ndcg@1:0.716513	test-ndcg@3:0.717108	test-ndcg@5:0.736422	test-ndcg@10:0.779189
+[08:30:42] boosting round 451, 474.565 sec elapsed
+[08:30:43] [451]	test-ndcg@1:0.715655	test-ndcg@3:0.716985	test-ndcg@5:0.736484	test-ndcg@10:0.779070
+[08:30:43] boosting round 452, 475.602 sec elapsed
+[08:30:44] [452]	test-ndcg@1:0.716207	test-ndcg@3:0.716988	test-ndcg@5:0.736504	test-ndcg@10:0.779184
+[08:30:44] boosting round 453, 476.641 sec elapsed
+[08:30:45] [453]	test-ndcg@1:0.716190	test-ndcg@3:0.717293	test-ndcg@5:0.736430	test-ndcg@10:0.779198
+[08:30:45] boosting round 454, 477.681 sec elapsed
+[08:30:46] [454]	test-ndcg@1:0.716156	test-ndcg@3:0.717449	test-ndcg@5:0.736454	test-ndcg@10:0.779177
+[08:30:46] boosting round 455, 478.697 sec elapsed
+[08:30:47] [455]	test-ndcg@1:0.716183	test-ndcg@3:0.717296	test-ndcg@5:0.736517	test-ndcg@10:0.779179
+[08:30:47] boosting round 456, 479.72 sec elapsed
+[08:30:48] [456]	test-ndcg@1:0.716068	test-ndcg@3:0.717265	test-ndcg@5:0.736528	test-ndcg@10:0.779169
+[08:30:48] boosting round 457, 480.74 sec elapsed
+[08:30:49] [457]	test-ndcg@1:0.715946	test-ndcg@3:0.717099	test-ndcg@5:0.736601	test-ndcg@10:0.779092
+[08:30:49] boosting round 458, 481.767 sec elapsed
+[08:30:50] [458]	test-ndcg@1:0.716484	test-ndcg@3:0.717110	test-ndcg@5:0.736641	test-ndcg@10:0.779269
+[08:30:50] boosting round 459, 482.84 sec elapsed
+[08:30:51] [459]	test-ndcg@1:0.716355	test-ndcg@3:0.717119	test-ndcg@5:0.736598	test-ndcg@10:0.779332
+[08:30:51] boosting round 460, 483.857 sec elapsed
+[08:30:52] [460]	test-ndcg@1:0.716389	test-ndcg@3:0.717101	test-ndcg@5:0.736688	test-ndcg@10:0.779213
+[08:30:52] boosting round 461, 484.913 sec elapsed
+[08:30:53] [461]	test-ndcg@1:0.716648	test-ndcg@3:0.717383	test-ndcg@5:0.736809	test-ndcg@10:0.779446
+[08:30:53] boosting round 462, 485.956 sec elapsed
+[08:30:55] [462]	test-ndcg@1:0.716735	test-ndcg@3:0.717349	test-ndcg@5:0.736824	test-ndcg@10:0.779511
+[08:30:55] boosting round 463, 487.004 sec elapsed
+[08:30:56] [463]	test-ndcg@1:0.716409	test-ndcg@3:0.717340	test-ndcg@5:0.736622	test-ndcg@10:0.779351
+[08:30:56] boosting round 464, 488.045 sec elapsed
+[08:30:57] [464]	test-ndcg@1:0.717211	test-ndcg@3:0.717735	test-ndcg@5:0.736959	test-ndcg@10:0.779535
+[08:30:57] boosting round 465, 489.098 sec elapsed
+[08:30:58] [465]	test-ndcg@1:0.717191	test-ndcg@3:0.717570	test-ndcg@5:0.736958	test-ndcg@10:0.779568
+[08:30:58] boosting round 466, 490.143 sec elapsed
+[08:30:59] [466]	test-ndcg@1:0.716907	test-ndcg@3:0.717218	test-ndcg@5:0.736593	test-ndcg@10:0.779432
+[08:30:59] boosting round 467, 491.198 sec elapsed
+[08:31:00] [467]	test-ndcg@1:0.716762	test-ndcg@3:0.717596	test-ndcg@5:0.736660	test-ndcg@10:0.779553
+[08:31:00] boosting round 468, 492.246 sec elapsed
+[08:31:01] [468]	test-ndcg@1:0.716844	test-ndcg@3:0.717725	test-ndcg@5:0.736776	test-ndcg@10:0.779581
+[08:31:01] boosting round 469, 493.287 sec elapsed
+[08:31:02] [469]	test-ndcg@1:0.716728	test-ndcg@3:0.717608	test-ndcg@5:0.736721	test-ndcg@10:0.779555
+[08:31:02] boosting round 470, 494.308 sec elapsed
+[08:31:03] [470]	test-ndcg@1:0.716321	test-ndcg@3:0.717640	test-ndcg@5:0.736639	test-ndcg@10:0.779492
+[08:31:03] boosting round 471, 495.338 sec elapsed
+[08:31:04] [471]	test-ndcg@1:0.716742	test-ndcg@3:0.717656	test-ndcg@5:0.736797	test-ndcg@10:0.779608
+[08:31:04] boosting round 472, 496.383 sec elapsed
+[08:31:05] [472]	test-ndcg@1:0.717013	test-ndcg@3:0.717525	test-ndcg@5:0.736820	test-ndcg@10:0.779607
+[08:31:05] boosting round 473, 497.458 sec elapsed
+[08:31:06] [473]	test-ndcg@1:0.716987	test-ndcg@3:0.717455	test-ndcg@5:0.736791	test-ndcg@10:0.779469
+[08:31:06] boosting round 474, 498.485 sec elapsed
+[08:31:07] [474]	test-ndcg@1:0.716857	test-ndcg@3:0.717447	test-ndcg@5:0.736841	test-ndcg@10:0.779495
+[08:31:07] boosting round 475, 499.51 sec elapsed
+[08:31:08] [475]	test-ndcg@1:0.716947	test-ndcg@3:0.717296	test-ndcg@5:0.736828	test-ndcg@10:0.779502
+[08:31:08] boosting round 476, 500.542 sec elapsed
+[08:31:09] [476]	test-ndcg@1:0.717211	test-ndcg@3:0.717523	test-ndcg@5:0.736786	test-ndcg@10:0.779615
+[08:31:09] boosting round 477, 501.581 sec elapsed
+[08:31:10] [477]	test-ndcg@1:0.717335	test-ndcg@3:0.717530	test-ndcg@5:0.736887	test-ndcg@10:0.779630
+[08:31:10] boosting round 478, 502.596 sec elapsed
+[08:31:11] [478]	test-ndcg@1:0.717533	test-ndcg@3:0.717770	test-ndcg@5:0.736943	test-ndcg@10:0.779700
+[08:31:11] boosting round 479, 503.629 sec elapsed
+[08:31:12] [479]	test-ndcg@1:0.717410	test-ndcg@3:0.717780	test-ndcg@5:0.736883	test-ndcg@10:0.779677
+[08:31:12] boosting round 480, 504.684 sec elapsed
+[08:31:13] [480]	test-ndcg@1:0.717122	test-ndcg@3:0.717449	test-ndcg@5:0.736908	test-ndcg@10:0.779649
+[08:31:13] boosting round 481, 505.755 sec elapsed
+[08:31:14] [481]	test-ndcg@1:0.717590	test-ndcg@3:0.717721	test-ndcg@5:0.737094	test-ndcg@10:0.779694
+[08:31:14] boosting round 482, 506.778 sec elapsed
+[08:31:15] [482]	test-ndcg@1:0.717773	test-ndcg@3:0.717977	test-ndcg@5:0.737203	test-ndcg@10:0.779640
+[08:31:15] boosting round 483, 507.818 sec elapsed
+[08:31:16] [483]	test-ndcg@1:0.717522	test-ndcg@3:0.717721	test-ndcg@5:0.737089	test-ndcg@10:0.779589
+[08:31:16] boosting round 484, 508.861 sec elapsed
+[08:31:17] [484]	test-ndcg@1:0.718145	test-ndcg@3:0.717911	test-ndcg@5:0.737172	test-ndcg@10:0.779760
+[08:31:17] boosting round 485, 509.915 sec elapsed
+[08:31:19] [485]	test-ndcg@1:0.717989	test-ndcg@3:0.718080	test-ndcg@5:0.737135	test-ndcg@10:0.779729
+[08:31:19] boosting round 486, 510.98 sec elapsed
+[08:31:20] [486]	test-ndcg@1:0.717770	test-ndcg@3:0.718106	test-ndcg@5:0.737156	test-ndcg@10:0.779734
+[08:31:20] boosting round 487, 512.009 sec elapsed
+[08:31:21] [487]	test-ndcg@1:0.717375	test-ndcg@3:0.717868	test-ndcg@5:0.737104	test-ndcg@10:0.779625
+[08:31:21] boosting round 488, 513.078 sec elapsed
+[08:31:22] [488]	test-ndcg@1:0.717642	test-ndcg@3:0.717814	test-ndcg@5:0.737083	test-ndcg@10:0.779673
+[08:31:22] boosting round 489, 514.126 sec elapsed
+[08:31:23] [489]	test-ndcg@1:0.717749	test-ndcg@3:0.717725	test-ndcg@5:0.737240	test-ndcg@10:0.779742
+[08:31:23] boosting round 490, 515.174 sec elapsed
+[08:31:24] [490]	test-ndcg@1:0.717699	test-ndcg@3:0.717724	test-ndcg@5:0.737175	test-ndcg@10:0.779887
+[08:31:24] boosting round 491, 516.214 sec elapsed
+[08:31:25] [491]	test-ndcg@1:0.718181	test-ndcg@3:0.717903	test-ndcg@5:0.737149	test-ndcg@10:0.779970
+[08:31:25] boosting round 492, 517.237 sec elapsed
+[08:31:26] [492]	test-ndcg@1:0.718200	test-ndcg@3:0.717862	test-ndcg@5:0.737150	test-ndcg@10:0.779894
+[08:31:26] boosting round 493, 518.282 sec elapsed
+[08:31:27] [493]	test-ndcg@1:0.718384	test-ndcg@3:0.717787	test-ndcg@5:0.737200	test-ndcg@10:0.779921
+[08:31:27] boosting round 494, 519.305 sec elapsed
+[08:31:28] [494]	test-ndcg@1:0.718261	test-ndcg@3:0.717770	test-ndcg@5:0.737254	test-ndcg@10:0.779943
+[08:31:28] boosting round 495, 520.333 sec elapsed
+[08:31:29] [495]	test-ndcg@1:0.718354	test-ndcg@3:0.717895	test-ndcg@5:0.737189	test-ndcg@10:0.779916
+[08:31:29] boosting round 496, 521.365 sec elapsed
+[08:31:30] [496]	test-ndcg@1:0.717912	test-ndcg@3:0.717933	test-ndcg@5:0.737205	test-ndcg@10:0.779912
+[08:31:30] boosting round 497, 522.413 sec elapsed
+[08:31:31] [497]	test-ndcg@1:0.717541	test-ndcg@3:0.718046	test-ndcg@5:0.737276	test-ndcg@10:0.779868
+[08:31:31] boosting round 498, 523.465 sec elapsed
+[08:31:32] [498]	test-ndcg@1:0.717603	test-ndcg@3:0.718275	test-ndcg@5:0.737237	test-ndcg@10:0.779908
+[08:31:32] boosting round 499, 524.513 sec elapsed
+[08:31:33] [499]	test-ndcg@1:0.717705	test-ndcg@3:0.718106	test-ndcg@5:0.737230	test-ndcg@10:0.780016
+[08:31:33] update end, 525.556 sec in all
