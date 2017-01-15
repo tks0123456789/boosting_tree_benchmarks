@@ -1,3 +1,0 @@
-[22:29:12] 10500000x28 matrix with 294000000 entries loaded from ../data/higgs.train
-[22:29:12] boosting round 0, 0 sec elapsed
-CUDA error: /home/tks/download/xgb/xgboost/plugin/updater_gpu/src/device_helpers.cuh(383): out of memory
