@@ -2,7 +2,7 @@
 
 ## Benchmarks
 
-Time for 500 boosting iterations in seconds. XGBoost version is [1957e6f](https://github.com/dmlc/xgboost/tree/1957e6fb4dd823f94251e7378abef03cba05f545).
+Time for 500 boosting iterations in seconds. XGBoost version is [49ff7c1](https://github.com/dmlc/xgboost/tree/49ff7c1649eef4cec97c1569f1d8720f0050d72b).
 
 |Dataset | Instances | Features | CPU | GPU | hist(gamma=1) | hist(gamma=0) |
 |--- | --- | --- | --- | --- | --- | --- |
