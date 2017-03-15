@@ -10,7 +10,8 @@ Time for 500 boosting iterations in seconds. XGBoost version is [49ff7c1](https:
 |Higgs | 10,500,000 | 28 | 10027 [log](xgboost/xgboost_higgs_speed.log)| Error [log](xgboost/xgboost_gpu_higgs_speed.log)| 593 [log](xgboost/xgboost_hist_gamma_1_higgs_speed.log)| 639 [log](xgboost/xgboost_hist_higgs_speed.log)|
 
 
-###Environment
+### Environment
+
 |Date        |2017/01/15|
 |------------|----------|
 |CPU         |i7-4790K  |
